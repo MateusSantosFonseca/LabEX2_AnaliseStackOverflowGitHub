@@ -6,7 +6,7 @@ query_issues = """
             primaryLanguage {
                 name
             }
-        issues(orderBy: {field: COMMENTS, direction: DESC}, first: 50) {
+        issues(orderBy: {field: COMMENTS, direction: {placeholder_orientacao_issue}}, first: 50) {
             nodes {
                 id
                 number
