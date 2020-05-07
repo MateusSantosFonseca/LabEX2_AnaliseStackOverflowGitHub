@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+53,MDU6SXNzdWU3NzUxMjEyNQ==,0,Documentation change in DAO pattern
+59,MDU6SXNzdWU4OTEyMzc0MA==,0,Add code coverage analysis
+67,MDU6SXNzdWU5MDQ2Mzk4MA==,0,Binding Properties pattern
+68,MDU6SXNzdWU5MDQ2NDQyMw==,0,Async Method Invocation pattern
+78,MDU6SXNzdWU5MDQ2NjU2MQ==,0,Proactor pattern
+89,MDU6SXNzdWU5MDQ3MjIwOQ==,0,Business Delegate pattern
+90,MDU6SXNzdWU5MDQ3MjMzMg==,0,Front Controller pattern
+107,MDU6SXNzdWU5NjY3OTk0Mg==,0,JavaDoc improvements
+108,MDU6SXNzdWU5NjY4MDA3MQ==,0,Consistent package naming throughout the examples
+111,MDU6SXNzdWU5Njg4MjY3Ng==,0,Step Builder pattern
+115,MDU6SXNzdWU5NzUwOTQ5OA==,0,Canonical Data Model (EIP)
+116,MDU6SXNzdWU5NzUwOTU1NA==,0,Channel Adapter (EIP)
+117,MDU6SXNzdWU5NzUwOTY0MA==,0,Channel Purger (EIP)
+118,MDU6SXNzdWU5NzUwOTcwNQ==,0,Claim Check (EIP)
+121,MDU6SXNzdWU5NzUwOTkyNQ==,0,Composed Message Processor (EIP)
+122,MDU6SXNzdWU5NzUxMDAyNQ==,0,Content Enricher (EIP)
+123,MDU6SXNzdWU5NzUxMDA4MA==,0,Content Filter (EIP)
+124,MDU6SXNzdWU5NzUxMDE1Mg==,0,Content-Based Router (EIP)
+125,MDU6SXNzdWU5NzUxMDI1Mw==,0,Control Bus (EIP)
+126,MDU6SXNzdWU5NzUxMDM1Mg==,0,Correlation Identifier (EIP)
+127,MDU6SXNzdWU5NzUxMDQ0Nw==,0,Datatype Channel (EIP)
+129,MDU6SXNzdWU5NzUxMDU2OA==,0,Detour (EIP)
+130,MDU6SXNzdWU5NzUxMDYxMw==,0,Document Message (EIP)
+131,MDU6SXNzdWU5NzUxMDY3OQ==,0,Durable Subscriber (EIP)
+133,MDU6SXNzdWU5NzUxMDgyNw==,0,Envelope Wrapper (EIP)
+134,MDU6SXNzdWU5NzUxMDg3Nw==,0,Event Message (EIP)
+135,MDU6SXNzdWU5NzUxMDk0NQ==,0,Event-Driven Consumer (EIP)
+136,MDU6SXNzdWU5NzUxMTAzNw==,0,File Transfer (EIP)
+137,MDU6SXNzdWU5NzUxMTExMw==,0,Format Indicator (EIP)
+139,MDU6SXNzdWU5NzUxMTIyNg==,0,Idempotent Receiver (EIP)
+140,MDU6SXNzdWU5NzUxMTMwNQ==,0,Invalid Message Channel (EIP)
+141,MDU6SXNzdWU5NzUxMTM1NQ==,0,Message Broker (EIP)
+142,MDU6SXNzdWU5NzUxMTQyMg==,0,Message Bus (EIP)
+143,MDU6SXNzdWU5NzUxMTUwMQ==,0,Message Channel (EIP)
+145,MDU6SXNzdWU5NzUxMTY3MQ==,0,Message Endpoint (EIP)
+146,MDU6SXNzdWU5NzUxMTcxMg==,0,Message Expiration (EIP)
+147,MDU6SXNzdWU5NzUxMTc2Mw==,0,Message Filter (EIP)
+148,MDU6SXNzdWU5NzUxMTc5OA==,0,Message History (EIP)
+150,MDU6SXNzdWU5NzUxMTkxNQ==,0,Message Sequence (EIP)
+151,MDU6SXNzdWU5NzUxMTk2OA==,0,Message Store (EIP)
+152,MDU6SXNzdWU5NzUxMjAyMw==,0,Message Translator (EIP)
+153,MDU6SXNzdWU5NzUxMjA2NQ==,0,Message (EIP)
+154,MDU6SXNzdWU5NzUxMjEwOQ==,0,Messaging Bridge (EIP)
+155,MDU6SXNzdWU5NzUxMjE1OA==,0,Messaging Gateway (EIP)
+157,MDU6SXNzdWU5NzUxMjQ5Mg==,0,Normalizer (EIP)
+158,MDU6SXNzdWU5NzUxMjU0Ng==,0,Point-to-Point Channel (EIP)
+159,MDU6SXNzdWU5NzUxMjU4NQ==,0,Polling Consumer (EIP)
+160,MDU6SXNzdWU5NzUxMjYyNg==,0,Process Manager (EIP)
+162,MDU6SXNzdWU5NzUxMjc1MA==,0,Recipient List (EIP)
+163,MDU6SXNzdWU5NzUxMjc5OQ==,0,Remote Procedure Invocation (EIP)

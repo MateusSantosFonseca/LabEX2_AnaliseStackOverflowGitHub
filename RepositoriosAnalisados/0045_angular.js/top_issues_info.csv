@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+1404,MDU6SXNzdWU3MDU0OTU0,235,dynamic element validation
+1460,MDU6SXNzdWU3NTk5NDYy,198,Form model doesn't update on autocomplete
+1699,MDU6SXNzdWU5MjI2ODc3,194,Option on $location to allow hash/path change w/o reloading the route
+9128,MDU6SXNzdWU0MzAwOTQyNA==,163,(iOS 8 GM iPhone5C) TypeError: Attempted to assign to readonly property
+12241,MDU6SXNzdWU5MjA3MTIyOA==,154,Infinite digest on location change on iOS 9 w/ UIWebView (not in Safari/ WKWebView)
+1934,MDU6SXNzdWUxMDUyODg1Mw==,153,Ability to react to progress events of $http XHR
+1375,MDU6SXNzdWU2OTM3MTM4,145,support input[type=file] binding
+12926,MDU6SXNzdWUxMDc4ODg1NzA=,124,New router
+10007,MDU6SXNzdWU0ODQyMzI1Mw==,119,Feature Request: angular.component helper
+1236,MDU6SXNzdWU2MDY4OTk5,117,Support file upload
+1252,MDU6SXNzdWU2MTUxMzA2,106,ng-enabled
+5408,MDU6SXNzdWUyNDI5ODkwMA==,100,feat(ngBindOnce) && feat{ngRepeatOnce} Bind to the DOM once with no watchers
+638,MDU6SXNzdWUyMTUzOTky,96,Support disabling options in select with ng:options
+2095,MDU6SXNzdWUxMTU4ODg2Ng==,95,support resolve option for directives
+4011,MDU6SXNzdWUxOTUxNTA5NQ==,86,ngAnimate 1.2.0-rc2 has performance impact
+1417,MDU6SXNzdWU3MTMwMTAz,86,$location runs into infinite digest under certain circumstances
+6210,MDU6SXNzdWUyNzMzODIwOQ==,85, ngRepeat iterates over object in alphabetical order
+2877,MDU6SXNzdWUxNTE1MTk5Ng==,78,Please publish AngularJS as an NPM module
+1352,MDU6SXNzdWU2NzQwMzY0,78,ngSrc doesn't work properly with HTML5 Video Source tag
+1286,MDU6SXNzdWU2MzkzMjcx,78,orderBy should work for ngRepeat over objects too
+528,MDU6SXNzdWUxNDQ5MDg3,78,Support HTML5 contentEditable attribute
+11015,MDU6SXNzdWU1NzA3MDUyNg==,76,feat($injector): Deferred loading of providers into the injector
+1891,MDU6SXNzdWUxMDM0MzQ1OQ==,76,ngRepeat with DL / DD / DT
+4608,MDU6SXNzdWUyMTQ3MTIyMA==,74,injecting $location rewrites and breaks anchor links
+6039,MDU6SXNzdWUyNjUxOTEzOQ==,73,AngularJS has different request data format from Jquery when send almost same post call
+1159,MDU6SXNzdWU1Njk4MTA2,73,Feature: Cancel $http request
+5489,MDU6SXNzdWUyNDU5ODc3OA==,69,ng-transclude should not create new sibling scope.
+1459,MDU6SXNzdWU3NTc5ODM5,69,Directive fails to insert/replace html when template root element is table row (tr)
+1434,MDU6SXNzdWU3MzA2MTgy,68,"ngMockE2E $httpBackend ""passThrough()"" doesn't work"
+14251,MDU6SXNzdWUxNDEzMjA4OTE=,67,angular-mock 1.5.1 TypeError: undefined is not a constructor (evaluating 'angular.element.cleanData(cleanUpNodes)')
+6251,MDU6SXNzdWUyNzU2MTA0Mw==,67,ngClick using ngTouch fires twice
+950,MDU6SXNzdWU0NTMyMTA1,67,More powerful $cookies service
+5410,MDU6SXNzdWUyNDI5OTA5Ng==,63,[feature request] [angular 1.3] Out of the Box Support for AMD
+4003,MDU6SXNzdWUxOTQ2ODA1Mg==,62,Support asynchronous module.run()
+263,MDU6SXNzdWU1NzY1NDE=,61,forEach should support break
+12267,MDU6SXNzdWU5MjkwNjc1Mg==,60,"Animations not working with 1.4.x releases, ok with 1.3"
+1199,MDU6SXNzdWU1ODIwOTk3,60,Feature: ngTrueValue should accept non-string values
+13664,MDU6SXNzdWUxMjQ2MDk4ODI=,59,REQUEST FOR FEEDBACK: `angular.component()` - default directive controller name
+5892,MDU6SXNzdWUyNTkwNzg4OQ==,59,Add support for the input type=range
+2621,MDU6SXNzdWUxNDE1NTE5NA==,58,$watchCollection newValue always == oldValue
+1463,MDU6SXNzdWU3NjExNzk2,58,$parse removes object keys that begin with $ (dollar sign)
+1388,MDU6SXNzdWU2OTc5Mzgy,55,"encodeUriSegment in resource encodes params, should be optional"
+5411,MDU6SXNzdWUyNDMwMDgwNQ==,55,[Feature Angular 1.3] Support for websockets
+11091,MDU6SXNzdWU1Nzk5NDAwNg==,53,$location.absUrl() returns undefined with base href and html5Mode
+2070,MDU6SXNzdWUxMTM4NjkyNw==,53,$anchorScroll Offset
+734,MDU6SXNzdWUyOTYzNjg2,53,Feature request: a way to detect if Angular finished rendering of HTML DOM
+4919,MDU6SXNzdWUyMjUyODY5MA==,52,Support for CommonJS/AMD/UMD
+4432,MDU6SXNzdWUyMTAxODM5Ng==,52,Register multiple events with Scope.$on
+1779,MDU6SXNzdWU5NzkxNzIx,52,Creating a module twice fails silently
+992,MDU6SXNzdWU0NzcyNTI4,52,$resource POST removing trailing slash

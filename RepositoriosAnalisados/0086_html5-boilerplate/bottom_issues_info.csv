@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+12,MDU6SXNzdWUyMDQwMzE=,0,Stoyan suggest using conditional comments for body classes slows page load 
+248,MDU6SXNzdWU0NjgzMTA=,0,Wrapping broken in ie6 or chrome
+412,MDU6SXNzdWU3MTYyMTg=,0,2px Padding on Textarea in Chrome
+534,MDU6SXNzdWU5NzA2OTY=,0,Proposal for re-ordering of style.css
+540,MDU6SXNzdWU5NzkwNTc=,0,Deflate configuration in .htaccess - x(ml|-component)
+590,MDU6SXNzdWUxMTQxMTQw,0,Strange list properties
+622,MDU6SXNzdWUxMjc1ODM3,0,`php_flag html_errors Off` breaks xdebug
+771,MDU6SXNzdWUxNjc1MTk3,0,Link to handover help in old header is incorrect
+773,MDU6SXNzdWUxNjc2MDA3,0,Coding partner not coming through on coding partner satisfaction survey
+780,MDU6SXNzdWUxNjk5MDMx,0,less-boilerplate
+784,MDU6SXNzdWUxNzA3Mjg4,0,Contextual help should show handover article when in handover
+785,MDU6SXNzdWUxNzA3MzAz,0,Contextual help should show guarantee article when guarantee becomes available
+827,MDU6SXNzdWUyMDc3NjU1,0,MIME type application/x-opera-extension
+883,MDU6SXNzdWUyNTAyNDYw,0,<legend> element needs white-space set
+1014,MDU6SXNzdWUzNTU0NjE1,0,Out of date body{} in Base Styles
+1062,MDU6SXNzdWU0MjI5ODQ5,0,"JSON, SWF and Flash video MIME types?"
+1146,MDU6SXNzdWU1NzExOTI3,0,update modernizr to 2.6
+1156,MDU6SXNzdWU1OTkyNzc5,0,Existing gitattributes setting doesn't always play well with submodules
+1248,MDU6SXNzdWU4MDgwNDQ0,0,tml
+1296,MDU6SXNzdWUxMDQ4MjU1MQ==,0,Change relative links in README
+1323,MDU6SXNzdWUxMTYwNDY1Ng==,0,Using // instead of http:// for Google 404 widget
+1344,MDU6SXNzdWUxMjYzNzUyNA==,0,Replace contents of htaccess docs with link to server-configs repo
+1652,MDU6SXNzdWU1MjcxNjA5Nw==,0,spelling and in DOCS 
+1658,MDU6SXNzdWU1NDE3Njg1Nw==,0,TOC.md .htaccess link is a 404.
+1766,MDU6SXNzdWUxMjQwMjExMDE=,0,contact via reCaptcha
+1789,MDU6SXNzdWUxMzQ5NTU0MDc=,0,GTM validation requires specific placement.
+1794,MDU6SXNzdWUxMzcwMjM4Mjc=,0,Can Nginx support html5-boilerplate?
+1807,MDU6SXNzdWUxMzk5OTE3NTY=,0,Mobile Boilerplate Listed in documentation but project labeled DEPRECATED
+1865,MDU6SXNzdWUxNTk4MDA4OTQ=,0,"text and background colors should both be set, because setting just one causes a problem"
+1866,MDU6SXNzdWUxNjAwMTc0MDc=,0,HTML Code in WOrdpress
+1943,MDU6SXNzdWUyMjkwODU0MzE=,0,Add .github/ folder with Contributing.md as well as Issue and PR Templates 
+1950,MDU6SXNzdWUyMzQyOTYwODg=,0,kit
+2004,MDU6SXNzdWUyNjgyMzUwMTc=,0,Iphone X
+2021,MDU6SXNzdWUyOTM4NzczODg=,0,clip-path in visuallyhidden destroys scrolling performance
+2043,MDU6SXNzdWUzMTUxNzE5Mjk=,0,New Logo Proposal
+2052,MDU6SXNzdWUzMjQ4MjA0NDM=,0,tests reference jshint
+2160,MDU6SXNzdWU1MDQxNTM3Nzk=,0,Repository Corruption: git ops fails in strict fsck mode
+2172,MDU6SXNzdWU1MTcxOTE2Mjg=,0,"Hi, can you further describe your issue with the zip file? I can guess what you mean, but I would only be guessing."
+2208,MDU6SXNzdWU1OTgxNTk4MzI=,0,Update to jQuery 3.5.0
+2210,MDU6SXNzdWU1OTgyNTY0MTU=,0,Remove Browserupgrade prompt
+2213,MDU6SXNzdWU1OTg5NDA2NDA=,0,Update Modernizr
+2222,MDU6SXNzdWU2MDI4NzA5Mjg=,0,Integrate main.css 2.1
+2230,MDU6SXNzdWU2MTEzOTYwMjg=,0,Quick start with npm init / npx
+2,MDU6SXNzdWUxMTg5MjM=,1,miketaylr's feedback
+3,MDU6SXNzdWUxMTg5MjQ=,1,button padding in ff
+5,MDU6SXNzdWUxNDY5NzQ=,1,aria roles
+20,MDU6SXNzdWUyNzM0NTg=,1,launch todos
+23,MDU6SXNzdWUyNzQ0NjA=,1,Update jquery version used by test
+24,MDU6SXNzdWUyNzQ0ODY=,1,nerf'd document.write will throw
+25,MDU6SXNzdWUyNzQ1MDQ=,1,remove backgroundImageCache guy as dd_belatedpng already does it.

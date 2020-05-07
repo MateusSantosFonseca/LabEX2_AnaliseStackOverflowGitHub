@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+6115,MDU6SXNzdWUyMDY5NjQzODU=,139,Migrate to styled-components
+593,MDU6SXNzdWU3MTcxODI2NQ==,119,Support React Native
+4066,MDU6SXNzdWUxNTAzNjcwNDU=,100,[Core] There should be a more sophisticated styling solution.
+30,MDU6SXNzdWU0ODI1NjI2OQ==,95,Refactor CSS into Javascript
+10778,MDU6SXNzdWUzMDgwMzkxNjI=,93,Improve Material-UI performance
+718,MDU6SXNzdWU4MjQwNjA0OA==,75,[TextField] Form autofill doesn't update floating label text on textfield
+1352,MDU6SXNzdWU5OTQzNTYwOQ==,71,Sortable Columns in Table
+19113,MDU6SXNzdWU1NDYwMjk4NDM=,66,Can the typings be simplified to improve performance?
+9511,MDU6SXNzdWUyODI0NzIwNjI=,63,[docs] Translate the docs
+2818,MDU6SXNzdWUxMjUzMTQzMzI=,62,you have multiple copies of React loaded
+8223,MDU6SXNzdWUyNTgwOTQ3NTQ=,61,production build - classnames conflicts
+1030,MDU6SXNzdWU5Mjg3MjE1Mg==,59,Material-UI not compatible with React 0.14
+684,MDU6SXNzdWU4MDUwNTQ0MQ==,57,Consider using Radium for inline styles
+9342,MDU6SXNzdWUyNzgwNjQ0MTQ=,56,Support JSS extend plugin by default
+7537,MDU6SXNzdWUyNDUzMzAyMDk=,56,Ripple stays if multiclicked fast 
+14427,MDU6SXNzdWU0MDcwNjUwNjI=,55,[TextField] Handle Chrome autofill
+8447,MDU6SXNzdWUyNjE0MzU1OTY=,55,Typescript type error in component returned by withStyles()
+7450,MDU6SXNzdWUyNDMzMzIxMTY=,55,[docs] Table virtualized
+15798,MDU6SXNzdWU0NDc0MjU5MDE=,53,"Warning: useLayoutEffect does nothing on the server, because its effect cannot []"
+8726,MDU6SXNzdWUyNjU5ODUxMzA=,53,Can withStyles pass props to styles object?
+5750,MDU6SXNzdWUxOTQ2NTk0NzU=,52,[Modal] Disable background scrolling in iOS
+3614,MDU6SXNzdWUxMzg4NjgxMjY=,52,Responsive Material-UI
+3241,MDU6SXNzdWUxMzIxODAxOTc=,52,Expand animation
+4787,MDU6SXNzdWUxNjY5Mzg0NjI=,51,[DatePicker] Port component
+42,MDU6SXNzdWU0ODI5MzkzMw==,51,[Core][Perf] General performance optimizations needed
+13663,MDU6SXNzdWUzODMxNjM0MjM=,50,RFC: Material-UI v4 breaking changes
+13394,MDU6SXNzdWUzNzQyOTk4NDU=,50,Warnings in strict mode
+11723,MDU6SXNzdWUzMjk0NjEzMTQ=,49, [Menu] Support cascading
+4952,MDU6SXNzdWUxNzA2MTUyNTY=,49,[Autocomplete] Multiselection with Chips
+1911,MDU6SXNzdWUxMTIwNjQyNjA=,48,[Table] Set table column width
+15231,MDU6SXNzdWU0MzAwNzg3MjU=,46,Migration to hooks
+9893,MDU6SXNzdWUyODg2OTQ4MDg=,46,Dropdown component
+4799,MDU6SXNzdWUxNjY5NDU1NTA=,46,[Stepper] Port component
+2697,MDU6SXNzdWUxMjQyMzIzMjM=,46,[LeftNav] rename to SideNav
+1926,MDU6SXNzdWUxMTIyMzAzODE=,46,[docs] RTL support
+10000,MDU6SXNzdWUyOTA2OTMyNTM=,45,[Modal] Scrollbar and padding issue
+3289,MDU6SXNzdWUxMzI4NDUyNTc=,45,[List] Rendering performance issue
+1011,MDU6SXNzdWU5MjQ0Njk4Ng==,45,SelectField/DropDownMenu not working
+10522,MDU6SXNzdWUzMDIwNjQ1MjE=,44,A cause of client/server className mismatch in SSR with react-apollo
+204,MDU6SXNzdWU1MzU3MzM0MQ==,43,[MenuItem] Links within Menu items
+16374,MDU6SXNzdWU0NjA2MDk1NDM=,42,CSS rules specificity is order dependent on chips 
+1712,MDU6SXNzdWUxMDgwODQ0ODE=,42,Npm install fails
+8040,MDU6SXNzdWUyNTUwOTgxOTg=,41,[Popover] Positioning delayed
+773,MDU6SXNzdWU4NTgyNjIwMQ==,41,[AppBar] Make composable
+262,MDU6SXNzdWU1NTA5MjQ3OQ==,41,[Build] Create a tool to build a standalone version of Material-UI
+7602,MDU6SXNzdWUyNDY1OTU5MTg=,40,[Grid] Automatic height adjustment (Responsive Layout)
+3618,MDU6SXNzdWUxMzg5NDgwOTg=,40,[Dialog] Add a hook to run a function when dialog is shown to the user
+3486,MDU6SXNzdWUxMzY3OTMzNjM=,40,Add Tests for components
+2983,MDU6SXNzdWUxMjc1MDY3ODg=,40,[Checkbox] setting the state in onCheck doesn't display the checked box
+1951,MDU6SXNzdWUxMTI2MDU0NDU=,40,"Use of media queries, pseudo elements, hover, class names on inner elements      "

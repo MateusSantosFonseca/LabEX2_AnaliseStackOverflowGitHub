@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+673,MDU6SXNzdWU0NDU4MDk1Nw==,258,Idea of runtime mode
+20027,MDU6SXNzdWU0ODcwNDAyMDE=,144,Mac App Store Private API Rejection: Electron 5.0.10
+17972,MDU6SXNzdWU0Mzc0MDQ0NjE=,131,"The SUID sandbox helper binary was found, but is not configured correctly"
+12337,MDU6SXNzdWUzMDYxNTk0MzI=,131,Enable PDF Viewer
+3797,MDU6SXNzdWUxMjE4ODQ1Nzg=,124,Add FreeBSD support to electron
+10864,MDU6SXNzdWUyNjcyNTAyNjc=,116,Notification API do not work with Windows 10 16299.19 (fall creators update)
+3871,MDU6SXNzdWUxMjMwODcxOTU=,109,Electron broken on OS X in Apple Sandboxed apps (App Store)
+13164,MDU6SXNzdWUzMjk2NzU3Mjc=,105,Mojave dark mode causes a white line at the top of Electron apps
+8725,MDU6SXNzdWUyMDkwODkwNDc=,104,Click events not working properly on touch screen devices
+2927,MDU6SXNzdWUxMDg3NTAxNjU=,100,Consider replacing GTK2 w GTK3 in Linux builds
+2170,MDU6SXNzdWU5NDAzOTg2Ng==,100,Transparent window has white background window
+2003,MDU6SXNzdWU4OTIzNzE2OA==,85,Expected app bundle size?
+7351,MDU6SXNzdWUxNzkyNjY1MTU=,76,Uncaught Error remote.js
+228,MDU6SXNzdWUzMTE4ODczNg==,75,Headless version for testing
+21612,MDU6SXNzdWU1NDIwMDgyNTU=,73,electron.d.ts does not work with @types/node v13.1.0
+1335,MDU6SXNzdWU2NTMzNzk3OQ==,73,Support click-through of transparency
+7300,MDU6SXNzdWUxNzg0NzM2Nzc=,72,Requiring electron outside of main.js causes a TypeError
+10736,MDU6SXNzdWUyNjQxNzkzOTY=,71,macOS High Sierra: parts of the window not rendering
+254,MDU6SXNzdWUzMjkyNDM5MQ==,71,"jQuery isn't set globally because ""module"" is defined"
+10915,MDU6SXNzdWUyNjg1MTQ5ODQ=,70,Consider providing a build for Wayland
+8455,MDU6SXNzdWUyMDIxNDI3ODA=,69,Globalmenu consumes 100% CPU and does not work
+5851,MDU6SXNzdWUxNTgzNzg4OTA=,67,bundle v8 that is compatible with bundled node
+249,MDU6SXNzdWUzMjkxMjI1MA==,67,Mac App Store
+562,MDU6SXNzdWUzOTc4MDQzNQ==,65,Mobile Support
+13008,MDU6SXNzdWUzMjQ1NzkxODg=,64,Launch throwing breaking devtools error
+2570,MDU6SXNzdWUxMDI3NzU0NTE=,64,Is the source really protected with building apps with Electron?
+14687,MDU6SXNzdWUzNjE2OTczODg=,63,Devtools errors
+1378,MDU6SXNzdWU2Njk0MDkzNA==,62,webview navigation events
+10427,MDU6SXNzdWUyNTQ3NzgyNTE=,59,Appindicator as replecement for legacy tray icon on GNOME
+169,MDU6SXNzdWUyNjQxMjI1OA==,59,How much faster can we make `require`?
+19447,MDU6SXNzdWU0NzI2MTAxOTI=,58,Tracking issue: //extensions integration
+2085,MDU6SXNzdWU5MTg3MjY0MA==,56,Loading pepper plugins and EME support via CDMs
+19468,MDU6SXNzdWU0NzMwNjYxNzk=,55,Electron 6 does not launch in Win10 dark mode with DevTools extensions installed
+8205,MDU6SXNzdWUxOTU1MDM4MzE=,55,Missing remote object
+2867,MDU6SXNzdWUxMDc2NzkzMjc=,54,Windows 10: Window is not put to front on focus()
+381,MDU6SXNzdWUzNTA1ODE2Mw==,54,Support for window transparency
+8466,MDU6SXNzdWUyMDIzMjY5NzM=,53,"Error: Electron failed to install correctly, please delete node_modules/electron and try installing again"
+12971,MDU6SXNzdWUzMjM4NTQwMTE=,51,No frame window inset taskbar when maximize twice
+10561,MDU6SXNzdWUyNTkzMjUyMDI=,51,Crash in GetLoginItemSettings on macOS 10.13
+915,MDU6SXNzdWU1MTc2MTAwNQ==,51,React devtools not working as described in docs
+1484,MDU6SXNzdWU3MDYyMDY1NQ==,50,PHP app
+9920,MDU6SXNzdWUyNDAyNTM5NjM=,49,Error while importing electron in react | import { ipcRenderer } from 'electron'
+6437,MDU6SXNzdWUxNjQ3ODM2ODM=,49,Launching electron.exe while offline causes the executable to terminate immediately
+262,MDU6SXNzdWUzMjk2NDE3OA==,49,Notifications on Windows
+7779,MDU6SXNzdWUxODU3OTI5NTM=,47,ready-to-show never fires
+6599,MDU6SXNzdWUxNjc0NzE5Mzk=,47,Possible issues in desktopCapturer on Windows 10
+4380,MDU6SXNzdWUxMzE3MTk0MzI=,47,Black screen with an Nvidia GPU
+465,MDU6SXNzdWUzNzI4NjY0NA==,47,[Linux] Notifications Not Showing  Properly
+2357,MDU6SXNzdWU5NzQ1NzE4Nw==,46,White screen after some work of electron
+5267,MDU6SXNzdWUxNTA1NjUyNzA=,45,Strange overflowing window when maximizing a frameless window

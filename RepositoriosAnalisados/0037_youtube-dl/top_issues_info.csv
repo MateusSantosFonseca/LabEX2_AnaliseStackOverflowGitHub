@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+10408,MDU6SXNzdWUxNzI1NjUyNTE=,326,openload.co extractor not working
+11572,MDU6SXNzdWUxOTgyNTU2MTU=,108,Crunchyroll Login page throwing 503
+9706,MDU6SXNzdWUxNTg1NzkyNzk=,107,openload.co hotlinking detection
+14954,MDU6SXNzdWUyODExNjkyMzE=,104,"[discovery] ""GO"" Channels have been discontinued"
+12724,MDU6SXNzdWUyMjEzNzI4NTk=,91,[ADN] impossible to extract subtitles
+7309,MDU6SXNzdWUxMTM3MzQ4Nzg=,87,SSL CERTIFICATE_VERIFY_FAILED on the compiled binary on Windows XP
+622,MDU6SXNzdWU5NzYwMzY0,85,Download range
+17457,MDU6SXNzdWUzNTgxMTg4MDM=,68,Getting error message for YouTube Videos (Signature extraction failed)
+16277,MDU6SXNzdWUzMTc3MzQ2MjU=,65,Atresplayer broken: ERROR: Unsupported URL
+18797,MDU6SXNzdWUzOTc3MjU0OTM=,60,[Site Request] Pornhub Premium
+11292,MDU6SXNzdWUxOTE1OTUzMzE=,60,New JSInterpreter Features
+6018,MDU6SXNzdWU4OTMyOTg1Mw==,57,--prefer-free-formats does not prefer webm to mp4
+16094,MDU6SXNzdWUzMTE0MTMwOTc=,53,RoosterTeeth.com support is broken following site update
+15267,MDU6SXNzdWUyODg3NjcyNDQ=,53,"[YouTube] [SOLVED] 3D/2D 360 videos - now encoded in a new, proprietary & non-standard format"
+6451,MDU6SXNzdWU5ODgyOTIxMQ==,52,Error 403 Forbidden
+6840,MDU6SXNzdWUxMDYxNDAxNzU=,50,insecure string pickle
+6090,MDU6SXNzdWU5MTE3OTg4Ng==,49,add pluralsight.com extractor
+5138,MDU6SXNzdWU2MDAzNTc3NA==,49, HTTP Error 429: Too Many Requests (caused by HTTPError()); [youtube]
+9337,MDU6SXNzdWUxNTE2MzYwNzY=,46,Support for Instagram photos
+897,MDU6SXNzdWUxNTgzMDE2OA==,45,"KeyError: 'sig': youtube-dl unable to download Vevo videos due to the ""use_cipher_signature"" key being set to true."
+20326,MDU6SXNzdWU0MjAwNjkzMDY=,43,[linkedin:learning]can't download second section
+12885,MDU6SXNzdWUyMjQ5NjY5Mjg=,43,[youtube] Cannot identify player 'https://www.youtube.com/yts/jsbin/player-vflppxuSE/en_US/base.js'
+17116,MDU6SXNzdWUzNDU5MzE2MDU=,41,CrunchyRoll Download says preview of video
+10975,MDU6SXNzdWUxODQxMzQ5OTg=,42,"[true java call completed]  https://github.com/siddht1/ydl_java help needeed , porting youtube-dl to java"
+11257,MDU6SXNzdWUxOTA3NDYyNzU=,41,"Unable to extract post url, --ap-mso=Comcast_SSO does not work"
+427,MDU6SXNzdWU3MTcxNjI1,41,youtube-dl fails to download video; no explanation
+1753,MDU6SXNzdWUyMjQ5NTczNQ==,40,Amazon?
+20027,MDU6SXNzdWU0MTUxNjQ4MjY=,39,Crunchyroll (or CloudFlare ?) throwing a 503.
+11073,MDU6SXNzdWUxODYxMjY0Mjk=,39,Won't download facebook 1080p
+9302,MDU6SXNzdWUxNTA3MDM1MDY=,38,Is there an option that yields the best available audio quality among all formats?
+1585,MDU6SXNzdWUyMDc1NjY5MQ==,38,Signature Extraction Support for html5fs player type
+967,MDU6SXNzdWUxNjE4MTUxNw==,38,android version?
+6557,MDU6SXNzdWUxMDA5ODUxOTE=,37,-o different filenames of multiple files when downloading more formats of a youtube-video
+22641,MDU6SXNzdWU1MDQwMjQ5OTM=,36,[YouTube] Unable to extract video data
+402,MDU6SXNzdWU2MzE2MDMz,36,SOCKS proxy support
+108,MDU6SXNzdWU3NjcxMjc=,36,"Error ""no fmt_url_map or conn information found in video info"" with specific video"
+22105,MDU6SXNzdWU0ODEyNTk4Mzk=,35,USA Networks Issues
+4889,MDU6SXNzdWU1NjkwNDczNg==,34,"VEVO videos only available in 25p? VEVO on YouTube are true 23.976p/25p/29,97p"
+17224,MDU6SXNzdWUzNDk4MDkxOTc=,33,Cartoon Network - AttributeError: 'NoneType' object has no attribute 'groups'
+14932,MDU6SXNzdWUyODA0MjI5MzU=,33,[youku] 1080P formats missing
+6635,MDU6SXNzdWUxMDI1MjA2NDI=,33,[req] egghead.io
+343,MDU6SXNzdWU0NDQ5NDM4,33,YT returns a generic RTMP URL for long videos [was: youtube-dl unable to download video]
+9786,MDU6SXNzdWUxNjAyNTUzODk=,32,Add support for HBOGo & HBO Now
+5881,MDU6SXNzdWU4NDA2ODU3MQ==,32,Crunchyroll broken as of June 2015
+1605,MDU6SXNzdWUyMTA2ODg3MQ==,32,Youtube-dl Not Detecting Some 1080p Streams
+90,MDU6SXNzdWU2NDA5MDM=,32,Downloading youtube closed captions as video subtitles
+14307,MDU6SXNzdWUyNjAwNDY0NTk=,31,"VRV.co extractor error has occurred. (caused by KeyError('streams',))"
+9681,MDU6SXNzdWUxNTgzMzM2OTI=,31,How to download pluralsight video with subtitle from playlist?
+8489,MDU6SXNzdWUxMzI1NzEzMDg=,31,[Site-Support-Request] openload.co / openload.io
+15184,MDU6SXNzdWUyODY0OTA5NTE=,30,[YouTube] Unable to authenticate with enabled TFA

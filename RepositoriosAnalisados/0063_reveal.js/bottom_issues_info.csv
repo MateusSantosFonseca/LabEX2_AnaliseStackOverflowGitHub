@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+2,MDU6SXNzdWUyNDQ2ODY1,0,Going up/down in vertical slides causes a scrollbar to appear for a split second
+4,MDU6SXNzdWUyNTc4MDcy,0,Fragments in subsections
+6,MDU6SXNzdWUyNjM1MDUw,0,Replace <progress> bar with div
+8,MDU6SXNzdWUyNjYwNzI1,0,Box transition is not smooth on iOS
+10,MDU6SXNzdWUyNzIwNzk5,0,Thnx!
+22,MDU6SXNzdWUzNzIwMDE1,0,When history is enabled the animation isn't smoot in chrome
+23,MDU6SXNzdWUzNzMzODAy,0,class getting overwritten for #reveal sections
+64,MDU6SXNzdWU1MDcyMzc5,0,Printing doesn't work with linear transition style
+73,MDU6SXNzdWU1MzI0MDU5,0,Updates to allow for plugins
+76,MDU6SXNzdWU1NTE5NDc0,0,Lack of some useful events
+78,MDU6SXNzdWU1NjI5MzQz,0,"Should update Markup example in README to reflect ""Main #reveal container is now selected via a class instead of ID"""
+82,MDU6SXNzdWU1NjQ1NDU1,0,Superscript and subscript don't work
+89,MDU6SXNzdWU1NzgwNDU1,0,Overview Spacing Bug
+92,MDU6SXNzdWU1OTgyMzg4,0,Experiment with PDF export
+95,MDU6SXNzdWU1OTk3ODIz,0,IE10 hates 3D links
+137,MDU6SXNzdWU2Nzc4Njc5,0,Use CSS borders to create control arrows instead of unicode
+145,MDU6SXNzdWU2OTgxNTYz,0,Add config option for disabling overview mode
+159,MDU6SXNzdWU3MzQ1Njkw,0,disable transitions
+196,MDU6SXNzdWU3NzM5NDYy,0,Overview doesn't work with zoom transition
+197,MDU6SXNzdWU3NzM5NTMx,0,Please trim trailing whitespaces in all reveal.js source files
+213,MDU6SXNzdWU3ODQ1OTkx,0,navigate*() methods still call slide() when no navigation would be done
+225,MDU6SXNzdWU4MDk2NTk1,0,Remember last visited slide?
+232,MDU6SXNzdWU4MjYyNDMz,0,More media queries to fit smaller screens
+233,MDU6SXNzdWU4MjY0NTc0,0,Up/down arrows should step through fragments
+235,MDU6SXNzdWU4MjY4ODQ0,0,Setup build script (grunt.js)
+241,MDU6SXNzdWU4Mjg2NjQ3,0,Notes view jumping to wrong slide
+249,MDU6SXNzdWU4MzU0MjAx,0,Document theming in readme
+293,MDU6SXNzdWU5OTQ5Njgz,0,Function for retrieving a slide needed.
+298,MDU6SXNzdWU5OTc5OTQ0,0,Event for Overview mode
+299,MDU6SXNzdWU5OTgzODE5,0,Add touch config option
+308,MDU6SXNzdWUxMDIwMzMyNA==,0,Add 'video' selector so video-elements stay within slide
+318,MDU6SXNzdWUxMDQxNDQ2NQ==,0,see notes/preview when loading from file:///
+333,MDU6SXNzdWUxMDg4NzU2MQ==,0,Search presentation for keywords
+336,MDU6SXNzdWUxMDk0NTQ3Mw==,0,event for togglePause
+343,MDU6SXNzdWUxMTI0OTcwNQ==,0,Controls in presenter view do not seem to control main view
+349,MDU6SXNzdWUxMTQ1NTI2Nw==,0,Upgrade to grunt 0.4
+393,MDU6SXNzdWUxMjczOTU1MQ==,0,README revealjs.jit.su/token typo
+405,MDU6SXNzdWUxMzIwMTM5MQ==,0,Keyboard config option
+409,MDU6SXNzdWUxMzM0Mzg2NA==,0,Fragments on last slide not shown
+410,MDU6SXNzdWUxMzM1MDk3MQ==,0,Flickering images on iOS
+477,MDU6SXNzdWUxNDk5MDg3Nw==,0,Update search plugin UI
+643,MDU6SXNzdWUyMDkwNTA2MQ==,0,Cancel
+662,MDU6SXNzdWUyMTM2NDA1MQ==,0,Building themes missing steps
+690,MDU6SXNzdWUyMjA3MTkwMg==,0,Remotes
+701,MDU6SXNzdWUyMjUzNDY5Mg==,0,Autoslide after audio file is played
+855,MDU6SXNzdWUzMDQ2NjI2OQ==,0,Adapt parallax background size to resolution
+887,MDU6SXNzdWUzMjI1NzY1Mg==,0,Speaker notes outside of Markdown templates are ignored
+893,MDU6SXNzdWUzMjUwMjU2NA==,0,Vimeo iFrame embed doesn't work on iPad
+912,MDU6SXNzdWUzMzM4MDAzOA==,0,Background image of previous slide appears when zooming
+947,MDU6SXNzdWUzNTU1MDcyMQ==,0,attribute in external markdown

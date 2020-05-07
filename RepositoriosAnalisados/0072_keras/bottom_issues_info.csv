@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+4,MDU6SXNzdWU2NDk3OTQ0MA==,0,Create a setup.py
+16,MDU6SXNzdWU2NTE3OTc3OA==,0,     
+174,MDU6SXNzdWU4MjM4NDk5Mg==,0,Can we directly use self.U in _step function for class SimpleRNN?
+179,MDU6SXNzdWU4MzM0NTIxMw==,0,constraint test fails
+181,MDU6SXNzdWU4MzgyNDc5Mw==,0,Example of How to Build a Word Tagging Model?
+200,MDU6SXNzdWU4NTkwMDYxNw==,0,"""Low memory"" option for GRU"
+237,MDU6SXNzdWU4ODkzNDI5MA==,0,What can cython do for the preprocessing/text.py
+289,MDU6SXNzdWU5MTU3MzEwNQ==,0,"not existing directory bug on example ""skipgram_word_embeddings.py"""
+306,MDU6SXNzdWU5MjAxOTg2Mg==,0,encoding error in 'mnist.py'
+375,MDU6SXNzdWU5NDI4ODEyMw==,0,About Autoencoder training
+417,MDU6SXNzdWU5NjA5NTU4NQ==,0,TypeError: object() takes no parameters
+429,MDU6SXNzdWU5NjcxNjc0Nw==,0,how to convert keras model to caffe
+548,MDU6SXNzdWUxMDE2MDEyOTg=,0,Problems with Merge(mode='concat') on GPUs
+596,MDU6SXNzdWUxMDI5MzA4OTI=,0,How to change filter format in keras?
+598,MDU6SXNzdWUxMDMwNjM2NjM=,0,ValueError: Output dimensions are not valid
+614,MDU6SXNzdWUxMDM4MTEzMjY=,0,view intermediate values
+627,MDU6SXNzdWUxMDQ0OTg4Mjk=,0,wishes fast-rcnn/faster-rcnn based on  theano 
+632,MDU6SXNzdWUxMDQ3NDY0MjY=,0,Loss is the average over all batches in epoch?
+636,MDU6SXNzdWUxMDQ4NzQ5MDQ=,0,Misiing import in list_pictures
+638,MDU6SXNzdWUxMDQ4NzcwOTU=,0,"running on GPU using eclipse in windows, what do I have to add?"
+669,MDU6SXNzdWUxMDU3NTEyOTA=,0,"Word_embedding using skipgram have no effect to cnn, worse than Embedding() in keras"
+676,MDU6SXNzdWUxMDYwODkzOTI=,0,Python 3 compatibility problem with Image loading
+683,MDU6SXNzdWUxMDYzNzMzNTE=,0,Saving the momentum during model saving
+700,MDU6SXNzdWUxMDcyNjA5OTk=,0,Distributing a layer's output
+705,MDU6SXNzdWUxMDc0MDQxNDI=,0,accessing class conditional activations
+712,MDU6SXNzdWUxMDc4OTc2MzE=,0,REINFORCE
+784,MDU6SXNzdWUxMDk3NDM5NjY=,0,"Model.fit can not use the validation_data(X_test,y_test)?"
+792,MDU6SXNzdWUxMTAxMjU2MjY=,0,AttributeError: can't set attribute
+797,MDU6SXNzdWUxMTA0MDY1OTQ=,0,the change of loss
+806,MDU6SXNzdWUxMTA2NjI3ODE=,0,How to set LSTM parameters
+837,MDU6SXNzdWUxMTE1NjQ5NjQ=,0,how can solve this problem when I load data to LRCN 
+849,MDU6SXNzdWUxMTE5ODU0NTc=,0,Freezing layer updates on a graph
+852,MDU6SXNzdWUxMTIwNTgyMTU=,0,is there any attention-based Encoder-Decoder coder of keras?
+854,MDU6SXNzdWUxMTIwNjM3MjU=,0,Doc update too slow
+902,MDU6SXNzdWUxMTM2NzcyMzI=,0,A model doesn't know its input_shape after build
+932,MDU6SXNzdWUxMTQ1NDg4NjQ=,0,network diverges
+958,MDU6SXNzdWUxMTU0NzM3ODA=,0,"KeyError while fitting : ""not in index"""
+965,MDU6SXNzdWUxMTU2NDM3NzU=,0,About how keras build the model
+967,MDU6SXNzdWUxMTU2NzIyMjc=,0,[Probably bug?] imdb.py return X_test value without an input file
+979,MDU6SXNzdWUxMTU4NjQwMzg=,0,Create Embeddings using LSTM ( getting the weights problem )
+988,MDU6SXNzdWUxMTYwNzA2MTE=,0,Bug with TimeDistributedDense?
+1106,MDU6SXNzdWUxMTkzNDQ1NTY=,0,Bug report in Convolution2D
+1164,MDU6SXNzdWUxMjAyOTU2MDU=,0,How Siamese Layer and Regularizers play together
+1168,MDU6SXNzdWUxMjAzNzQ3NDk=,0,How can keras show the every step of backwards gradient?
+1181,MDU6SXNzdWUxMjA1ODI1MTc=,0,add get_initial_states to Recurrent
+1186,MDU6SXNzdWUxMjA1OTU5MTI=,0,Message user when len(output_shape) > 3
+1201,MDU6SXNzdWUxMjA3MTY2NDA=,0,Problem about Keras-0.3.0-2015/12/1-updating MaxPooling2D
+1240,MDU6SXNzdWUxMjE1MTQ4MzQ=,0,Categorical cross entropy loss with integer vector
+1262,MDU6SXNzdWUxMjIwMzY2NTI=,0,Model won't compile in Keras 0.3.0
+1284,MDU6SXNzdWUxMjI0NTE4ODA=,0,[IndexError] Merge Layer for image CNN & text LSTM

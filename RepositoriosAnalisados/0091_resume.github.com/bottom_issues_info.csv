@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+42,MDU6SXNzdWU2NjA1Mzk5,0,Organization links go to github.com
+64,MDU6SXNzdWUxMjgwMTYyOQ==,0,Seems everything is broken now?
+147,MDU6SXNzdWUyMzE0NzQzMw==,0,Test issue
+166,MDU6SXNzdWUyMzcwNDA3MQ==,0,Application should check the organizations contributions for languages.
+168,MDU6SXNzdWUyMzc5ODkwMQ==,0,Add user's own stared repos to popularity heuristic
+179,MDU6SXNzdWUyNTg4NDAzMg==,0,Better GitHub API for checking if repo is stared
+217,MDU6SXNzdWUxMjc4ODM0MTQ=,0,master/tabletnode rpc->->
+222,MDU6SXNzdWUxMzQ5MjA3NzU=,0,showing wrong contributions
+235,MDU6SXNzdWUxNjU2NzE5Njk=,0,Remove bitdeli badge
+236,MDU6SXNzdWUxNjcyODg4MDE=,0,"Links to commit, not just master and search"
+238,MDU6SXNzdWUxODA4MTM0MDM=,0,Support multi language 
+239,MDU6SXNzdWUxOTgzNTczMTQ=,0,Add GitHub contributions calendar to resume
+243,MDU6SXNzdWUyMDU1ODk2ODc=,0,Order contributions in reverse chronological order
+244,MDU6SXNzdWUyMjEwNzY5MzE=,0,Add other language?
+245,MDU6SXNzdWUyMjE5MDc1MDk=,0,online builder
+247,MDU6SXNzdWUyNDUwMTUyMTM=,0,Typo in repository description
+253,MDU6SXNzdWUzNjg0OTk5MTc=,0,Add an example in readme
+4,MDU6SXNzdWU1NzkxNTc=,1,Missing fields for user displayed wrong
+6,MDU6SXNzdWU1Nzk1MTg=,1,Choose repositories to display
+7,MDU6SXNzdWU1Nzk1MjM=,1,End dates should be year of last commit
+10,MDU6SXNzdWU1ODQ5NDI=,1,Faulty Languages in the Resume
+11,MDU6SXNzdWU1OTU2NTU=,1,Private email inconsistencies
+12,MDU6SXNzdWU1OTY1ODU=,1,My repositories never seem to populate.
+13,MDU6SXNzdWU2MDM4NzQ=,1,add other repo/programming sites
+17,MDU6SXNzdWU3MTk5NTk=,1,CoffeeScript support
+30,MDU6SXNzdWUxNDI4MTY0,1,Missing favicon
+35,MDU6SXNzdWU1MDM2NDEw,1,Woops!
+44,MDU6SXNzdWU2NjA5NjI0,1,Idea: show stats for ruby gems repositories
+48,MDU6SXNzdWU2NjMxNjcy,1,Site CSS currently busted
+51,MDU6SXNzdWU2OTI2MDc1,1,Pluralize zero
+57,MDU6SXNzdWUxMTg0NDI0NA==,1,data.public_repos should be data.public_gists
+70,MDU6SXNzdWUxOTc4NzQ5MA==,1,Repo descriptions bigger
+148,MDU6SXNzdWUyMzE1MjY4MQ==,1,Organizations section spins forever when user has no ones
+161,MDU6SXNzdWUyMzU1NTMzOA==,1,opt-in only looks at 30 most recently starred repos
+173,MDU6SXNzdWUyMzk5MDkzOQ==,1,Example users haven't opted in.
+208,MDU6SXNzdWUxMDA1NDkyMTM=,1,# Watchers is incorrect (gives # of Stars) or it should be # Stars
+234,MDU6SXNzdWUxNjE1NDAyMTg=,1,UNIMPORTANT
+251,MDU6SXNzdWUzMTY5MjYwNjA=,1,sort repos by stars
+258,MDU6SXNzdWUzOTY2ODk5MTU=,1,won't work outside of test
+2,MDU6SXNzdWU1NzkxNTE=,2,Organization handling
+3,MDU6SXNzdWU1NzkxNTQ=,2,More dynamic text
+5,MDU6SXNzdWU1NzkxNjE=,2,A user's organization
+15,MDU6SXNzdWU3MTk5NDM=,2,How to test modifications?
+32,MDU6SXNzdWUxNTM0MzQ3,2,List not-owned projects on which issues have been filled
+55,MDU6SXNzdWU4NDE2NTI4,2,Github API rate limit hit
+61,MDU6SXNzdWUxMjYyODQyNw==,2,No error page with wrong usernames
+157,MDU6SXNzdWUyMzQ1NDM4OA==,2,more info would be nice.
+158,MDU6SXNzdWUyMzQ1NDkyNA==,2,Not all repositories are shown...
+159,MDU6SXNzdWUyMzUyMzkzOQ==,2,Add instructions about staring project
+187,MDU6SXNzdWUzMzY5MTA5NQ==,2,[Feature request] Adding homepage of the repo

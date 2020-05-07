@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+28,MDU6SXNzdWUyNzQ1NDM=,132,script loading solution
+1050,MDU6SXNzdWU0MTE0NDk3,97,Drop legacy browser support
+1290,MDU6SXNzdWU5OTI0OTUx,85,Remove IE conditional classes
+857,MDU6SXNzdWUyMjc2MzE0,85,rewrite project css as scss
+1524,MDU6SXNzdWUzMDIwOTI4MA==,77,Drop IE8 support
+816,MDU6SXNzdWUxOTM1NjIx,74,Revert mobile-first media queries and remove respond.js
+16,MDU6SXNzdWUyNTMxNDc=,74,A build script is necessary
+378,MDU6SXNzdWU2NzIyMzQ=,69,IE conditional comments around html tag adds Compat View icon to address bar
+1005,MDU6SXNzdWUzNDY0MDA1,52,"Look into updating .ir to use a ""new and improved"" method"
+516,MDU6SXNzdWU5Mjk5Mzc=,49,Move our build script over to Rake
+1099,MDU6SXNzdWU0NzI3NTc0,47,"meta ""viewport"" doesn't act right"
+610,MDU6SXNzdWUxMjQ4NzQx,44,::selection background color default
+1001,MDU6SXNzdWUzNDE2MTU4,39,Rename .ir class
+495,MDU6SXNzdWU4ODA5MTI=,39,Should the boilerplate prompt to install Chrome Frame?
+276,MDU6SXNzdWU1MjE0OTU=,39,Add Android Browser scaling with target-densityDpi
+936,MDU6SXNzdWUyOTU5OTAw,37,H5BP + Twitter Bootstrap integration
+1048,MDU6SXNzdWU0MDc4NDMy,35,Change default h5bp download to stripped
+1187,MDU6SXNzdWU2NTU5NTU2,34,Conditional comments wrapping <html> prevent IE from honouring <meta http-equiv=X-UA-Compatible>
+203,MDU6SXNzdWU0MjY1MDI=,34,Replace IDs with classes in index.html
+165,MDU6SXNzdWUzODkzODg=,34,build script: v.Next
+824,MDU6SXNzdWUyMDQyOTY1,33,Remove initial-scale=1.0 from meta viewport
+749,MDU6SXNzdWUxNjE2NzM5,33,do something about all those touch icons.
+1121,MDU6SXNzdWU1MDE4ODMx,31,"Suggestion: bundle img,css,js folders into resources folder"
+1444,MDU6SXNzdWUyMDYyMzc2Mg==,30,Use localStorage for Google Analytics tracking when available
+1047,MDU6SXNzdWU0MDY3MTE3,30,@-ms-viewport { width: device-width }
+1474,MDU6SXNzdWUyMjU4NjU2MA==,29,Warning about use of dpi in main.css
+1367,MDU6SXNzdWUxNDk0ODMzNw==,28,Is there any need for the 6 different apple-touch icons when just one will work? 
+598,MDU6SXNzdWUxMTgyODQw,28,Turn antialiasing on for Chrome to match behaviour across browsers
+1527,MDU6SXNzdWUzMDc4NTg1NA==,26,Remove .htaccess from project?
+686,MDU6SXNzdWUxNDA0MTg1,26,Build script not maintaining relative CSS Path
+407,MDU6SXNzdWU3MTE1NzA=,26,Comment out the hot pink selection and tap highlight?
+194,MDU6SXNzdWU0MjAxNDQ=,26,visuallyhidden sometimes cause a horizontal scrollbar on IE7
+1110,MDU6SXNzdWU0ODY0OTU3,25,Remove `lang` attribute from `html`
+43,MDU6SXNzdWUyNzU3ODE=,25,Port it to Haml/Sass
+500,MDU6SXNzdWU4OTk0NTI=,24,Consider change from 'CSS Reset' to 'CSS Normalization'
+125,MDU6SXNzdWUzNjE0MTA=,24,IE9 - Conditionals on the HTML tag break X-UA-Compatible meta tag 
+1347,MDU6SXNzdWUxMjkzMzMxNQ==,23,Update Google Analytics snippet to use Universal Analytics (analytics.js) instead of ga.js 
+1149,MDU6SXNzdWU1OTAzNTcz,23,Reassess IR techniques
+542,MDU6SXNzdWU5ODYxNjY=,23,Use yepnope/Modernizr.load or jQuery for the analytics snippet
+131,MDU6SXNzdWUzNjI2ODI=,23,Mobile Boilerplate Ideas
+1437,MDU6SXNzdWUxOTk1MDExMg==,22,The <!--[if gt IE 8]><!--> is unecessary
+1012,MDU6SXNzdWUzNTQwOTYy,22,.htaccess Error 500 in Apache 2.4 because of FilterProvider
+826,MDU6SXNzdWUyMDczNTE5,22,Idea: move build script to a dedicated repo
+704,MDU6SXNzdWUxNDI2NTA4,22,Import custom targets into build script
+1801,MDU6SXNzdWUxMzgwOTU5ODk=,21,Consider using an HTMLLinter ?
+1275,MDU6SXNzdWU5NDYxNjk4,21,Remove Google Analytics
+1034,MDU6SXNzdWUzODk4NDE1,21,Image replace block level elements
+648,MDU6SXNzdWUxMzQ1Mjgw,21,Addition to the .htaccess blocking access to .bak and some other files
+252,MDU6SXNzdWU0NzYzMjY=,21,Build Script: Combine jquery.js into script.js
+2147,MDU6SXNzdWU0ODMxMTExNzE=,20,Website download file

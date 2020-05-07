@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+18,MDU6SXNzdWUxODgzNzU3,0,Add _date.fn to allow for prototype modification
+19,MDU6SXNzdWUxODgzNzYw,0,Add _date().diff()
+20,MDU6SXNzdWUxODgzNzY5,0,Add tests for all languages
+21,MDU6SXNzdWUxODgzNzc1,0,Bundle and minify language files
+24,MDU6SXNzdWUxOTEyNzE2,0,Add _date.native() to retrieve the native Date object
+27,MDU6SXNzdWUxOTY1MTEy,0,Graceful failure tests
+42,MDU6SXNzdWUyMTc5ODQ0,0,Add time specific diffs
+73,MDU6SXNzdWUyMjYzNTMy,0,Meridiem is misspelled as meridian
+83,MDU6SXNzdWUyMzg4Mzgz,0,Add unit tests and documentation for moment.fn.zone
+85,MDU6SXNzdWUyNDA5ODc5,0,Add documentation for parsing and formatting timezones
+101,MDU6SXNzdWUyNTc1MDMy,0,Add moment.fn.day as a setter
+102,MDU6SXNzdWUyNTc1MDc1,0,Add moment.fn.calendar documentation
+104,MDU6SXNzdWUyNTc1MDkw,0,Add moment.fn.format escape blocks tests
+117,MDU6SXNzdWUyNjczNjg4,0,Add support for parsing month names
+118,MDU6SXNzdWUyNjczNzA3,0,Add documentation for parsing month names
+133,MDU6SXNzdWUyODMzNjgz,0,Add documentation for parsing ASP.NET json dates
+148,MDU6SXNzdWUzMDIyOTYy,0,Add documentation on the immutability of moments
+159,MDU6SXNzdWUzMDg3NDg2,0,Add changelog for 1.4.0
+161,MDU6SXNzdWUzMTExNzg4,0,Asp net json date parsing
+173,MDU6SXNzdWUzMjk5Mzg2,0,"Docs for ISO parsing, ISO default format"
+181,MDU6SXNzdWUzMzk3MTU0,0,Error evaluating 'format.match(tokenCharacters)' when running in browser
+183,MDU6SXNzdWUzNDIzMTA0,0,Add docs for moment.fn.daysInMonth
+189,MDU6SXNzdWUzNDcwMjYx,0,Docs for moment.humanizeDuration
+204,MDU6SXNzdWUzNjM4ODUz,0,Add rockymeza's ISO-week plugin to the docs
+227,MDU6SXNzdWUzNzgzOTI5,0,Deprecate format tokens 'z zz'
+456,MDU6SXNzdWU3Mjk5NjE5,0,1.7.2 Release Notes
+542,MDU6SXNzdWU5MTA3NTA0,0,"moment.duration(1, 'years').asDays() === 360"
+720,MDU6SXNzdWUxMzAyNDI3MA==,0,package.json errors
+816,MDU6SXNzdWUxNDk0MTM3MA==,0,Test fails
+844,MDU6SXNzdWUxNTU1Nzc3NQ==,0,Initializing the lang to something that does not exist then crashes in the lang()
+888,MDU6SXNzdWUxNjUxMDA2MQ==,0,"140.5 Expected 5 assertions, 4 ran (undefined undefined undefined)"
+889,MDU6SXNzdWUxNjUxMDA4Nw==,0,140.6 Cannot read property '_abbr' of undefined (undefined undefined undefined)
+893,MDU6SXNzdWUxNjU2ODcxOA==,0,"Unit tests are failing: library getter 4 passed,2 failed."
+894,MDU6SXNzdWUxNjU4MjAzMA==,0,16843 tests passed. 4 failed.
+895,MDU6SXNzdWUxNjU5MTEwNw==,0,"library getter 4 passed,2 failed"
+901,MDU6SXNzdWUxNjYxNzA4OQ==,0,Test results
+902,MDU6SXNzdWUxNjYzNjQyOA==,0,Failed Unit Test - 16845 tests passed. 2 failed. - Moment.js2.1.0
+907,MDU6SXNzdWUxNjcxMjU5Nw==,0,"3 test fails. 2 in lang, 1 in min_max "
+908,MDU6SXNzdWUxNjcxNDMxNw==,0,3 Failing unit tests
+909,MDU6SXNzdWUxNjcyMTkyNg==,0,2 unit tests failed
+914,MDU6SXNzdWUxNjcyNDY1OA==,0,16845 tests passed. 2 failed.
+921,MDU6SXNzdWUxNjc2Mjg0Ng==,0,2 tests fail on PST in English on Safari
+922,MDU6SXNzdWUxNjc2NTgwNg==,0,3 tests failed Chrome/28.0.1500.71
+923,MDU6SXNzdWUxNjc2ODc1NQ==,0,3 Tests Failed Chrome on Linux
+924,MDU6SXNzdWUxNjc4ODI3MA==,0,2 tests failed Chrome Version 28.0.1500.71
+925,MDU6SXNzdWUxNjc5MzMzMg==,0,2 tests failed in safari on OSX
+932,MDU6SXNzdWUxNjkwODM0NA==,0,bubbling up/down
+934,MDU6SXNzdWUxNjkzMTE2NA==,0,Failing test
+939,MDU6SXNzdWUxNjk3MjEzOQ==,0,1 test failed while executing tests
+946,MDU6SXNzdWUxNzExMzY3OA==,0,.calendar() does not respect timezone information

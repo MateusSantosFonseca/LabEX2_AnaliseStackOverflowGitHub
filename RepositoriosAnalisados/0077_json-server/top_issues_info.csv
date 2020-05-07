@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+279,MDU6SXNzdWUxNTM3MTE4ODU=,48,custom resource id
+72,MDU6SXNzdWU3MzM4NDY1Mw==,22,Nested requests returning 404
+45,MDU6SXNzdWU1NjIyMTQ5Mw==,21,Multiple files
+528,MDU6SXNzdWUyMjUyNDExNjE=,20,File Upload
+177,MDU6SXNzdWUxMDQwNTQ1MjM=,20,json-server cache the data?
+370,MDU6SXNzdWUxNzk1MTEyMzE=,19,Command to start json-server is not working.
+453,MDU6SXNzdWUyMDAxMjA3MDg=,16,Is it possible to 'get' data using POST with json-server?
+396,MDU6SXNzdWUxODcxMTk1MzY=,16,PUT saves the updated item with an id that has been converted to string
+160,MDU6SXNzdWU5ODEyMjEzMw==,16,[feature request] --watch with generate.js is broken after refactor
+415,MDU6SXNzdWUxOTA4MTUxMzk=,15,MIssing body in POST request?
+244,MDU6SXNzdWUxMzg3OTA4MjU=,15,Support for HTTPS
+710,MDU6SXNzdWUyODcwOTc0NzQ=,14,Doesn't update on changes to DB?
+265,MDU6SXNzdWUxNTA4MDA3MjI=,13,can't watch multiple files
+118,MDU6SXNzdWU4NzY3MTI0NA==,14,How to wrap responses?
+366,MDU6SXNzdWUxNzkxMzk0MDc=,13,Many-to-Many Relationship Support
+286,MDU6SXNzdWUxNTQ2MzQ2MjQ=,13,Include watch db in json-server as module.
+115,MDU6SXNzdWU4NzM4MTI2OA==,13,Rollback to previous state
+568,MDU6SXNzdWUyMzg3MDE3NTc=,12,500 errors on DELETE
+87,MDU6SXNzdWU3NjMyMzM2Nw==,12,Run as a background task.
+833,MDU6SXNzdWUzNTAyMjk2ODg=,11,Typescript support
+544,MDU6SXNzdWUyMzI5MjgxNTU=,11,Custom routing issues
+367,MDU6SXNzdWUxNzkxNjI3MDE=,11,how to work with many json files together?
+303,MDU6SXNzdWUxNTkzMzg2Nzg=,11,POST failing when running json server via npm run
+103,MDU6SXNzdWU4MDI5ODA3MQ==,11,"Possible to default from ""id"" to ""_id""?"
+91,MDU6SXNzdWU3Nzk5MTM1Mg==,11,Specific route in db json file
+860,MDU6SXNzdWUzNjI4NjA4OTQ=,10,How to delete multiple items at once
+541,MDU6SXNzdWUyMzE0OTU3MzM=,10,Filter by param to return single object instead of an array?
+454,MDU6SXNzdWUyMDE0ODMxNDE=,10,Cannot find module 'json-server'
+253,MDU6SXNzdWUxNDU4MTA2MjU=,10,integrate json-server with express server
+143,MDU6SXNzdWU5MjY5NTEyMQ==,10,Ignore params
+60,MDU6SXNzdWU2NjY0MDEwOQ==,10,How to serve image files?
+859,MDU6SXNzdWUzNjI3MTk4OTk=,9,its showing cannot get/ on default port:3000
+584,MDU6SXNzdWUyNDE3MzIzODA=,9,Filter on deep properties
+389,MDU6SXNzdWUxODM5NDgwOTE=,9,How to run json-server under HTTPS?
+221,MDU6SXNzdWUxMjYxMzA0NDE=,9,Can json-server running at background?
+216,MDU6SXNzdWUxMjM0NTQwOTg=,9,Replace data on POST?
+124,MDU6SXNzdWU4ODc3MTA3Nw==,9,CORS for static files
+80,MDU6SXNzdWU3NDg5NjM1MA==,9,Disabling Changes
+70,MDU6SXNzdWU3MjExNzI0OQ==,9,How can I get random data
+947,MDU6SXNzdWU0MzAzNzEzODM=,8,How to make it over https
+857,MDU6SXNzdWUzNjIxNDc0NTU=,8,Delete request on a custom route returns 404
+613,MDU6SXNzdWUyNTAxNzIzNDM=,8,How to set options as a module
+434,MDU6SXNzdWUxOTQyNjE1MDk=,6,Could json-server watch multiple files
+363,MDU6SXNzdWUxNzgzNzAwNjI=,8,Adding body-parser-midddleware breaks proxy
+334,MDU6SXNzdWUxNjc1NDkyMjc=,8,Filter by parameter within an array
+165,MDU6SXNzdWU5ODc2NDk3NA==,8,"""Unsupported type"" update 0.7.20 to 0.7.23 "
+158,MDU6SXNzdWU5NzY4OTE0Mw==,8,configurable static file direcotry request
+153,MDU6SXNzdWU5NjQ1Mzg4Mg==,8,quit the json-server
+125,MDU6SXNzdWU4ODk3NDk3OQ==,8,[Feature request] Ability to intercept the sent data
+96,MDU6SXNzdWU3ODUwMDEzOA==,8,Deep Filtering

@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+5668,MDU6SXNzdWU1NDQ4Mzg5Mw==,130,ERROR: ReadBlockFromDisk : Deserialize or I/O error - ReadCompactSize() : size too large
+2770,MDU6SXNzdWUxNTU4MzgxNQ==,108,LevelDB corruption with 0.8.x Mac client
+273,MDU6SXNzdWU5NTc5Njk=,108,Speed limit / throttle network usage
+4069,MDU6SXNzdWUzMTgzNzE1Nw==,87,"SAV reported bitcoind infected w Silly.218, crashed bitcoind (likely false positive)"
+3862,MDU6SXNzdWUyOTM2Njk1Ng==,88,Switch all units to micro-BTC by default
+2476,MDU6SXNzdWUxMjg4MTYxNA==,81,no separate source code tarball download available
+3816,MDU6SXNzdWUyODk4Mjc1Nw==,80,Remove bolt-on accounting system
+9683,MDU6SXNzdWUyMDUzMTEyMDQ=,79,"gui, wallet: random abort (segmentation fault) running master/HEAD"
+11355,MDU6SXNzdWUyNTgyNTQ5NTE=,72,LevelDB read failure: Corruption: block checksum mismatch
+15847,MDU6SXNzdWU0MzQ5Mzk1MDU=,71,Feedback for GitHub CEO
+6658,MDU6SXNzdWUxMDU5MTMxNDQ=,57,Building requires >1GB memory
+1401,MDU6SXNzdWU0ODI5MDY4,56,windows build instructions don't work
+9653,MDU6SXNzdWUyMDQwMDc3NjE=,54,Versioning convention for Bitcoin Core
+2726,MDU6SXNzdWUxNTAzNTc0MA==,53,erraneous InvalidChainFound messages
+3226,MDU6SXNzdWUyMjM4NTU1OQ==,52,Implement coinjoin in wallet
+1242,MDU6SXNzdWU0NDkzMDYz,51,"Bitcoin-Qt 0.6.2 for Ubuntu 12.04 invisible in systray, no global menu"
+10542,MDU6SXNzdWUyMzM5NjEwMTQ=,50,Signmessage doesn't work with segwit addresses
+4147,MDU6SXNzdWUzMzAyMDQ2NQ==,49,Locale should default to C / Posix Environment
+15555,MDU6SXNzdWU0MTgzMzY0ODg=,48,v0.18.0 testing
+12515,MDU6SXNzdWUyOTk2MDc3MzY=,46,Instructions for compiling Bitcoin Core missing steps or otherwise not compiling bitcoin for windows in linux
+9913,MDU6SXNzdWUyMTE4NDU4MDU=,46,QR Code scanner
+10247,MDU6SXNzdWUyMjMyNzYyODA=,44,cost too many fees?
+8455,MDU6SXNzdWUxNjkzNzAwMzQ=,44,TODO for release notes 0.14.0
+6528,MDU6SXNzdWU5OTM4MTQ0Mw==,43, Corruption: block checksum mismatch
+10926,MDU6SXNzdWUyNDUzNzg0NDc=,42,OSX Cross compiling not working: Missing boost osx Header - fatal error: 'unistd.h' file not found
+5797,MDU6SXNzdWU1Nzg2ODIyOA==,41,Version 0.10 segfaults on OS X 10.6.8
+5783,MDU6SXNzdWU1NzIxMDEwOA==,41,Add possibility to associate a Bitcoin address with a node
+7633,MDU6SXNzdWUxMzgwMTI5NTg=,40,paytxfee behavior changed without warning
+6211,MDU6SXNzdWU4MzQzOTQ1MQ==,40,RFC: switching to C++ 11
+3228,MDU6SXNzdWUyMjQwMDE4NA==,40,Undefined Symbols on MacOS 10.9 Mavericks from db.o and util.o
+711,MDU6SXNzdWUyNTkyMzA1,40,Entering Passphrase crashes bitcoin client
+16148,MDU6SXNzdWU0NTI0NDU2Mjg=,38,Travis timeouts
+3003,MDU6SXNzdWUxOTU3MDc1NQ==,38,configure error on OSX: No working boost sleep implementation found
+3219,MDU6SXNzdWUyMjI3NjQ5OA==,37,Default boost 1.53 on Ubuntu 13.10 doesn't work
+11045,MDU6SXNzdWUyNTAxMTAwMzM=,36,Offering my Bitcoin fuzzers
+9620,MDU6SXNzdWUyMDI2OTYxMTA=,36,Wallet lost track of funds
+7015,MDU6SXNzdWUxMTY4ODUyNzM=,34,getblocktemplate blocks submitblock
+6772,MDU6SXNzdWUxMTAwNzc2MjU=,35,Failing to build tag v0.11.0 on Kubuntu 15.04
+2998,MDU6SXNzdWUxOTUxOTk1Mw==,35,configure: error: libdb_cxx headers missing (netbsd)
+17323,MDU6SXNzdWU1MTQ4NTg5OTY=,34,Gitian builds fail non-deterministically
+10269,MDU6SXNzdWUyMjM4NDAzOTM=,34,Windows build appears broken on WSL (buntu okay)
+6613,MDU6SXNzdWUxMDQyNzM4NTc=,34,Obfuscate database files
+2371,MDU6SXNzdWUxMjA5Njg0NA==,34,The Bitcoin-Qt v0.8.0b preferences pane does not accept changes under OS X 10.8.3 
+13478,MDU6SXNzdWUzMzI4MjE5NDA=,33,[RFC] gui: Minimum required Qt5
+9889,MDU6SXNzdWUyMTA4NDU0NDM=,33,TODO for release notes 0.15.0
+8738,MDU6SXNzdWUxNzcxNDkwMDU=,33,blockchain download speed
+6568,MDU6SXNzdWUxMDE2MTU5NDc=,33,Improve transaction privacy / fungibility in Bitcoin Core and the Bitcoin system [meta tracking issues]
+4550,MDU6SXNzdWUzODA4MTU3NA==,33,Reverted double spend relaying (for now)
+2305,MDU6SXNzdWUxMDk3MzkyNA==,33,Corrupted database?
+7235,MDU6SXNzdWUxMjMxMzY2ODY=,32,Wallet suggestion: Hide receive addresses until fully synced.

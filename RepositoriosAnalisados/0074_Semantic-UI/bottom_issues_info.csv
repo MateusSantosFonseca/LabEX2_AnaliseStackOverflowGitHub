@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+10,MDU6SXNzdWUxOTUwNzkwNw==,0,One Point Oh
+35,MDU6SXNzdWUxOTc3Nzk4Mg==,0,collections/form: Hand cursor only on part of toggle checkbox
+36,MDU6SXNzdWUxOTc3ODA3Mw==,0,collections/menu: Small icon offset when hovering over secondary menu
+37,MDU6SXNzdWUxOTc3ODI0Mg==,0,collections/menu: Search field is not vertically centered in menu
+39,MDU6SXNzdWUxOTc3ODU4OQ==,0,modules/dropdown: Combobox is missing border when pressed
+44,MDU6SXNzdWUxOTc4Mjk5OQ==,0,collections/table: Celled table with 2px border on left side
+45,MDU6SXNzdWUxOTc4MzUyMA==,0,elements/label: Ribbon label with small gap to segment
+51,MDU6SXNzdWUxOTgxMzQwNA==,0,circular icon inside field isn't circular
+52,MDU6SXNzdWUxOTgxNDc2Mg==,0,Corner label in field is above the loader in form loading-state
+79,MDU6SXNzdWUyMDA5OTMyNA==,0,Move to Semantic UI organisation rather than jlukic
+82,MDU6SXNzdWUyMDExMzU3Nw==,0,Small spelling error on the introduction page
+103,MDU6SXNzdWUyMDIxNzY1NQ==,0,Checkbox tabindex bug
+139,MDU6SXNzdWUyMDM2NDg0Mg==,0,List Content Floating
+167,MDU6SXNzdWUyMDU0MTU1NA==,0,According with 100% width of the preceding container
+172,MDU6SXNzdWUyMDU3NjExNA==,0,Popups Side is Inverted
+187,MDU6SXNzdWUyMDYzNzg3OQ==,0,Dropdown selector box not updating displayed value
+204,MDU6SXNzdWUyMDcxOTY0NQ==,0,Future Enhancements
+205,MDU6SXNzdWUyMDcxOTY5MQ==,0,2.x Changes
+207,MDU6SXNzdWUyMDcyMjIzOQ==,0,[Embed] Module
+210,MDU6SXNzdWUyMDcyMjQ4Nw==,0,API - Behavior
+303,MDU6SXNzdWUyMTkxOTI2OQ==,0,The little arrow on dropdowns doesn't have cursor:pointer style
+314,MDU6SXNzdWUyMjAwOTU3MA==,0,Use Wiki for Integration Repos
+395,MDU6SXNzdWUyMzUzNDIzMg==,0,`pc only` not working properly ?
+415,MDU6SXNzdWUyMzk2NDA4OA==,0,css issue
+438,MDU6SXNzdWUyNDM1MjQzNQ==,0,When the Dropdown options have scroll the dropdown will not scroll to the selected item.
+461,MDU6SXNzdWUyNDY2NjU3Mg==,0,Typo on Website - Colume!
+486,MDU6SXNzdWUyNDgzNDc0OA==,0,"Docs: Progress bar, no animation in IE11"
+495,MDU6SXNzdWUyNDg4NzcyNw==,0,"There is a lot of ADs in docs of ""Semantic-UI-zh"" repository "
+519,MDU6SXNzdWUyNTE0MTI1Mg==,0,Html5/Ajax
+600,MDU6SXNzdWUyNjc1OTYzOA==,0,Button-Conditionals should be customizeable
+628,MDU6SXNzdWUyNzYwMjYwMA==,0,.buttons > .button + .button.icon different size
+637,MDU6SXNzdWUyNzgwNDM2NQ==,0,doc issue : popup / positionning
+645,MDU6SXNzdWUyNzk0NTQ3NA==,0,Close icon positioning in modal on small screens
+668,MDU6SXNzdWUyODMzMzkyMQ==,0,Enhancement : support tiny modal
+684,MDU6SXNzdWUyODU5MTM1OQ==,0,[CSS branch] Dropdown disapear 
+720,MDU6SXNzdWUyOTUyMzk5MQ==,0,Pointing inverted menu bug
+747,MDU6SXNzdWUzMDI4NzYyMQ==,0,Multi Level dropdown with more than 2 nested levels
+762,MDU6SXNzdWUzMDkwNjQ3NQ==,0,[Modal/Popup] Popup doesn't show up inside a modal
+773,MDU6SXNzdWUzMTEzOTc0NQ==,0,[accordion - settings - selector - content] can not work
+810,MDU6SXNzdWUzMjE0OTY0MA==,0,[doc] modal miss the 'code link'
+814,MDU6SXNzdWUzMjM2NTA3Ng==,0,Let the class property unification!
+887,MDU6SXNzdWUzNTQ5OTE2NA==,0,"Cleanup length, maxLength form validation rules"
+964,MDU6SXNzdWUzODQ0MTY0Nw==,0,Please delete
+994,MDU6SXNzdWUzOTgxNDMwOQ==,0,sir can u help me. I just got error on .or and .only class in sementic.css.
+1051,MDU6SXNzdWU0MTY3NjkyOA==,0,"[Dropdown , Popup] Creat popover like facebook notification (or message or friend requests) popover"
+1056,MDU6SXNzdWU0MTc1NTU1MA==,0,Sub Menu Text Hover
+1173,MDU6SXNzdWU0NTk4NTEyNQ==,0,Beta: Doubling Grid on Mobile 
+1229,MDU6SXNzdWU0ODE4OTkxNw==,0,nevermind
+1234,MDU6SXNzdWU0ODI2OTQ4OA==,0,delete
+1271,MDU6SXNzdWU0OTc4Mzk4MA==,0,

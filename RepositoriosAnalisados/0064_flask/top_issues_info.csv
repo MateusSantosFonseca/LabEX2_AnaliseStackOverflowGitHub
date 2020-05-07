@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+1361,MDU6SXNzdWU1OTU4ODQ4MA==,57,Method `render_template` does not use blueprint specified `template_folder`
+1575,MDU6SXNzdWUxMDg3MTIxOTQ=,46,What is the release schedule for 1.0?
+1421,MDU6SXNzdWU2NjU4ODg3Ng==,43,`request.json` deprecation discussion
+1169,MDU6SXNzdWU0MTkyMDU1MA==,40,"BUG in ""send_file"" and ""send_from_directory"""
+1602,MDU6SXNzdWUxMTQ0NTE1MTY=,39,allow using alternative json library
+1286,MDU6SXNzdWU1MjM2MzkwNw==,38,send_file fails when filename contains unicode symbols
+491,MDU6SXNzdWU0MTExNzc1,37,host_matching is in Werkzeug since 0.7 but not in Flask
+925,MDU6SXNzdWUyNDAzODc1MA==,35,Message Flashing's implementation is broken and should be removed anyway
+825,MDU6SXNzdWUxNzc0OTgzMA==,35,Incomplete mod_wsgi documentation
+2688,MDU6SXNzdWUzMTI2MzEzOTI=,32,PEP484 static typing support
+2569,MDU6SXNzdWUyODQ0NjIwNzQ=,31,Flask Multi-Server Development Hooks
+1680,MDU6SXNzdWUxMjQ2MTMzNTE=,31,Flask isn't doctestable
+593,MDU6SXNzdWU2ODQ3MzA4,31,Nestable blueprints
+1829,MDU6SXNzdWUxNTc0MDAzNjI=,30,"""[Errno 2] No such file or directory"" on flask run with FLASK_DEBUG=1"
+1102,MDU6SXNzdWUzNzE3MDIwNg==,30,Let's kill run
+914,MDU6SXNzdWUyMjY1NzI1OQ==,30,Convincing manager with large high traffic sites using Flask. Any tips?
+2229,MDU6SXNzdWUyMTkyMjAwNjc=,29,Chunked uploads missing body data.
+2626,MDU6SXNzdWUyOTYwODExMTY=,28,Official Guide on how to structure Flask application
+1902,MDU6SXNzdWUxNTk1MDE4Mjc=,28,Import error with some examples
+1289,MDU6SXNzdWU1MjUyNjQ1NQ==,27,bad content-length default
+248,MDU6SXNzdWUxMDgzNDAz,26,Review JSON Security
+2206,MDU6SXNzdWUyMTQxODg3NDI=,25,Missing headers on CSV file
+1355,MDU6SXNzdWU1ODIzNzMxNA==,25,New Watchdog Reloader Is Not Detecting Changes
+673,MDU6SXNzdWUxMDUzOTE0Mw==,25,Can't jsonify list object
+2375,MDU6SXNzdWUyMzU5OTc1NjE=,24,"Add .env support, take 2"
+2118,MDU6SXNzdWUxOTY1NzUxMzg=,24,config.from_pyfile crashes on Python 3 when source isn't encoded in default encoding
+1911,MDU6SXNzdWUxNjAxMzA4MTM=,24,Wrong import json library
+1233,MDU6SXNzdWU0NzU0MzE1Mg==,24,New label 'good first bug'
+1837,MDU6SXNzdWUxNTc2MTAwNDA=,23,Setting error handler for unknown code fails
+1002,MDU6SXNzdWUyOTUyODU2MA==,23,Allow using |tojson in double-quoted HTML attributes again
+367,MDU6SXNzdWUyNjQzMjc2,23,support for HTTP/1.1 Transfer-Encoding: chunked
+1995,MDU6SXNzdWUxNzM1ODA3ODY=,22,No response and No exception traceback when render_template failed and DEBUG=True
+1317,MDU6SXNzdWU1NDM5MDYxMA==,22,flask.wrappers.Request.get_json fails to check for data
+587,MDU6SXNzdWU2NTk5NTMw,22,Python 3 port is available
+348,MDU6SXNzdWUyMTc3MTQ1,22,Static files only work for blueprints registered with url_prefix
+2778,MDU6SXNzdWUzMjI1NjY2OTM=,21,Registered error handler (using register_error_handler) processes inappropriate exceptions
+1043,MDU6SXNzdWUzMjczNDQ3OQ==,21,Why isn't there `Blueprint.after_last_app_request`?
+641,MDU6SXNzdWU4Nzk1MTA0,21,Design issue with flask.logger.create_logger().
+315,MDU6SXNzdWUxNTczNzk5,21,'Float' converter in route not working
+2023,MDU6SXNzdWUxNzY0NzMwMDc=,20,How should logging in Flask look like?
+1783,MDU6SXNzdWUxNDg4NDU1NTA=,20,"Automatic redirect with ""/"" breaks routes with different methods"
+1048,MDU6SXNzdWUzMjk4Njk2NA==,20,cannot run example flaskr
+3168,MDU6SXNzdWU0MzkzOTQxODc=,19,Improve warning about dev server use in production
+2520,MDU6SXNzdWUyNzM4MTcyODI=,19,Don't create View instances for each request
+2513,MDU6SXNzdWUyNzIzMzk4NDI=,19,Rewrite tutorial and example
+1091,MDU6SXNzdWUzNTgzMjQzMg==,19,relative url_for with a blueprint mounted two times
+941,MDU6SXNzdWUyNTAyOTU1Ng==,19,Registering a handler for HTTPException has no effect
+2188,MDU6SXNzdWUyMDg3ODE3OTM=,18,Input stream not automatically drained at teardown.
+2086,MDU6SXNzdWUxODk3NjIwNDY=,18,large file uploads eating up memory
+1412,MDU6SXNzdWU2NTQxMzc5MQ==,18,url_for to another application during request?

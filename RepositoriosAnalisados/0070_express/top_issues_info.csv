@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+2844,MDU6SXNzdWUxMjU3OTMxOTQ=,170,is express dying?
+2755,MDU6SXNzdWUxMDYxNzEyMDQ=,103,Should Express 5.0 require a minimum of Node.js 4?
+2259,MDU6SXNzdWUzODU5MDA0OQ==,63,promises
+3552,MDU6SXNzdWUyOTQ1NDAzMzk=,58,Memory Leak
+1838,MDU6SXNzdWUyMzUxMzc4MA==,53,Express 4.0
+2218,MDU6SXNzdWUzNzIzNzA3MQ==,52,refactor router
+2211,MDU6SXNzdWUzNzIwNTg3NA==,51,Add bodyParser back to express 4.x
+2885,MDU6SXNzdWUxMzI3NzU1MTc=,48,Weekly community hangout
+3913,MDU6SXNzdWU0MjM4OTE5ODQ=,47,should I use express for future projects?
+936,MDU6SXNzdWUyNTk0Njcy,40,consider removing app.configure()
+561,MDU6SXNzdWU2NDk3NTI=,38,Can't use mutable header APIs after sent
+1304,MDU6SXNzdWU2NDU1NDMx,37,JSONP enabled by default
+2264,MDU6SXNzdWUzODk2MDMxMA==,36,This repo needs to belong in the expressjs org.
+2151,MDU6SXNzdWUzNDU4MjgxOA==,34,Params registered on app available in routers used by app
+512,MDU6SXNzdWU1NTA5NzY=,33,Async view support
+897,MDU6SXNzdWUyMjk2NjYz,32,req.rawBody is no longer available (regression #34)
+3413,MDU6SXNzdWUyNTYwMjQyNTI=,31,Possible memory leak
+2761,MDU6SXNzdWUxMDc4NzU2MDk=,31,Support for module http2?
+2652,MDU6SXNzdWU3NzYzODI5Ng==,31,TypeError: Failed to decode param ''
+2539,MDU6SXNzdWU1NzA5ODYwMA==,31,io.js support
+2406,MDU6SXNzdWU0NjM4NjU0NQ==,31,serv-static stops when loading many images from iphone mobile safari.
+2281,MDU6SXNzdWUzOTUzNTc1NA==,31,'/' route breaks strict routing
+749,MDU6SXNzdWUxMjA1NjE4,31,Problem with Ubuntu 10.10 on Session and res.Redirect
+2495,MDU6SXNzdWU1NDA2ODQyNA==,30,Wildcard in route parameter regexp
+2133,MDU6SXNzdWUzNDE3MTAyMA==,30,Routes execution order not honored
+1980,MDU6SXNzdWUyOTUwOTkyOA==,30,Please add app.route('foo').use()
+2818,MDU6SXNzdWUxMTk1MzY0MDc=,29,"include ""typings"" field in package.json"
+2501,MDU6SXNzdWU1NDU2NjMzNQ==,29,Add originalRoute like originalUrl
+2429,MDU6SXNzdWU0NzkyMDEwNA==,29,Deprecate app.param(fn)
+2793,MDU6SXNzdWUxMTUxMTM4MzQ=,28,defaut error handler (finalhandler) should not prevent the response being sent
+2709,MDU6SXNzdWU5NTU3NTAzOQ==,28,"Having a nested array call act as new ""route""."
+2447,MDU6SXNzdWU0OTczNzE2MA==,28,express 4.10.2 issue with sinon fake timers
+2078,MDU6SXNzdWUzMjMwMTI5MQ==,28,Expose mount paths to router
+2727,MDU6SXNzdWU5OTYwNjQ5MQ==,27,Why express session is very slow?
+1816,MDU6SXNzdWUyMjg2NDUyNQ==,27,"""Weird"" utf-8 characters in POST body causing content-length mismatch"
+2930,MDU6SXNzdWUxMzg0MjU4MjI=,26,npm ERR! Failed to parse package.json data.
+2227,MDU6SXNzdWUzNzYyMzg3Nw==,26,"Deprecate res.send(status, body) format"
+2152,MDU6SXNzdWUzNDY1MzYxOA==,26,Download zip file
+1352,MDU6SXNzdWU3MzAwODEx,26,400 on malformed URIs
+3935,MDU6SXNzdWU0MzQ3NTQxNjI=,25,A Cookie `maxAge` of `undefined` causes incorrect behavior.
+3560,MDU6SXNzdWUyOTYyMzY3NzA=,25,Integrate Babel with Express 4.x
+1371,MDU6SXNzdWU3NTk5MTQ4,25,Arrays as paths
+1166,MDU6SXNzdWU0OTc3MTgz,25,SSL Connection Error
+607,MDU6SXNzdWU3MTYzODQ=,25,redirect for http server when behind https proxy
+4013,MDU6SXNzdWU0NzAzODAyNDA=,24,buffer deprecated
+1863,MDU6SXNzdWUyNDUwNjY0MA==,24,VM env req.protocol is inaccurate
+1765,MDU6SXNzdWUyMDE3NDkyNA==,24,Consider support for dynamic middleware loading
+762,MDU6SXNzdWUxMjMxOTEz,24,New site
+3308,MDU6SXNzdWUyMjgxNTMwMDE=,23,List All Routes in express app
+3255,MDU6SXNzdWUyMTY2OTUyNTE=,23,npm ERR! Failed to parse json

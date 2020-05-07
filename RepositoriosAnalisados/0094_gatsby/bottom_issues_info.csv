@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+3,MDU6SXNzdWU5MDIyOTA2Nw==,0,Add option to CLI for verbose/noisy vs. quiet output. Default to quiet
+8,MDU6SXNzdWU5MTg5NTQ1NA==,0,"Change command from ""watch"" to ""serve"""
+9,MDU6SXNzdWU5Mjk1MjcwNA==,0,Investigate why webpack isn't seeing loaders not written in plain JS
+42,MDU6SXNzdWUxMDc4NTE4MzY=,0,Trim package.json
+138,MDU6SXNzdWUxMzUyOTk2NjQ=,0,TASK: eliminate remaining uses of Underscore and replace with Lodash.
+139,MDU6SXNzdWUxMzUzMDAyNjk=,0,FEATURE: Add parentTemplate to page routes
+155,MDU6SXNzdWUxMzY2MjA2MDk=,0,Update README example for modifying Webpack to one that isn't now supported in core
+182,MDU6SXNzdWUxNDAwMTExODQ=,0,"Add ""view page source on GitHub"" link to starters"
+190,MDU6SXNzdWUxNDA1MzAzNTk=,0,When building with --prefix-links check that linkPrefix set in config
+205,MDU6SXNzdWUxNDI4MjcyNjY=,0,Rename the link function in gatsby-helpers to make it clear it's only necessary if you need to prefix links
+215,MDU6SXNzdWUxNDM3NzI1MDA=,0,"Change Gatsby config/extension file names to ""gatsby.node.js"" and ""gatsby.browser.js"""
+280,MDU6SXNzdWUxNTM4MjQ3NDE=,0,Evaluate ideas in this presentation for making Webpack faster
+317,MDU6SXNzdWUxNTkwMzIzODA=,0,"""gatsby new"" fails on 0.12"
+367,MDU6SXNzdWUxNjc5MDk0Nzk=,0,Integrate Webpack validator?
+446,MDU6SXNzdWUxNzcyOTQ0OTE=,0,test
+452,MDU6SXNzdWUxNzgxMjcwNzQ=,0,Redirect from non-slash to slash page in development
+496,MDU6SXNzdWUxODIzNzM1NzM=,0,Show progress bar for running GraphQL queries
+669,MDU6SXNzdWUyMDY1MjkzNjc=,0,Issue when using babel-preset-env with configuration.
+856,MDU6SXNzdWUyMjQzMDgwMTk=,0,[1.0] Perhaps use jest-validate instead of Joi for validating config
+970,MDU6SXNzdWUyMjg4NTM4MTM=,0,[1.0] Allow for gatsby-browser API's to use configurable arguments
+1018,MDU6SXNzdWUyMzA1NzU2MzM=,0,[1.0] gatsby-link non-functional when onClick props are passed
+1056,MDU6SXNzdWUyMzE5MDUzNjI=,0,[1.0] Feature request: Add field to File nodes with link to that file's URL on Github (or other git hosting service)
+1375,MDU6SXNzdWUyNDA3NzczNDU=,0,[source-contentful] syncing new content doesn't add reverse links
+1472,MDU6SXNzdWUyNDIyMDI0NTY=,0,[source-drupal] Drupal initiatives to work with
+1652,MDU6SXNzdWUyNDY0NzEyODM=,0,Parse the provided host value in case the user supplies more than the needed IP address
+1676,MDU6SXNzdWUyNDcxMTE0MDY=,0,Using styled-components T
+1677,MDU6SXNzdWUyNDcxMTE0MTE=,0,Using styled-components th
+1693,MDU6SXNzdWUyNDc1MDg2NjE=,0,[Why?] Gatsby unlinks all the .gif files from public folder from each build
+1795,MDU6SXNzdWUyNTAwMzIxMjM=,0,Create a function which detects if require error is not MODULE_NOT_FOUND
+1811,MDU6SXNzdWUyNTAyMTk2Nzg=,0,Delete all html files in public as part of bootstrap
+1825,MDU6SXNzdWUyNTAzOTI0MDU=,0,Add babel-runtime to all packages
+1877,MDU6SXNzdWUyNTE5ODM1NTQ=,0,app.js bundle is not minified
+1881,MDU6SXNzdWUyNTIxMjQ2NTQ=,0,"Duplicate, unprocessed styles with CSS Modules"
+1883,MDU6SXNzdWUyNTIxMzQ1MjM=,0,Duplicate render when `gatsby-link` is missing a leading slash
+1890,MDU6SXNzdWUyNTIzNjMyOTg=,0,Remove duplicate layouts being written to async/sync requires files
+1938,MDU6SXNzdWUyNTMzNTY1NjE=,0,[gatsby-plugin-nprogress] Expose nprogress options
+1950,MDU6SXNzdWUyNTM0NjY5MzU=,0, eslint-config-airbnb and eslint-plugin-react errors
+1982,MDU6SXNzdWUyNTQ0MjkyMDc=,0,remark-images blows up images to 100% width and ignores ppi
+2028,MDU6SXNzdWUyNTUzNDQ4MDQ=,0,[www] New icons for mobile navigation
+2030,MDU6SXNzdWUyNTU1NDkzMjc=,0,"GraphQL in Component: ""Unhandled promise rejection: Invariant Violation"""
+2058,MDU6SXNzdWUyNTYzODE0MzQ=,0,Allow sassLoader options on webpack config root for webpack v1
+2106,MDU6SXNzdWUyNTc1MzIwMDM=,0,Would love to see an uncss plugin
+2256,MDU6SXNzdWUyNjExODI0NTI=,0,[gatsby-link] no TypeScript definitions for navigateTo
+2514,MDU6SXNzdWUyNjY1NTQxODE=,0,Allow pages and layout directory pages to be configurable 
+2523,MDU6SXNzdWUyNjY2Nzk2Njk=,0,[examples/image-processing] Fix anchor links
+2757,MDU6SXNzdWUyNzA3NDM5NTY=,0,Ways to improve our SW implementation
+2806,MDU6SXNzdWUyNzEzNjUzNDU=,0,[gatsby-source-filesystem] Validate the existence of path in options property
+2887,MDU6SXNzdWUyNzMxNTY0MTY=,0,gatsby-link: add `withPrefix` to index.d.ts
+2953,MDU6SXNzdWUyNzQ5NjQ4MTE=,0,GraphQL variables with gatsby-transformer-excel plugin
+3255,MDU6SXNzdWUyODI3MTI2NzM=,0,'gatsby develop' requires restarting to load new component files

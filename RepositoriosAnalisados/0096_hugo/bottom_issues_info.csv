@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+58,MDU6SXNzdWUxODQ0NTgwNw==,0,"nitro ""-stepAnalysis"" flag unavailable"
+65,MDU6SXNzdWUxODY4NzY4MA==,0,Add support for Amber
+71,MDU6SXNzdWUxODgxNDAwNA==,0,Using slug and alias results in a all the slug page and the original file being present when creating an index
+74,MDU6SXNzdWUxODg4OTY5Ng==,0,Adding amber support seems to have broken html/template support
+75,MDU6SXNzdWUxOTA1NTQwOA==,0,Home page being written to wrong location
+80,MDU6SXNzdWUyMDAwMjA5MQ==,0,BUG lost top level index.html
+85,MDU6SXNzdWUyMDI0MTU0OA==,0,Hugo not returning proper error code on failure
+88,MDU6SXNzdWUyMDI2NjM1Nw==,0,Cannot use command-line flags without an explicit command
+92,MDU6SXNzdWUyMDcwNDMyMg==,0,word count is broken. Always displays 100 (rounds up to nearest hundred)
+93,MDU6SXNzdWUyMDcwNDQxOA==,0,Some list html pages rendered as xml pages
+94,MDU6SXNzdWUyMDcwNDUxNw==,0,When rendering locally all links are rewitten to live baseUrl
+95,MDU6SXNzdWUyMDcwNDY3MA==,0,List xml pages not generated
+97,MDU6SXNzdWUyMDcxMzMwMQ==,0,Hugo able to create pages 'hugo create -t TYPE post/PAGENAME.ext'
+102,MDU6SXNzdWUyMDcxMzM5OA==,0,hugo shipping with some getting started themes
+106,MDU6SXNzdWUyMDkzNjQwMA==,0,"Add to the meta data ""minutes to read"""
+107,MDU6SXNzdWUyMTQzNTM1Nw==,0,Hugo detects more file changes than expected
+108,MDU6SXNzdWUyMTQzNTM3MQ==,0,common temp files should be ignored when watching
+110,MDU6SXNzdWUyMTc2NTk3NA==,0,Hugo does not look for views in layout/_defaults
+114,MDU6SXNzdWUyMjM4NjMwNA==,0,Absurlify of schemaless urls in scripts and a tags is incorrect
+116,MDU6SXNzdWUyMjQyNjk5OA==,0,"config options ""uglyurls"" and ""verbose"" not functional"
+137,MDU6SXNzdWUyMzIxMzYxMQ==,0,Error checking functions are not correct
+171,MDU6SXNzdWUyNTcyNDQ5Nw==,0,RSSLink is actually RSSlink
+172,MDU6SXNzdWUyNTg2MjY2NA==,0,Hugo generates RSS feeds larger than 512K (max feedburner accepts)
+178,MDU6SXNzdWUyNjIwMzMzMw==,0,bad merge in docs
+212,MDU6SXNzdWUyODQ4Mjk3Nw==,0,Url overrides in front matter ignored if the section has a permalink override
+221,MDU6SXNzdWUyOTAxNzQxMw==,0,trailing slash or no trailing slash for .BaseUrl?
+261,MDU6SXNzdWUzMTg1NDIyOQ==,0,baseurl escaped
+278,MDU6SXNzdWUzMzEzMjM4Mg==,0,404 Not Found for http://hugo.spf13.com/extras/content/organization/
+556,MDU6SXNzdWU0NTU1OTUyNQ==,0,Content builder does not copy content
+574,MDU6SXNzdWU0NjM1OTEwMQ==,0,Sync file dates in /static
+583,MDU6SXNzdWU0NjgxMzk1Ng==,0,docs/content/extras/shortcodes.md missing highlight shortcode in example
+643,MDU6SXNzdWU0ODk3NjYyNQ==,0,Convert is broken
+717,MDU6SXNzdWU1MTk3OTM0MQ==,0,Issue with ordering unweighted pages
+730,MDU6SXNzdWU1MjU1MTU0NA==,0,An option to continue serving anyway
+739,MDU6SXNzdWU1Mjg0MDc0OQ==,0,"Doc to help users troubleshoot ""Categories with accented characters"" Unicode NFC/NFD mismatch on Mac OS X"
+781,MDU6SXNzdWU1Mzg0NzEzMg==,0,Front matter error crashes server
+820,MDU6SXNzdWU1NTE5NjgxMg==,0,Proposal: Rename Page
+837,MDU6SXNzdWU1NTQyODczMQ==,0,Hugo panics when creating nonexistant directory without permissions
+887,MDU6SXNzdWU1Njk3NTc4MA==,0,Add Docs for the Data Files Feature
+892,MDU6SXNzdWU1NzI5MjY1OA==,0,Add data files support in themes
+920,MDU6SXNzdWU1ODQ4MjU2NA==,0,Appveyour build tips
+922,MDU6SXNzdWU1ODYxMzI1NA==,0,osext seems to have moved
+931,MDU6SXNzdWU1OTM0Njk5MA==,0,Trailing slash of BaseUrl with sub path
+934,MDU6SXNzdWU1OTM1MzcwNw==,0,Shortcut syntax for closing a shortcode instance
+955,MDU6SXNzdWU2MDIwNTk1Mw==,0,Avoid temporarily changes in  s.PageTarget()
+958,MDU6SXNzdWU2MDIxMzMwNA==,0,UglyUrls is broken on Windows
+977,MDU6SXNzdWU2MTkyODM5Nw==,0,Add a function to access environment variables in templates
+988,MDU6SXNzdWU2MzAwNTg1NA==,0,404 of utf8 permalink 
+991,MDU6SXNzdWU2MzY5OTEzNA==,0,Add Substr template func
+993,MDU6SXNzdWU2NDAwNTkzNA==,0,Return error on wrong use of the Paginator

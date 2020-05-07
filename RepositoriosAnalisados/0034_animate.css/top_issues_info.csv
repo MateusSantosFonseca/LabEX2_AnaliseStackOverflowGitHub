@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+928,MDU6SXNzdWU0MzY3OTM4MjA=,32,It stoped working in latest Chrome and Firefox
+97,MDU6SXNzdWUxODEyOTE1OA==,22,"Apologies, The Future, and More"
+230,MDU6SXNzdWUzNjEzNjc2Ng==,21,Can I use this in my Sass project?
+158,MDU6SXNzdWUyNzc4ODEzOA==,21,[REQUEST]: SCSS version.
+837,MDU6SXNzdWUzNDMzMzgzODM=,20,Update Website
+508,MDU6SXNzdWUxMjI2NjMxMjE=,19,How to activate animation when the content scrolls into view.
+126,MDU6SXNzdWUyMzUwNDYwOA==,19,LESS version?
+96,MDU6SXNzdWUxODExOTQ2Nw==,17,Chrome Canary Support?
+993,MDU6SXNzdWU1MjI2OTQ5MTY=,16,Animate.css don't work in Vue.
+482,MDU6SXNzdWUxMTUyODY5NzA=,16,Version without -vendor- prefixes
+304,MDU6SXNzdWU0NTQ4NzM2OA==,16,flipInX on IE 11 is buggy
+623,MDU6SXNzdWUxNjk4NDgwODc=,15,Animate.css is not working in any browser.
+319,MDU6SXNzdWU1MDE0Mzg1OQ==,15,Animations not working properly in mozilla
+11,MDU6SXNzdWUxOTQxMTEw,15,Android animation issues
+817,MDU6SXNzdWUzMjY3MTIyODI=,14,Animate.css not active on mobile
+303,MDU6SXNzdWU0NTE1MTEwMw==,14,Font Awsome Spin Support
+898,MDU6SXNzdWUzOTkwOTk2Njc=,13,Bug with animate on latest firefox (even the last 2 major version of firefox)
+648,MDU6SXNzdWUxODcxNzAyMDA=,13,Bad naming effects!!!
+401,MDU6SXNzdWU3Mjk1MDQ0Mg==,13,IE support
+298,MDU6SXNzdWU0NDM2Mjk2MA==,13,ios8 flipOutY not working right
+213,MDU6SXNzdWUzMzIzNzUyMA==,13,Gulp support
+897,MDU6SXNzdWUzOTc5NDEzNjk=,12,scroll to top bug
+879,MDU6SXNzdWUzNzIwMDIyMDI=,12,missing releases on npmjs
+835,MDU6SXNzdWUzNDMzMzc5Mzk=,12,Rewrite documentation
+488,MDU6SXNzdWUxMTYwODc1ODc=,12,Element disappearing after animate (flipInX)  Safari 9 OS X
+198,MDU6SXNzdWUzMDk3MDYyNA==,12,fadeInRightBig causes horizontal scrollbar.
+114,MDU6SXNzdWUyMjI5MzgzMg==,12,CPU Hogging with animate.css
+66,MDU6SXNzdWUxMTQzOTI1OQ==,12,White space
+15,MDU6SXNzdWUyMDExMTI3,12,Animation not working on Localhost
+1012,MDU6SXNzdWU1NTM4MzM3Nzg=,11,Make animation slideOutLeft slide back and forth?
+934,MDU6SXNzdWU0NDIxOTA4NDE=,11,Really choppy animations in Chrome iOS
+884,MDU6SXNzdWUzNzYyMDg2NjA=,11,infinite loop with pause
+755,MDU6SXNzdWUyNjk0NDA0OTE=,11,[Safari 11] Animated Elements have weird backgrounds 
+618,MDU6SXNzdWUxNjg5NDM1MjY=,11,Add namespacing
+519,MDU6SXNzdWUxMjU0ODUyMzA=,11,animations not working in iOS 9.2 safari
+449,MDU6SXNzdWU5NzkzOTU5OA==,11,the class .slideInRight acts weird on mobile phone.
+387,MDU6SXNzdWU2ODk4NTQwNw==,11,Video can't go fullscreen when container is animated
+370,MDU6SXNzdWU2MjA1MzkyNw==,11,flipOutX effect doesnot work well.
+327,MDU6SXNzdWU1MjU2NjMxMQ==,11,Animations does not work in browser running on touchscreen devices
+16,MDU6SXNzdWUyMDEyMjg2,11,Demo page seems busted in recent Chrome builds
+1034,MDU6SXNzdWU1ODg5OTExNTg=,10,Add rotateClockwise & rotateCounterClockwise Class
+819,MDU6SXNzdWUzMjg0OTQyMTE=,10,Deprication warning
+780,MDU6SXNzdWUyODkxOTQ5MjU=,10,Content is blurry after bounceIn effect
+677,MDU6SXNzdWUyMTA4NDI1OTI=,10,IE11 weird issue for slideInRight and slideInLeft
+670,MDU6SXNzdWUyMDgzOTk0MzE=,10,Not work wow.js with overflow:scroll
+257,MDU6SXNzdWUzODUyNTExNg==,10,BounceInUp issue with Android 4.3
+4,MDU6SXNzdWUxOTAwMDQ3,10,split animations into different files
+953,MDU6SXNzdWU0NjQxMTM4MTA=,9,zoomInzoomOut
+938,MDU6SXNzdWU0NTAzMjQ0NzA=,9,Issue installing with Node v12 (fsevents)
+890,MDU6SXNzdWUzODUwNzQxNTY=,9,Bounce router-transition (bad positioning)

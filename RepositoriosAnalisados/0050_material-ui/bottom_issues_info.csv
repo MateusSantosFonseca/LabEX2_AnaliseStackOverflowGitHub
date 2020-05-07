@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+3,MDU6SXNzdWU0NTg4ODU5NQ==,0,Unable to pass onChange event to Input component
+14,MDU6SXNzdWU0ODA1NjMyMA==,0,dropdown style broken on Safari
+17,MDU6SXNzdWU0ODE3MDA5OA==,0,Dropdown linebreaks
+19,MDU6SXNzdWU0ODIwNzUwNA==,0,Ripples are triggered on mouseup instead of mousedown.
+36,MDU6SXNzdWU0ODI4MjQ4OA==,0,Left Nav shadow is visible while docked 
+45,MDU6SXNzdWU0ODM0ODY5OA==,0,Set user-select to none
+68,MDU6SXNzdWU0OTAxMjMwOA==,0,Can't use with server-side rendering
+70,MDU6SXNzdWU0OTE0MzUxMg==,0,Radio Button behavior shows through in Paper Toggle
+85,MDU6SXNzdWU0OTc0MzM4OQ==,0,Dialog vertically centering
+88,MDU6SXNzdWU0OTgxMTQyNA==,0,sub items of the nested menu component not showing properly
+93,MDU6SXNzdWU1MDE0NTEwNA==,0,Flatbutton animation disappears when scrolling
+94,MDU6SXNzdWU1MDE4MDg4NA==,0,Radio Label is not working
+123,MDU6SXNzdWU1MTA3OTgwMw==,0,Default data for DropDownMenu?
+129,MDU6SXNzdWU1MTIxMjI3NA==,0,ripple animation not working in firefox Mac book pro
+143,MDU6SXNzdWU1MTgwNzA5MQ==,0,Add code examples for Inputs in the http://material-ui.com/
+155,MDU6SXNzdWU1MjQ5NTg5MA==,0,Buttons should trigger on spacebar key up
+180,MDU6SXNzdWU1Mjc4NzU4NQ==,0,Extra period in Last Name label under Inputs
+183,MDU6SXNzdWU1Mjk1MjAzNQ==,0,Rename Inputs to Text Fields
+184,MDU6SXNzdWU1MzAwMzQ4MQ==,0,Custom Icon in AppBar
+192,MDU6SXNzdWU1MzMzOTI5NQ==,0,"On Safari, the Snackbar example does not work"
+213,MDU6SXNzdWU1Mzc3NzY4OQ==,0,Add a Label to the Toggle component
+236,MDU6SXNzdWU1NDE2MzI4MQ==,0,Toggle doesn't update based on new props
+256,MDU6SXNzdWU1NDk4NzEzOQ==,0,Disabled prop on RaisedButton causing wrong classes
+265,MDU6SXNzdWU1NTIwMTMyNg==,0,TextField multiLine=true breaks getValue()
+277,MDU6SXNzdWU1NTUxMjc5NQ==,0,reactify
+291,MDU6SXNzdWU1NjA2MjY5NQ==,0,Allow user to set Menu Item Toggle defaultToggled value
+296,MDU6SXNzdWU1NjE4MTgxNA==,0,Multi-line TextField doesn't respect \n in defaultValue
+304,MDU6SXNzdWU1NjQyMTg5Ng==,0,Dialog Component
+312,MDU6SXNzdWU1Njg0NjQ4Mw==,0,Textfield multiline valueLink error
+314,MDU6SXNzdWU1Njg4MzY0MQ==,0,License information
+321,MDU6SXNzdWU1NzE0NzU2NQ==,0,click events not fire onTouchTap events
+342,MDU6SXNzdWU1Nzg0OTM5MA==,0,DatePicker on mobile / narrow screens
+375,MDU6SXNzdWU1OTI0MzA3Nw==,0,Allow setting initial tab index
+401,MDU6SXNzdWU2MDIzNTA4OQ==,0,Fix Invalid Prop Warning On Icon Buttons Doc Page
+411,MDU6SXNzdWU2MDQ5NTQ5OQ==,0,Left Nav: Pass touch handlers through
+505,MDU6SXNzdWU2NjU2OTEzMw==,0,Components are not properly styled under webpack
+527,MDU6SXNzdWU2Nzg0MTcxMA==,0,Several buttons appear focused when tabbing rapidly
+542,MDU6SXNzdWU2ODg5NzA5Mg==,0,Two touch-ripples show up on buttons on touch devices
+556,MDU6SXNzdWU2OTkzODQ0MA==,0,dropdown menu broken
+613,MDU6SXNzdWU3MzczNTQyMw==,0,Tabs sizes on display:none or window resizes.
+619,MDU6SXNzdWU3NDczMzE5OQ==,0,Font-family is not set correctly on buttons
+625,MDU6SXNzdWU3NDc1NDM1NA==,0,Issues when flat button is focused with a keyboard
+627,MDU6SXNzdWU3NDc2MDU5NA==,0,"In Safari, focus-ripple doesn't pulsate"
+653,MDU6SXNzdWU3Nzc4MTY2OA==,0,icon-buttons page on the docs website doesn't work
+702,MDU6SXNzdWU4MTgzMDUwNQ==,0,Bug: Toggling the disabled prop on RaisedButton triggers incorrect transitions
+716,MDU6SXNzdWU4MjI0NjMzNw==,0,[Bug] [Documentation] Same code displayed for all three kinds of buttons
+739,MDU6SXNzdWU4Mzg5NzU5MQ==,0,Allow the highlight indicator of <Tabs> to be theme-able
+741,MDU6SXNzdWU4NDExNjA1Ng==,0,typo in left-nav
+766,MDU6SXNzdWU4NTc4MTAxNQ==,0,ClickAwayable mixin reaction has a 300ms delay
+769,MDU6SXNzdWU4NTc4NDcxNg==,0,onClick is used instead of onTouchTap in docs

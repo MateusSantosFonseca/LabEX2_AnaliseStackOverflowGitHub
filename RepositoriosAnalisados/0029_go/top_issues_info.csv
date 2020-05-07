@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+9,MDU6SXNzdWU1MTI3NTg3OA==,1095,I have already used the name for *MY* programming language
+32437,MDU6SXNzdWU0NTIyMzkyMTE=,807,"Proposal: A built-in Go error check function, ""try"""
+15292,MDU6SXNzdWUxNDgyMzQxMzE=,674,proposal: spec: generic programming facilities
+21161,MDU6SXNzdWUyNDU0NjcwMTU=,519,proposal: Go 2: simplify error handling with || err suffix
+29934,MDU6SXNzdWU0MDMxMTE3NTI=,434,proposal: Go 2 error values
+16339,MDU6SXNzdWUxNjUxNzk1NzM=,371,Proposal: Alias declarations for Go
+32825,MDU6SXNzdWU0NjE5MjUxOTk=,314,"proposal: leave ""if err != nil"" alone?"
+19412,MDU6SXNzdWUyMTE5OTUxMjQ=,306,proposal: spec: add sum types / discriminated unions
+15658,MDU6SXNzdWUxNTQzODM0NTA=,243,runtime: FreeBSD memory corruption involving fork system call
+24301,MDU6SXNzdWUzMDMxOTMzNjU=,242,cmd/go: add package version support to Go toolchain
+18130,MDU6SXNzdWUxOTI3NTc4Mjg=,225,all: support gradual code repair while moving a type between packages
+11058,MDU6SXNzdWU4NDg2NzY2Ng==,216,cmd/go: -buildmode=c-shared should work on windows
+27532,MDU6SXNzdWUzNTc2NTQwMzA=,211,all: port to RISC-V
+32088,MDU6SXNzdWU0NDUxMTc4OTQ=,194,proposal: os: Create/Open/OpenFile() set FILE_SHARE_DELETE on windows
+20982,MDU6SXNzdWUyNDIxMTk3MzU=,191,cmd/link: support msvc object files
+19814,MDU6SXNzdWUyMTg2Mzg1NDc=,177,proposal: spec: add typed enum support
+18616,MDU6SXNzdWUyMDAxNjkwMjU=,168,math/bits: an integer bit twiddling library
+35950,MDU6SXNzdWU1MzIzNDExOTI=,162,proposal: cmd/go: support embedding static assets (files) in binaries
+12302,MDU6SXNzdWUxMDI4ODg4OTk=,161,proposal: a version numbering scheme and release process for Go projects
+16721,MDU6SXNzdWUxNzEzMjQ1NTA=,158,"sort: make sorting easier, add Slice, SliceStable, SliceIsSorted, reflect.Swapper"
+10958,MDU6SXNzdWU4MTA5ODIzMA==,157,runtime: tight loops should be preemptible
+21017,MDU6SXNzdWUyNDMxNzc1NzI=,154,Gophercon: Contributor Workshop Registration
+12914,MDU6SXNzdWUxMTEwODY2MTQ=,154,time: use monotonic clock to measure elapsed time
+21956,MDU6SXNzdWUyNTkzNTAwMTc=,150,Proposal: Just Use Github
+18892,MDU6SXNzdWUyMDQ3NjQwMDk=,147,"all: WebAssembly (""wasm"") support"
+23749,MDU6SXNzdWUyOTU1OTcwODA=,138,cmd/go: options missing from cgo whitelists
+17262,MDU6SXNzdWUxNzk3NzE1OTY=,137,cmd/go: assume GOPATH=$HOME/go if not set
+35482,MDU6SXNzdWU1MjA1MTQ0MjM=,130,runtime: revert Windows change to boot-time timers
+2981,MDU6SXNzdWU1MTI3OTk2MA==,125,proposal: testing: add -json flag for json results
+27707,MDU6SXNzdWUzNjA3ODQ5ODY=,122,time: excessive CPU usage when using Ticker and Sleep
+37436,MDU6SXNzdWU1NzA1MDU1NTQ=,117,runtime: mlock of signal stack failed: 12
+24543,MDU6SXNzdWUzMDg3MDgxNDg=,116,runtime: non-cooperative goroutine preemption
+14812,MDU6SXNzdWUxNDA1ODI3MjM=,116,runtime: GC causes latency spikes
+6853,MDU6SXNzdWU1MTI4NTgyNA==,111,all: binaries too big and growing
+29422,MDU6SXNzdWUzOTQxMzMyNDQ=,110,proposal: Go 2: a proposal to support final values and read-only parameters/results in Go
+19623,MDU6SXNzdWUyMTU1MzUxODc=,110,proposal: spec: change int to be arbitrary precision
+17082,MDU6SXNzdWUxNzY1MTc4OTM=,108,proposal: runtime: drop support for linux/armv5E and linux/armv6
+13560,MDU6SXNzdWUxMjEzNzkzMTE=,105,proposal: build: define standard way to recognize machine-generated files
+4373,MDU6SXNzdWU1MTI4MjAzOA==,104,net: errClosing not exported
+19109,MDU6SXNzdWUyMDc5MDUwNDk=,102,"proposal: cmd/go: make fuzzing a first class citizen, like tests or benchmarks"
+22624,MDU6SXNzdWUyNzIwMTEwMjU=,100,proposal: Go 2: add become statement to support tail calls
+18517,MDU6SXNzdWUxOTg4MjI1NTM=,100,codereview: accept Github PRs
+4979,MDU6SXNzdWU1MTI4MjkyNQ==,100,runtime: infinite loop under FreeBSD
+6977,MDU6SXNzdWU1MTI4NjAxMQ==,99,spec: allow embedding overlapping interfaces
+13104,MDU6SXNzdWUxMTQyMzY0Nzk=,96,"x/term: create subrepo for terminal, console, pty and tty related packages"
+32611,MDU6SXNzdWU0NTU5Nzk2OTU=,94,proposal: Go 2: `on err` or `catch` statement for error handling
+11818,MDU6SXNzdWU5NjQ5MzQ3OA==,93,proposal: golang.org/x/exp/shiny: an experimental GUI library.
+11659,MDU6SXNzdWU5NDM2NTIxMQ==,93,cmd/go: exclude vendor directories from wildcard matches?
+1435,MDU6SXNzdWU1MTI3NzgwMg==,93,syscall: Setuid/Setgid doesn't apply to all threads on Linux
+19308,MDU6SXNzdWUyMTA1Nzc1NDY=,91,proposal: spec: binary integer literals

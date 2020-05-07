@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+902,MDU6SXNzdWU1MTI3NzA4Mg==,0,Placeholder issue
+905,MDU6SXNzdWU1MTI3NzA4Ng==,0,Placeholder issue
+1273,MDU6SXNzdWU1MTI3NzU4MQ==,0,Placeholder issue
+1274,MDU6SXNzdWU1MTI3NzU4Mg==,0,Placeholder issue
+1958,MDU6SXNzdWU1MTI3ODU0MA==,0,Placeholder issue
+2554,MDU6SXNzdWU1MTI3OTM3Ng==,0,Placeholder issue
+3626,MDU6SXNzdWU1MTI4MDkwNQ==,0,Placeholder issue
+4025,MDU6SXNzdWU1MTI4MTUyOA==,0,Placeholder issue
+4161,MDU6SXNzdWU1MTI4MTczMw==,0,Placeholder issue
+4362,MDU6SXNzdWU1MTI4MjAyMQ==,0,Placeholder issue
+5009,MDU6SXNzdWU1MTI4Mjk4NQ==,0,Placeholder issue
+5012,MDU6SXNzdWU1MTI4Mjk4OA==,0,Placeholder issue
+5013,MDU6SXNzdWU1MTI4Mjk4OQ==,0,Placeholder issue
+5092,MDU6SXNzdWU1MTI4MzEwNQ==,0,Placeholder issue
+5093,MDU6SXNzdWU1MTI4MzEwNg==,0,Placeholder issue
+5336,MDU6SXNzdWU1MTI4MzQ4Ng==,0,Placeholder issue
+5520,MDU6SXNzdWU1MTI4Mzc1NQ==,0,Placeholder issue
+5521,MDU6SXNzdWU1MTI4Mzc1Ng==,0,Placeholder issue
+5556,MDU6SXNzdWU1MTI4MzgyNQ==,0,Placeholder issue
+5580,MDU6SXNzdWU1MTI4Mzg2MA==,0,runtime: introduce cnewarray() to simplify allocation of typed arrays
+5942,MDU6SXNzdWU1MTI4NDQyNw==,0,dead issue
+5995,MDU6SXNzdWU1MTI4NDUyMw==,0,Placeholder issue
+6003,MDU6SXNzdWU1MTI4NDUzMw==,0,dead issue
+6025,MDU6SXNzdWU1MTI4NDU2NA==,0,dead issue
+6058,MDU6SXNzdWU1MTI4NDYxNg==,0,dead issue
+6089,MDU6SXNzdWU1MTI4NDY2MQ==,0,dead issue
+6091,MDU6SXNzdWU1MTI4NDY2NA==,0,dead issue
+6108,MDU6SXNzdWU1MTI4NDY5MA==,0,dead issue
+6137,MDU6SXNzdWU1MTI4NDczMg==,0,dead issue
+6139,MDU6SXNzdWU1MTI4NDczNQ==,0,dead issue
+6217,MDU6SXNzdWU1MTI4NDg1Nw==,0,dead issue
+6219,MDU6SXNzdWU1MTI4NDg1OQ==,0,dead issue
+6225,MDU6SXNzdWU1MTI4NDg2Nw==,0,dead issue
+6243,MDU6SXNzdWU1MTI4NDg5NA==,0,dead issue
+6253,MDU6SXNzdWU1MTI4NDkxMw==,0,dead issue
+6313,MDU6SXNzdWU1MTI4NDk5Mg==,0,dead issue
+6525,MDU6SXNzdWU1MTI4NTMxNw==,0,dead issue
+6852,MDU6SXNzdWU1MTI4NTgyMw==,0,Placeholder issue
+6886,MDU6SXNzdWU1MTI4NTg3NA==,0,Placeholder issue
+7495,MDU6SXNzdWU1MTI4Njc4NQ==,0,cmd/compile: method definitions based on later-defined methods don't compile (pathological)
+7688,MDU6SXNzdWU1MTI4NzA2OQ==,0,x/tools/dashboard: add axes on performance graphs
+7755,MDU6SXNzdWU1MTI4NzE2MA==,0,cmd/compile: crash due to running out of memory (likely)
+7756,MDU6SXNzdWU1MTI4NzE2MQ==,0,"go/types: type-checking running ""forever"" (consuming all memory)"
+8402,MDU6SXNzdWU1MTI4ODEzOA==,0,cmd/vet: check for useless assignments to struct fields
+8763,MDU6SXNzdWU1MTI4ODY1OQ==,0,go/types: need way to get from function type to function decl
+8831,MDU6SXNzdWU1MTI4ODc1Ng==,0,x/tools/dashboard/app: incorrect build failure emails
+8878,MDU6SXNzdWU1MTI4ODgxNw==,0,os/user: android support
+8889,MDU6SXNzdWU1MTI4ODgzMQ==,0,sync: consider doing active spinning
+8897,MDU6SXNzdWU1MTI4ODg0Mg==,0,doc: ban data races from spec
+8903,MDU6SXNzdWU1MTI4ODg0OQ==,0,runtime: make chan-based generators faster

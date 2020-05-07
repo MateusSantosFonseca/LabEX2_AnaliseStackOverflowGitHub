@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+50,MDU6SXNzdWUxMDA5Mzk4Mw==,0,Common codebase for webpack and enhanced-require
+51,MDU6SXNzdWUxMDA5NDA0NA==,0,Enhance webpack presentation
+63,MDU6SXNzdWUxMDkwMTA0MA==,0,"add ""browser"" as default field in package.json"
+64,MDU6SXNzdWUxMDkwMTQ4Mg==,0,Add support for require.main
+65,MDU6SXNzdWUxMDkwMTUyNg==,0,add warning to require(<expr>)
+71,MDU6SXNzdWUxMTMyODA2Mg==,0,add UMD
+75,MDU6SXNzdWUxMjAxMjE1Ng==,0,Bug when using worker-loader in watch mode
+76,MDU6SXNzdWUxMjgwMTIwNQ==,0,Bug: SourceMap must be in same directory as javascript
+83,MDU6SXNzdWUxNDE1Mjg2MA==,0,Error in 0.10.0-beta6 - TypeError: Cannot call method 'forEach' of undefined
+94,MDU6SXNzdWUxNjQ3ODIyMg==,0,HCR: Modules are incorrectly removed
+160,MDU6SXNzdWUyNjg2NTMwNg==,0,single module mode
+164,MDU6SXNzdWUyNzA4NjMzOA==,0,"add target: ""amd"""
+181,MDU6SXNzdWUyODI5NzAyMQ==,0,Exit code when --bail used?
+193,MDU6SXNzdWUyODgzNjY2MQ==,0,translation plugin for stealjs
+202,MDU6SXNzdWUyOTI5NTI2Ng==,0,Bugs regarding local named AMD modules
+208,MDU6SXNzdWUyOTc1NDMwNQ==,0,require('url') fails
+209,MDU6SXNzdWUyOTc3NTM1NA==,0,webpack 1.1.0-beta10 issues with handlebars
+249,MDU6SXNzdWUzMjUxMDE1NQ==,0,Watching#close method
+264,MDU6SXNzdWUzMzI4MjIzOQ==,0,MODULE_NOT_FOUND error code
+302,MDU6SXNzdWUzNTIzMTk0MA==,0,inline some modules
+314,MDU6SXNzdWUzNTcyNDYwNQ==,0,ddd
+343,MDU6SXNzdWUzNzE1NzA2NQ==,0,Use of the constant __filename or __dirname causes an exception
+494,MDU6SXNzdWU0MzYxODk0Mg==,0,variable injection for node polyfills sometimes fails with IIFEs
+505,MDU6SXNzdWU0NDY3MDMyOQ==,0,Get access to CLI parameters in config
+617,MDU6SXNzdWU1MTIwNTk0NQ==,0,Does not support commonJS exports object overriding.
+622,MDU6SXNzdWU1MTY3MTA4Mw==,0,CommonsChunkPlugin breaks library
+624,MDU6SXNzdWU1MTcwNjI1OA==,0,Fail to require if there are many require functions in one-line
+647,MDU6SXNzdWU1Mjk3ODA1MQ==,0,chunkHash in stats output
+655,MDU6SXNzdWU1MzI3NTcyNg==,0,Flag pitched loading cycles
+699,MDU6SXNzdWU1NDg0MTI4NQ==,0,"Watch does not execute using ""short way"" and multiconfig"
+721,MDU6SXNzdWU1NTU0NDc2Ng==,0,e
+730,MDU6SXNzdWU1NTY0MDMyOQ==,0,CSS url() that uses ~
+789,MDU6SXNzdWU1NzQ5MjYwMA==,0,Error concatenating two webpack libraries.
+891,MDU6SXNzdWU2MTk0MjI0OQ==,0,-
+976,MDU6SXNzdWU2ODIzMTQyNw==,0,Using webpack with an existing requirejs application?
+1005,MDU6SXNzdWU3MDY2NjcyNQ==,0,Test ticket from Code Climate
+1009,MDU6SXNzdWU3MDc0MTUwNg==,0,Bootstrap not loaded correctly
+1068,MDU6SXNzdWU3NzA1MTk4MQ==,0,1.9.x entry array ordering broken
+1140,MDU6SXNzdWU4NDQ2MDA3MA==,0,Bundle loader causes undefined errors
+1159,MDU6SXNzdWU4NzM3MTQxNg==,0,Loader path is included in module identifier used to exclude from stats
+1226,MDU6SXNzdWU5MzYyNzc2Ng==,0,Parser evaluate this
+1284,MDU6SXNzdWU5Njc4NzA0Mw==,0,Use of any webpack.config.coffee throws
+1295,MDU6SXNzdWU5NzA3ODI0NQ==,0,Version 1.10.5 throws a non compatible version of enhanced-resolve
+1455,MDU6SXNzdWUxMDY4NzQ4NTQ=,0,Webpack errors when config is empty array
+1503,MDU6SXNzdWUxMTA2MzI4ODg=,0,e
+1549,MDU6SXNzdWUxMTMyOTEzNjc=,0,"in some device,bundle.js run error"
+1600,MDU6SXNzdWUxMTU2OTE5MTY=,0,2.0.0-beta generates syntactically incorrect output
+1661,MDU6SXNzdWUxMTgyODE5NjU=,0,externals with `commonChunkPlugins` makes error
+1681,MDU6SXNzdWUxMTkzNTk4MjE=,0,generated JS not executing in the browser
+1699,MDU6SXNzdWUxMjAwOTQ5MjY=,0,Loaders don't resolve for some reason with this config

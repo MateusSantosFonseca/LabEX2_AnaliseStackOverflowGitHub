@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+5618,MDU6SXNzdWUzMjg2NDQ2NA==,516,"kernel crash after ""unregister_netdevice: waiting for lo to become free. Usage count = 3"""
+4036,MDU6SXNzdWUyNzI1NjUyMA==,391,docker fails to mount the block device for the container on devicemapper
+25526,MDU6SXNzdWUxNzAxMTMwNTY=,301,Unable to retrieve user's IP address in docker swarm mode
+1916,MDU6SXNzdWUxOTY3NDIwOA==,286,docker build should support privileged operations
+1143,MDU6SXNzdWUxNjQxNzcyMw==,263,Document how to connect to Docker host from container
+18180,MDU6SXNzdWUxMTg1MTUzNzM=,258,"Docker 1.9.1 hanging at build step ""Setting up ca-certificates-java"""
+32195,MDU6SXNzdWUyMTc4MDEzODI=,250,Swarm is having occasional network connection problems between nodes.
+1996,MDU6SXNzdWUyMDAwMzI0MA==,245,New feature request: Selectively disable caching for specific RUN commands in Dockerfile
+332,MDU6SXNzdWUxMjc4OTY3MA==,231,flatten images - merge multiple layers into a single one
+14080,MDU6SXNzdWU4OTk2NDc3Mg==,222,build time only -v option
+19396,MDU6SXNzdWUxMjcwODU3ODg=,204,Consider support for French sovereign operating system
+3182,MDU6SXNzdWUyNDE0OTQ3Mg==,202,Device-mapper does not release free space from removed images
+22260,MDU6SXNzdWUxNTA0NDY0MTg=,203,Unable to remove a stopped container: `device or resource busy`
+13490,MDU6SXNzdWU4MTEzNDk2Mw==,200,"Secrets: write-up best practices, do's and don'ts, roadmap"
+6396,MDU6SXNzdWUzNTY0MDMxOA==,190,Forward ssh key agent into container
+8887,MDU6SXNzdWU0NzQxMTIyMQ==,178,"--insecure-registry should be on ""docker pull"""
+13885,MDU6SXNzdWU4NzM0MjY0Mw==,174,Docker Daemon Hangs under load
+2745,MDU6SXNzdWUyMjgzMjU4NQ==,167,"Add with relative path to parent directory fails with ""Forbidden path"""
+2174,MDU6SXNzdWUyMDg2OTA0MQ==,160,Port redirecting binding to IPv6 but not IPv4 interfaces.
+2112,MDU6SXNzdWUyMDY0NTkwOQ==,160,"Allow specifying of a dockerfile as a path, not piping in."
+12606,MDU6SXNzdWU2OTkxODY2MA==,159,docker ps command hangs
+31101,MDU6SXNzdWUyMDgyMjI1NDc=,158,Add support for `extends` feature in Compose v3 / docker stack deploy
+27381,MDU6SXNzdWUxODMwMjI3OTE=,153,Driver devicemapper failed to remove root filesystem. Device is busy
+2259,MDU6SXNzdWUyMTEzMjk5OQ==,153,Add ability to mount volume as user other than root
+3465,MDU6SXNzdWUyNTEyMzM5NA==,149,Reset properties inherited from parent image
+35933,MDU6SXNzdWUyODYwMzI2MzY=,146,Can't stop docker container
+8951,MDU6SXNzdWU0Nzc0MzY2MQ==,145,Proposal: Native Docker Multi-Host Networking
+9015,MDU6SXNzdWU0ODAyOTkzNg==,140,Proposal: JSON Registry API V2.1
+7198,MDU6SXNzdWUzODU2ODAxNA==,140,Make uid & gid configurable for shared volumes
+172,MDU6SXNzdWUxMjQ1OTA5MQ==,140,Running docker on RHEL
+735,MDU6SXNzdWUxNDg2MjMxNg==,138,Proposal: Dockerfile add INCLUDE
+4737,MDU6SXNzdWUyOTYzNDA1MQ==,136,docker and ufw serious problems
+8539,MDU6SXNzdWU0NTY3NDA3MQ==,134,Error response from daemon: Cannot start container (fork/exec /usr/sbin/iptables: cannot allocate memory)
+4023,MDU6SXNzdWUyNzIyNjY0Ng==,134,docker volumes w remote daemon
+2714,MDU6SXNzdWUyMjc0Mjc3OQ==,133,0.7.0 fails to remove containers
+2267,MDU6SXNzdWUyMTE1NTcxMA==,130,"Allow customization of /etc/hosts, /etc/resolv.conf, etc. in containers"
+15498,MDU6SXNzdWUxMDA0MjM2NzY=,127,1.8.0: Systemd can't start docker on Centos 7.1
+8755,MDU6SXNzdWU0Njc1Mjg2OA==,127,Docker tty is not a tty with docker exec
+22207,MDU6SXNzdWUxNDk4ODM4MTY=,126,orphaned diffs
+13817,MDU6SXNzdWU4NjQyMzczMQ==,125,In windows can't use arrow navigation exec bash into container
+12886,MDU6SXNzdWU3MjAzNzU4Mw==,125,Add support for specifying .dockerignore file with -i/--ignore
+30321,MDU6SXNzdWUyMDIxNjc4NTQ=,124,Zero-downtime deployments with rolling upgrades
+12738,MDU6SXNzdWU3MDYyNTEzMw==,121,Cannot stop container XXXXXXXXXXXX: [2] Container does not exist: container destroyed
+21925,MDU6SXNzdWUxNDczNzIyOTk=,118,"Docker does not free up disk space after container, volume and image removal"
+22753,MDU6SXNzdWUxNTQ5Mzk3Mjk=,115,No docker0 on docker for mac?
+10589,MDU6SXNzdWU1NjY3MjQwMA==,115,Sometimes a docker container gets stuck so that it can't be stopped or removed
+5684,MDU6SXNzdWUzMzEwOTUxNg==,113,"After stopping docker, previously running containers cannot be started or removed"
+35082,MDU6SXNzdWUyNjI3MTk5OTE=,112,[SWARM] Very poor performance for ingress network with lots of parallel requests
+22054,MDU6SXNzdWUxNDg0NzkyMjc=,112,"Docker Network bypasses Firewall, no option to disable"
+8710,MDU6SXNzdWU0NjUyNjcyOQ==,110,how to use -e DISPLAY flag on osx?

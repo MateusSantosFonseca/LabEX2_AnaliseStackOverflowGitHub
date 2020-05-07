@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+151,MDU6SXNzdWUyMzE5MzU5Nw==,21,Doesn't work. :(
+16,MDU6SXNzdWU3MTk5NTc=,13,"Judge a user by their commits, not just their repos"
+72,MDU6SXNzdWUyMjgzODAwMQ==,12,Ability to opt-out
+197,MDU6SXNzdWU1MTIzODM2MA==,9,"Show repositories committed to, not just repositories in account"
+246,MDU6SXNzdWUyMjkzNjY2MzE=,8,Request: Remove opt-in
+182,MDU6SXNzdWUzMjE4MjkxNA==,8,Use HTTPS for external dependencies
+73,MDU6SXNzdWUyMjg0NDA2OA==,8,"Not a true reflection, not by a long shot."
+175,MDU6SXNzdWUyNDA1NjE1NQ==,7,Functionality of creating the resume does not work once attempted once without opt-in.
+160,MDU6SXNzdWUyMzU1MzIwNA==,7,"For popular users, only show users that have starred the repo"
+34,MDU6SXNzdWUzMDc0OTYz,7,Stop impersonating people: drop the first-person act
+216,MDU6SXNzdWUxMjczNzc5MTg=,6,Dear resume.github.com
+127,MDU6SXNzdWUyMjk0MTg1NA==,6,Please opt-out user adamv.
+69,MDU6SXNzdWUxNTY2NDI3NA==,5,Add license
+39,MDU6SXNzdWU2NjAzMTIy,6,error - not enough data
+31,MDU6SXNzdWUxNTM0MzI0,6,"List forked repos with pull requests, and their accept ratio"
+242,MDU6SXNzdWUyMDU1ODk0NjI=,5,Not all commits are appearing as contributions
+226,MDU6SXNzdWUxNTMyMjAyOTE=,5,Inaccurate commit count
+194,MDU6SXNzdWU0MTgwMTAzNA==,5,Starred but show as not opt-in
+189,MDU6SXNzdWUzNTU5NzA3MA==,5,Include popular forks.
+152,MDU6SXNzdWUyMzI3MzgwMg==,5,'He' or 'she' instead of 'they.'
+240,MDU6SXNzdWUxOTg4MjY4NTg=,4,Contribution count is off
+195,MDU6SXNzdWU0MjA2NzgzMw==,4,Acts like Javascript is disabled when it's enabled
+155,MDU6SXNzdWUyMzM3MjgwNQ==,4,HTML4  HTML5
+210,MDU6SXNzdWUxMDU1MTE5ODM=,3,Display emoji in repository descriptions
+203,MDU6SXNzdWU3OTk1MDIwMw==,3,HTTPS loading is broken
+201,MDU6SXNzdWU2ODQ3NTE2OA==,3,Language links are 404
+196,MDU6SXNzdWU0MzM0NTk4MA==,3,BUG: github_user_repos languages link 404
+177,MDU6SXNzdWUyNTE1MzE1MQ==,7,responsive template
+40,MDU6SXNzdWU2NjAzMzMw,3,Doesn't work on IE 10. Need to update jQuery library
+9,MDU6SXNzdWU1ODI3NTk=,3,Suggestions
+206,MDU6SXNzdWU5OTIwNjAzNw==,2,But I have though
+193,MDU6SXNzdWU0MTU5MjQyMA==,2,username variable not correct in error page
+191,MDU6SXNzdWUzODI2MjY5OA==,2,List number of commits in non-owned repos
+187,MDU6SXNzdWUzMzY5MTA5NQ==,2,[Feature request] Adding homepage of the repo
+159,MDU6SXNzdWUyMzUyMzkzOQ==,2,Add instructions about staring project
+158,MDU6SXNzdWUyMzQ1NDkyNA==,2,Not all repositories are shown...
+157,MDU6SXNzdWUyMzQ1NDM4OA==,2,more info would be nice.
+61,MDU6SXNzdWUxMjYyODQyNw==,2,No error page with wrong usernames
+55,MDU6SXNzdWU4NDE2NTI4,2,Github API rate limit hit
+32,MDU6SXNzdWUxNTM0MzQ3,2,List not-owned projects on which issues have been filled
+15,MDU6SXNzdWU3MTk5NDM=,2,How to test modifications?
+5,MDU6SXNzdWU1NzkxNjE=,2,A user's organization
+3,MDU6SXNzdWU1NzkxNTQ=,2,More dynamic text
+2,MDU6SXNzdWU1NzkxNTE=,2,Organization handling
+258,MDU6SXNzdWUzOTY2ODk5MTU=,1,won't work outside of test
+251,MDU6SXNzdWUzMTY5MjYwNjA=,1,sort repos by stars
+234,MDU6SXNzdWUxNjE1NDAyMTg=,1,UNIMPORTANT
+208,MDU6SXNzdWUxMDA1NDkyMTM=,1,# Watchers is incorrect (gives # of Stars) or it should be # Stars
+173,MDU6SXNzdWUyMzk5MDkzOQ==,1,Example users haven't opted in.
+161,MDU6SXNzdWUyMzU1NTMzOA==,1,opt-in only looks at 30 most recently starred repos

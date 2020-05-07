@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+310,MDU6SXNzdWU5Njg1NzcwMQ==,246,Who uses Redux?
+1528,MDU6SXNzdWUxNDE3NTYzMDU=,209,Reducer Composition with Effects in JavaScript
+151,MDU6SXNzdWU4OTc1Mjk4NQ==,174,Redux's brand id
+291,MDU6SXNzdWU5NTk5MTQzNQ==,115,Trying to put API calls in the correct place
+2295,MDU6SXNzdWUyMTUyMzc0Nzk=,108,"Request for Discussion: Redux ""boilerplate"", learning curve, abstraction, and opinionatedness"
+1171,MDU6SXNzdWUxMjM1NjUwNjE=,106,"Recommendations for best practices regarding action-creators, reducers, and selectors"
+1385,MDU6SXNzdWUxMzI4MTk2NTI=,91,What are the disadvantages of storing all your state in a single immutable atom?
+3500,MDU6SXNzdWU0NzkyODkxNDc=,86,Port to TypeScript
+992,MDU6SXNzdWUxMTQ2NTk3MjA=,71,Support for typed actions (Typescript)
+1065,MDU6SXNzdWUxMTg0OTY2MzQ=,69,Redux screencast series on Egghead
+464,MDU6SXNzdWUxMDA0MjM3NzA=,69,Relay and Redux
+297,MDU6SXNzdWU5NjU0OTc2NQ==,66,Best practice on handling data flow for login / signup pages with redirect
+99,MDU6SXNzdWU4ODUyNDkxOQ==,63,Best async serverside loading technique?
+637,MDU6SXNzdWUxMDM1NDI4NTY=,61,Docs: Usage with React Router
+229,MDU6SXNzdWU5MzYzNjY5OQ==,60,Do we want to rename dispatch() and getState() before 1.0?
+345,MDU6SXNzdWU5NzcxNzE1Ng==,57,Need help polishing Gitbook
+2859,MDU6SXNzdWUzMDEyNTQzNzA=,56,RFC: Redux Starter Kit
+1312,MDU6SXNzdWUxMjk4NzA1NTg=,56,Official FAQ
+384,MDU6SXNzdWU5ODUxNjcxMg==,55,Recommend that Action constants be named in the past tense
+159,MDU6SXNzdWU4OTk1ODQxNw==,54,Investigate using Redux for pseudo-local component state
+137,MDU6SXNzdWU4OTM1MDMxNw==,54,"Proposal: Rename ""stores"" to ""reducers"""
+601,MDU6SXNzdWUxMDI0MzAyNzY=,52,"A concern on combineReducer, when an action is related to multiple reducers"
+1785,MDU6SXNzdWUxNTc1NjEzNDc=,51,FAQ updates
+1534,MDU6SXNzdWUxNDIxNTIxOTM=,51,Can't reference containers wrapped in a Provider or by connect with Enzyme
+822,MDU6SXNzdWUxMDkwMTM4MDM=,50,How to create a generic list as a reducer and component enhancer?
+775,MDU6SXNzdWUxMDc2NDE3NDk=,50,Has Redux's Time Come and Gone
+756,MDU6SXNzdWUxMDczMzYzMzc=,46,container vs component?
+1353,MDU6SXNzdWUxMzA3ODA0NTI=,45,"Real world examples (including CRUD, advanced patterns, etc)"
+1784,MDU6SXNzdWUxNTc1NjA1MTA=,44,"Add a ""Structuring Reducers"" recipe"
+1182,MDU6SXNzdWUxMjM5NTY1OTA=,44,Alternative Approach To Async Actions
+290,MDU6SXNzdWU5NTk0MzE3Mw==,43,Explore using Flow for statically analyzing state and actions
+177,MDU6SXNzdWU5MDY5MTMyMg==,42,React router integration
+2846,MDU6SXNzdWUyOTgxMDQ2MTc=,39,"New Gitbook version for the Redux docs - issues, tweaks, and improvements"
+615,MDU6SXNzdWUxMDI4ODI4MzI=,39,Issues with fetch() in Reddit docs example in some browsers
+1792,MDU6SXNzdWUxNTg1ODM1MDU=,38,RFC: Make combineReducers() shape-agnostic
+1139,MDU6SXNzdWUxMjIwNDE1MzM=,36,An alternative side effect model based on Generators and Sagas
+404,MDU6SXNzdWU5OTM0MjcwOA==,36,How to handle the state of third party components in a redux way?
+2254,MDU6SXNzdWUyMDkxOTg2OTk=,35,Graphical Cheat Sheet
+176,MDU6SXNzdWU5MDY4NTM2MA==,35,Transducers in Redux
+2590,MDU6SXNzdWUyNTMyMTY1ODg=,34,"General docs review, consideration, and improvements"
+890,MDU6SXNzdWUxMTEwNjQ3MTY=,34,Proposal: move docs to redux.js.org
+548,MDU6SXNzdWUxMDEzMTQ4NzE=,34,Redux and immutable stores
+419,MDU6SXNzdWU5OTU4ODM5Mw==,34,Recommended usage of connect()
+343,MDU6SXNzdWU5NzY4NzI1MQ==,34,Investigate Cerebral
+1342,MDU6SXNzdWUxMzA0NTIxOTc=,33,Redux 4 breaking changes
+316,MDU6SXNzdWU5Njk5MzQ5Nw==,33,How to create nested reducers?
+1850,MDU6SXNzdWUxNjYxODc2MDY=,32,More on reusability for custom components.
+994,MDU6SXNzdWUxMTQ3MjY0OTc=,32,How to cut the boilerplate when updating nested entities?
+786,MDU6SXNzdWUxMDc5NTAxNDc=,32,examples - how to implement action type namespacing ?
+643,MDU6SXNzdWUxMDM1NzA5MzU=,32,Tweak Universal example

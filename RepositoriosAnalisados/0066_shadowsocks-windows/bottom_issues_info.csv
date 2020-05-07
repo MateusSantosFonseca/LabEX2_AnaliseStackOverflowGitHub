@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+1,MDU6SXNzdWU5OTM5OTYz,0,still handlers may not be closed properly
+3,MDU6SXNzdWUxMTc4Njk1MQ==,0,app.config 
+9,MDU6SXNzdWUxNTYwMTkxOQ==,0,Don't crash when fail to decrypt
+11,MDU6SXNzdWUxNTYwNzI3OA==,0,may not closed correctly
+17,MDU6SXNzdWU0ODE1ODMxMw==,0,Prevent opening multiple instances
+18,MDU6SXNzdWU0ODE1OTE1OQ==,0,Crash when received shutdown signal
+38,MDU6SXNzdWU0ODE4OTk2NQ==,0,
+54,MDU6SXNzdWU0ODI3NTUzNg==,0,Win32Exception during System Shutdown
+60,MDU6SXNzdWU0ODQ5NjEzMA==,0,cd into where exe is in main() first
+99,MDU6SXNzdWU1MjkwNTA5NQ==,0,Update Translations for Start on Boot
+139,MDU6SXNzdWU1NDcyNjU5Ng==,0, socks 5 protocol error
+141,MDU6SXNzdWU1NDc1NTE2NA==,0,Change tray icon when it's in global mode
+158,MDU6SXNzdWU1NTk4ODIyNQ==,0,Would like to add pac use help in certain areas
+161,MDU6SXNzdWU1NjEzMzg3OA==,0,"What pac __PROXY__ are returned before ip:? What port ah, the return value of the variable here is?"
+162,MDU6SXNzdWU1NjEzMzkyMQ==,0,"The client can not use, this is yo?"
+163,MDU6SXNzdWU1NjE1ODEyNw==,0,Support Online PAC URL
+179,MDU6SXNzdWU1OTMyNjg2OA==,0,windows phone 
+193,MDU6SXNzdWU2MTU5NTIxNA==,0,"Could increase global hotkeys for opening / closing the ""Enable System Agent""?"
+194,MDU6SXNzdWU2MTk0OTQ5Mg==,0,Can not support a client opens several
+205,MDU6SXNzdWU2NTgyODEzOA==,0,Will there be multiple simultaneous local port correspond to multiple proxy servers
+206,MDU6SXNzdWU2NTg3Njk0Nw==,0,FF does not support global PAC?
+219,MDU6SXNzdWU3MTIyMTk0MA==,0,ss handle leak may cause network?
+228,MDU6SXNzdWU5NTQ0ODE3NQ==,0,sorry. it is a mistake
+235,MDU6SXNzdWU5NzIzOTE2MQ==,0,Server port cannot be 8123
+238,MDU6SXNzdWU5NzMwOTIyOA==,0,URL
+264,MDU6SXNzdWU5OTk3MTU0Nw==,0,42.4MB
+290,MDU6SXNzdWUxMDE0MDE4NDc=,0,"shadowsocks crash times and times again, post the uncaught exception, wish to help "
+368,MDU6SXNzdWUxMTUwNjk4NjU=,0,"Why shadowsocks doesn't support ftp, Can you explain it from the source code?"
+406,MDU6SXNzdWUxMjMwODE2Mjc=,0,
+427,MDU6SXNzdWUxMjc5MjE1OTI=,0,System.NullReferenceException: 
+480,MDU6SXNzdWUxMzg2OTg5NTI=,0,win10
+482,MDU6SXNzdWUxMzg3NDYxNDI=,0,3.0
+558,MDU6SXNzdWUxNTM0MDgzMzQ=,0,v
+560,MDU6SXNzdWUxNTM0NDY0NDE=,0,ss
+576,MDU6SXNzdWUxNTU4ODg1NjM=,0,Removed according to regulations.
+713,MDU6SXNzdWUxNzYyODIyMDQ=,0,shadowsocks 
+740,MDU6SXNzdWUxNzg0MDMxMzk=,0,
+743,MDU6SXNzdWUxNzg1NjAzMDg=,0,http://www.ss-link.com/ 
+747,MDU6SXNzdWUxNzg3ODM2NTE=,0,
+771,MDU6SXNzdWUxODE5MjM2NzQ=,0,
+778,MDU6SXNzdWUxODIxOTIyMTk=,0,win10 143933.3.3
+779,MDU6SXNzdWUxODIyMTA0OTY=,0,Edit servers and move up lead crash
+780,MDU6SXNzdWUxODIyMjA3ODE=,0,win103.3.3GFWListPAC
+790,MDU6SXNzdWUxODI4MjUzNjk=,0,win10 14942 
+816,MDU6SXNzdWUxODQ2Mzg4ODc=,0,"win10.0.14393  shadowsocks 3.3.4 Firefox and ie can use but chrome not, who can tell me why?"
+824,MDU6SXNzdWUxODQ3NzE2OTQ=,0,kcptun client
+873,MDU6SXNzdWUxODgyMzg2NTA=,0,win7.net 4.6.2shadowsocks
+898,MDU6SXNzdWUxOTA1MDA4MzM=,0,sorry 
+924,MDU6SXNzdWUxOTM3NjQ4NDk=,0,Please give Update History?
+941,MDU6SXNzdWUxOTUyODE2NzM=,0,add support for copy command for windows cmd

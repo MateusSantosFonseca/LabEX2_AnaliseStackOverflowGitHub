@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+1446,MDU6SXNzdWUyMzM1ODEyNjI=,41,Please curate this list
+2718,MDU6SXNzdWU0OTQ5NzA5OTM=,24,None of the owners is reviewing PRs?
+1931,MDU6SXNzdWUzMjIwOTUzNzM=,19,A copy of this list with number of stars/forks/issues provided
+66,MDU6SXNzdWUzNzI3ODEwNQ==,18,Bring existing list into conformity with contribution guidelines
+2712,MDU6SXNzdWU0OTIyOTQxNzY=,17,Should included packages have any particular license?
+683,MDU6SXNzdWUxMTgyMzYzMzc=,17,Automate the acceptance of high quality repos 
+1213,MDU6SXNzdWUxOTQ0OTEzNjM=,14,Show GitHub star count next to project link.
+1309,MDU6SXNzdWUyMTE4OTQzNTM=,13,"""awesome-go"" tags"
+51,MDU6SXNzdWUzNzIzNDE0Ng==,11,Contribution guidelines? And quality checks? Updates?
+1666,MDU6SXNzdWUyNzE0Nzg3NDE=,10,"chat channel, gitter or gopher slack"
+1857,MDU6SXNzdWUzMDgyNTYzMTc=,9,readme in english
+1749,MDU6SXNzdWUyODU4MDU4NTE=,9,awesome-go badge
+1705,MDU6SXNzdWUyNzc0OTQ3MDI=,9,"maybe stop relying on ""golint"""
+1458,MDU6SXNzdWUyMzYyODMwMjM=,8,Add a new rule to the guideline
+1224,MDU6SXNzdWUxOTU2ODA0NzU=,8,Date/Time header link in TOC broken on awesome-go.com
+342,MDU6SXNzdWU2NzgyODkyNw==,8,Why are some PR's ignored?
+335,MDU6SXNzdWU2NjkxNjExNA==,8,AwesomeOpenSource
+282,MDU6SXNzdWU1NjkzNjEzMw==,8,CUI vs. CLI
+169,MDU6SXNzdWU0MDU2MjU4NA==,8,Any git libraries?
+2274,MDU6SXNzdWUzODgyMTUwODg=,7,Review categories misc and utilities
+1374,MDU6SXNzdWUyMjI2MDUxNzQ=,7,"""stats and metrics"" category?"
+1266,MDU6SXNzdWUyMDIxNjIwMTE=,7,Star count
+922,MDU6SXNzdWUxNTAxNDk4NTg=,7,Shiny
+834,MDU6SXNzdWUxMzU2MDcxMDA=,7,please add star and fork before every project to show the popularity 
+2944,MDU6SXNzdWU1NjA0MzI3NjM=,6,repo.go is missing
+2883,MDU6SXNzdWU1NDQxMjgxNzQ=,6,Site is down
+1751,MDU6SXNzdWUyODYwOTgwODI=,6,slack badge doesn't render on https://awesome-go.com/
+1263,MDU6SXNzdWUyMDEzODY5ODA=,6,Should sanitize Markdown when rendering.
+1181,MDU6SXNzdWUxODk2MzgzNjQ=,6,Dead link/project: gogenerate
+983,MDU6SXNzdWUxNTkzOTU5NjE=,6,Anchors for titles with spaces don't work on awesome-go.com website (they work okay in README.md on github).
+855,MDU6SXNzdWUxMzg1NzE1NDc=,6,PULL_REQUEST_TEMPLATE file
+607,MDU6SXNzdWUxMTAyODgxNDA=,6,dead goose
+485,MDU6SXNzdWU5MzA2NTk0MQ==,6,Consider gitter.im over Slack?
+328,MDU6SXNzdWU2NTYzMDU3Ng==,6,Review all lib hosting in Google Code
+266,MDU6SXNzdWU1NTQ0MDkzOQ==,6,No packages for ftp/sftp.
+72,MDU6SXNzdWUzNzI5ODU1MA==,6,Github Page build
+2853,MDU6SXNzdWU1MzQ3NTEyMzM=,5,Changing description of project
+2709,MDU6SXNzdWU0OTE0ODc4MTA=,5,Improve time and star information
+2103,MDU6SXNzdWUzNjA1ODg2MjA=,5,"PR for new section ""Go 2""?"
+1903,MDU6SXNzdWUzMTgzMDQyMzk=,5,Update not showing on awesome-go.com
+1695,MDU6SXNzdWUyNzYyNTA4MjM=,5,Gopher resources category?
+1289,MDU6SXNzdWUyMDc4NjUzMjc=,5,"Within each category have sub-categories: ""Native"" & ""Non-native"""
+748,MDU6SXNzdWUxMjQ2NTQzOTc=,5,"Please, include the date you are adding a new project."
+731,MDU6SXNzdWUxMjM4MzA2NjY=,5,blas
+363,MDU6SXNzdWU3MDMwMTA5Mg==,5,Generate the site in HTML
+305,MDU6SXNzdWU2MDMzNTQ5Mg==,5,Change name for the package geo_pattern
+298,MDU6SXNzdWU1OTU4MTUzMA==,5,LiteIDE
+2418,MDU6SXNzdWU0MTkyMTYzMTI=,4,[QUESTION] Do you accept Go tools implemented in another language ?
+2105,MDU6SXNzdWUzNjA2MzUwNTM=,4,PDF section
+2036,MDU6SXNzdWUzNDQ4MzY5ODI=,4,Review existing packages and remove low-quality packages

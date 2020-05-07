@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+39,MDU6SXNzdWU2OTM3MDcyMA==,0,Add a way to trigger this for certain commands when the shell gets a failure value
+51,MDU6SXNzdWU2OTUzMjgxMQ==,0,
+67,MDU6SXNzdWU2OTY0Nzc5MA==,0,Availability on Windows
+102,MDU6SXNzdWU3MDI0MTg4OA==,0,Add support for rules with side effects
+104,MDU6SXNzdWU3MDI4NTYwMA==,0,Integrate it with zsh and it can learn rules?
+141,MDU6SXNzdWU3MTQ5NzAxNA==,0,centOS 6.5 requires python-devel
+226,MDU6SXNzdWU4MTUzNTM2Ng==,0,cd directory with whitespace
+231,MDU6SXNzdWU4Mjc1OTMxNQ==,0,Working on possbile feature: Integrate it with zsh
+243,MDU6SXNzdWU4NDcyNTE4NA==,0,composer install xxx/xxx
+262,MDU6SXNzdWU5MDY5MzY1OQ==,0,shells.Fish.get_aliases() should not include primary functions
+303,MDU6SXNzdWU5NjI5ODM0Ng==,0,  m
+305,MDU6SXNzdWU5NjMxNzIwOQ==,0,no_command rule doesn't know about dynamically defined aliases/functions
+360,MDU6SXNzdWUxMDUwNjU3MDQ=,0,Sometime cause my terminal text dislocation
+368,MDU6SXNzdWUxMDU2NTgzMzM=,0,"changing package name when I use ""sudo apt-get install"""
+369,MDU6SXNzdWUxMDU3ODcyNjQ=,0,`git_fix_stash` rule fails when script is just `git`
+395,MDU6SXNzdWUxMTQwNTQ5Nzc=,0,"""git brnch"" never completes. Freezes output."
+425,MDU6SXNzdWUxMjU0MTQxMTU=,0,unexpected end of regular expression with `git u[`
+429,MDU6SXNzdWUxMjYzMDE2NTE=,0,Add rule for apt `E: Invalid operation`
+445,MDU6SXNzdWUxMjg1MDc2ODg=,0,Bug
+482,MDU6SXNzdWUxNDIwNTQ1OTM=,0,I can't install thefuck
+509,MDU6SXNzdWUxNTYxMTMxMTE=,0,Always corrects to empty git subcommands
+520,MDU6SXNzdWUxNjIyNzI4NjI=,0,Command not found
+526,MDU6SXNzdWUxNjI5NzA0NDQ=,0,"`brew udpate` corrects to `brew outdated`, not `brew update`"
+537,MDU6SXNzdWUxNzIyMTg4Mzc=,0,Args are lost with git_push
+541,MDU6SXNzdWUxNzI0Nzg0NzU=,0,fuck has issues with ssh identifier files
+542,MDU6SXNzdWUxNzMyNDQ1OTA=,0,zsh command not found with git push
+546,MDU6SXNzdWUxNzUyODgxMTQ=,0,"suggestion for ""man command"" rule: ""command --help"""
+553,MDU6SXNzdWUxODAxNjQ0NjM=,0,thefuck does not suggest `brew uninstall --force` when relevant
+558,MDU6SXNzdWUxODAzODg3NTc=,0,#538 broke `git push -u myfork` suggestions
+576,MDU6SXNzdWUxODg1OTI2MzI=,0,"""thefuck"" typically loads slower that I manually type the command"
+589,MDU6SXNzdWUyMDAxNzMyNDI=,0,bash: bad parsing of command substitutions
+603,MDU6SXNzdWUyMDYxNjUyNTQ=,0,vi-style key bindings for colemak
+615,MDU6SXNzdWUyMTQ3MTIwMzg=,0,fix the update section of README.md
+624,MDU6SXNzdWUyMTc2NTA4MjE=,0,Dynamic priorities of fixed commands
+628,MDU6SXNzdWUyMjI0NTY1MzM=,0,No such file or Directory rule missing
+629,MDU6SXNzdWUyMjI2MDc0Mjg=,0,git merge wrong branch doesn't give remote branches
+631,MDU6SXNzdWUyMjMxMjAyNzM=,0,Use type annotations and mypy
+632,MDU6SXNzdWUyMjMxNTQxNDI=,0,git checkout new branch suggestion improvement
+638,MDU6SXNzdWUyMjQ5ODAyMTI=,0,"When pushing to or pulling from a git repository that needs merging, open mergetool."
+653,MDU6SXNzdWUyMzIzMzg4MzU=,0,Use py-backwards
+654,MDU6SXNzdWUyMzM0MDQ4NjQ=,0,Installing through brew / pip in Mac
+661,MDU6SXNzdWUyMzY4ODA4MDc=,0,used wrong correction
+666,MDU6SXNzdWUyNDA3ODI2NjE=,0,Sometimes offers bad fucks from history
+675,MDU6SXNzdWUyNDg2MDE4NTI=,0,Can we make thefuck learn alias + function in bash?
+677,MDU6SXNzdWUyNTA5NjY5NDE=,0,Try hitting 'tab' on previous command
+686,MDU6SXNzdWUyNTM1OTExNDc=,0,[feature request] Support openSUSE Scout (command-not-found)
+690,MDU6SXNzdWUyNTU0NTkxNzc=,0,Using vim command success and type fuck cause display error
+692,MDU6SXNzdWUyNTgzMDg3MjE=,0,multilined PS1 breaks Experimental instant mode
+700,MDU6SXNzdWUyNjMxODg3MDA=,0,Fuck suggests `fincore [fixed-command]` with sudo
+707,MDU6SXNzdWUyNjQwODY4NzE=,0,Reimplement cache

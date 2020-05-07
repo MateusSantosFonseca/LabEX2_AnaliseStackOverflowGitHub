@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+37,MDU6SXNzdWU1MDc4NDU5OQ==,878,logo ideas
+11,MDU6SXNzdWU1MDQxNDk1OQ==,323,Feature Request: Every async function returns Promise
+978,MDU6SXNzdWU1OTE1OTkxNw==,222,Reconciliation Proposal
+4660,MDU6SXNzdWUxMjYzNDMzNzc=,208,Buffer(number) is unsafe
+1592,MDU6SXNzdWU3MjY4NjU0OA==,207,gripe: deprecating fs.exists/existsSync
+1336,MDU6SXNzdWU2NjEwMjA0Ng==,205,io.js community thoughts on reconciliation
+3402,MDU6SXNzdWUxMTE4MjQzOTI=,204,Don't resolve symlinks when requiring
+1664,MDU6SXNzdWU3NDUxOTY2OQ==,202,Join the Node Foundation?
+1997,MDU6SXNzdWU4ODg2NTEyNw==,197,Proposal: Release Process
+6456,MDU6SXNzdWUxNTE3NjAyNzU=,171,stdio buffered writes (chunked) issues & process.exit() truncation
+5798,MDU6SXNzdWUxNDIwMzAzNzM=,152,Use system random generator in crypto
+9531,MDU6SXNzdWUxODgzNTE3ODc=,146,buffer: discuss future direction of Buffer constructor API
+1075,MDU6SXNzdWU2MDAyMTY2OQ==,144,Possible memory leak in TLS(Wrap?)
+877,MDU6SXNzdWU1ODA2OTM3MA==,140,io.js remote debuging is EXTREMELY slow compared to Node.js 0.10
+830,MDU6SXNzdWU1NzU4ODQ5OQ==,135,Default Unhandled Rejection Detection Behavior
+19393,MDU6SXNzdWUzMDU5OTgzMzA=,133,Implement window.fetch into core
+2522,MDU6SXNzdWUxMDI3OTQ3NzM=,131,Node.js v4 Release Timeline
+3072,MDU6SXNzdWUxMDg0MzQ3NDk=,128,"Cluster crash in main process, callback undefined when handling internal messages"
+11865,MDU6SXNzdWUyMTQ0MjIyNTM=,125,Missing stack traces from async functions after the first await
+3692,MDU6SXNzdWUxMTU1MzM2MDc=,124,HTTP/HTTPS client requests throwing EPROTO
+33166,MDU6SXNzdWU2MTAwNjMyODY=,120,[Regression in 14.1.0 - Windows] `stdout` is sometimes empty
+11307,MDU6SXNzdWUyMDY5NDQ2MzE=,117,100% CPU + Sockets idling in CLOSE_WAIT state
+19214,MDU6SXNzdWUzMDMyODI1NjU=,113,Building with full-icu by default
+3761,MDU6SXNzdWUxMTYyMzQzMzg=,105,governance: add new collaborators #IX
+3959,MDU6SXNzdWUxMTgyMTk1NjE=,103,Potential Licensing issues with npm
+20392,MDU6SXNzdWUzMTg2NzgxMDU=,102,Terminate process on unhandled promise rejection
+19308,MDU6SXNzdWUzMDQ1ODk0ODU=,101,Adding Websocket support to core
+1436,MDU6SXNzdWU2ODg0MTM0NQ==,97,Release proposal: 1.8.0
+28,MDU6SXNzdWU1MDc0MDA5MA==,97,Initial Release
+9377,MDU6SXNzdWUxODYyODQwNjU=,95,Error: Cannot find module 'internal/fs' when npm install on mac
+1807,MDU6SXNzdWU4MTI2NTE0NA==,95,Release proposal: v3.0.0
+583,MDU6SXNzdWU1NTM0ODI4OA==,93,streaming / iterative fs.readdir
+1451,MDU6SXNzdWU2OTEzMTk2MQ==,92,V8 4.4 to remove indexed properties via external data
+66,MDU6SXNzdWU1MDk0MTA1Mw==,91,deprecate domains
+11835,MDU6SXNzdWUyMTM5MTQyOTQ=,90,Feature request: node --install
+5384,MDU6SXNzdWUxMzU3MzI5ODA=,90,keypress events not working in windows cmd.exe & powershell
+2546,MDU6SXNzdWUxMDMwOTYzNDY=,89,Inspecting Node.js with Chrome DevTools
+19079,MDU6SXNzdWUzMDE2MDA5MDY=,87,Tracking Issue for Runtime Deprecation of Buffer constructor
+13209,MDU6SXNzdWUyMzExOTM3ODQ=,86,repl: allow `await` in REPL
+3721,MDU6SXNzdWUxMTU5NjA5NTg=,86,replace suicide as a verb
+2680,MDU6SXNzdWUxMDQ3MTA4MzM=,84,fs.realpath 70x slower than native 
+15244,MDU6SXNzdWUyNTYwMTI5ODA=,83,[Feature] Discussion around default package manager choice
+2639,MDU6SXNzdWUxMDQzNzg5ODg=,83,AssertionError crash at ServerResponse.resOnFinish
+8381,MDU6SXNzdWUxNzQ3NTQyNzE=,81,http: support environment-defined proxy
+4603,MDU6SXNzdWUxMjU3OTE1NTY=,81,Allow multiple installs of Node on Windows with msi
+2398,MDU6SXNzdWUxMDEyMjMzODc=,80,DTLS Discussion
+1671,MDU6SXNzdWU3NTA5MjI4Nw==,78,`Buffer` and `ArrayBuffer`-based objects trigger mark-sweeps instead of scavenges
+26401,MDU6SXNzdWU0MTY0MTQyNjA=,77,Investigate flaky test-worker-prof
+932,MDU6SXNzdWU1ODY2OTczNQ==,77,Release proposal: v1.4.0
+133,MDU6SXNzdWU1MTUxMjA5NQ==,77,What about gyp?

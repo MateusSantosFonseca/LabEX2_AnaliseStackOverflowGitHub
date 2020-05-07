@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+5,MDU6SXNzdWU4ODU1Nzc3Mg==,0,"Additional ""everyday use"" keyboard shortcuts and useful commands"
+16,MDU6SXNzdWU4ODU4NjI1Ng==,0,StrictHostKeyChecking=no is maybe not the best idea?
+28,MDU6SXNzdWU4ODY0NTU5Mw==,0,pipe viewer
+54,MDU6SXNzdWU4ODk4MjEzMA==,0,Link to http://explainshell.com/
+73,MDU6SXNzdWU4OTI2MDM5NA==,0,Man pages
+78,MDU6SXNzdWU4OTQyMjI1Mg==,0,Mention iotop
+101,MDU6SXNzdWU4OTk0MjQyMw==,0,Consider adding apg
+115,MDU6SXNzdWU5MDUyNDI2Ng==,0,Better examples of search/replace
+119,MDU6SXNzdWU5MDY5ODgxNQ==,0,Bullet on aliases
+153,MDU6SXNzdWU5Mjc4MTA5NA==,0,MacOS-specific section
+231,MDU6SXNzdWU5NzE2NTM4OQ==,0,Add `iostat -mxz 15`
+237,MDU6SXNzdWU5NzI0NjEzMg==,0,"""watch"" command"
+261,MDU6SXNzdWUxMDA0NzQyOTk=,0,Cover execute permissions and PATH
+262,MDU6SXNzdWUxMDA0NzQ1ODc=,0,Sourcing a script
+281,MDU6SXNzdWUxMDMyNDMxMTU=,0,'Output' is used instead of 'input'
+284,MDU6SXNzdWUxMDU1ODUzMzI=,0,gh-pages branch
+320,MDU6SXNzdWUxMjQzNzE1MzM=,0,Remove unnecessary `cat`s
+329,MDU6SXNzdWUxMjQ5ODgzNjg=,0,Czech translation and maintainer
+420,MDU6SXNzdWUxNjIzNTI5Mzg=,0,Mention jq colored pagination
+422,MDU6SXNzdWUxNjI3NjA0NjI=,0,OS X: Consider/include mac-cli
+423,MDU6SXNzdWUxNjI3NjYwNTY=,0,Linux : trash-cli package and corresponding commands
+436,MDU6SXNzdWUxNjc3MDg3NzM=,0,Cover checking for command exists
+438,MDU6SXNzdWUxNjk3Mjg0MjE=,0,Mention howdoi and tldr
+441,MDU6SXNzdWUxNzA5Njg5MzU=,0,Consider rlwrap
+453,MDU6SXNzdWUxNzMyNjY0MTU=,0,History substitution: !!:gs/x/y/ and !!:s/x/y/ and ^x^y
+457,MDU6SXNzdWUxNzUxMTU3NDY=,0,Cover lsof for listening processes
+482,MDU6SXNzdWUxOTQyMTU0NDg=,0,Add Hebrew Translation
+511,MDU6SXNzdWUyMjcxMjk5MjM=,0,Consider adding pandashells
+512,MDU6SXNzdWUyMzAxNjY2OTA=,0,Include tput
+514,MDU6SXNzdWUyMzAxNjY5NTk=,0,Consider adding cheat
+516,MDU6SXNzdWUyMzAxNzM4Njk=,0,Some tips about color support
+525,MDU6SXNzdWUyNTg5OTU4ODQ=,0,Consider adding jiq and jid
+537,MDU6SXNzdWUyNzgwOTE0MDQ=,0,Update Windows Bash on Ubuntu on Windows section
+547,MDU6SXNzdWUzMDgzNzE5NjE=,0,Incorporate more of these bioinformatics one-liners
+548,MDU6SXNzdWUzMDg2NjIyNTU=,0,Consider adding jp
+549,MDU6SXNzdWUzMDg2Njk5NTg=,0,Consider adding tj to JSON-related tools
+555,MDU6SXNzdWUzMTIyNjU0OTk=,0,Consider adding textql
+565,MDU6SXNzdWUzMzgxMTY2NTY=,0,Add flock
+569,MDU6SXNzdWUzNDc1ODAyOTk=,0,Add useful pandoc and doc handling commands
+575,MDU6SXNzdWUzNjEzNDc4MzY=,0,Add GoW and cmder to Windows stack 
+577,MDU6SXNzdWUzNjY1MzczNTg=,0,Consider adding fpsync
+588,MDU6SXNzdWU0NDcyMzUyMjY=,0,Add gow
+602,MDU6SXNzdWU0NDg0NjYyMzU=,0,Add cmder tool
+606,MDU6SXNzdWU0NDg2NDgxOTU=,0,Vietnamese Translation
+607,MDU6SXNzdWU0NDkwMTM1Nzk=,0,Awesome Tetris in Bash
+616,MDU6SXNzdWU0NTEwOTIwNDY=,0,Rendered version(s)
+663,MDU6SXNzdWU1NzE1Mjk1Mzk=,0,hero3.gif (790x337)
+680,MDU6SXNzdWU1NzYwNDMzMDQ=,0,Is this all
+681,MDU6SXNzdWU1NzcyOTAxNTA=,0,None
+685,MDU6SXNzdWU1OTg0MTkzOTM=,0,Malformed version number string 2.4.0

@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+23,MDU6SXNzdWUyMjg3OTk=,0, complete typestate constraint-to-key mapping
+48,MDU6SXNzdWUyMjg4NDc=,0,Permit use before import
+49,MDU6SXNzdWUyMjg4NTA=,0,"permit imports in fn, iter, obj scope"
+79,MDU6SXNzdWUyMzMwMjM=,0,Complete support for iterator-block nesting
+207,MDU6SXNzdWU1NTA4NDk=,0,compile-fail tests ignore pattern after the first :
+242,MDU6SXNzdWU2Mjc2ODY=,0,Extend lexer to cover non-ASCII unicode cases
+254,MDU6SXNzdWU2NTQxOTk=,0,bind-obj-ctor: Binding object constructors doesn't work
+255,MDU6SXNzdWU2NTQyMjQ=,0,drop-parametric-closure-on-bound-box fails
+256,MDU6SXNzdWU2NTQyMzk=,0,foreach-nested-* fail
+257,MDU6SXNzdWU2NTQyNDY=,0,foreach-put-structured fails
+258,MDU6SXNzdWU2NTQyNTM=,0,generic-fn-twice fails
+259,MDU6SXNzdWU2NTQyODQ=,0,generic-recursive-tag fails
+260,MDU6SXNzdWU2NTQyODc=,0,generic-tag-alt fails
+261,MDU6SXNzdWU2NTQyOTI=,0,generic-tag-values fails
+262,MDU6SXNzdWU2NTQyOTc=,0,integral-indexing fails
+325,MDU6SXNzdWU3NTY5MzA=,0,Use MCStreamer to emit object files
+335,MDU6SXNzdWU3OTE3MTM=,0,SSA problem when using `log_err` with a computed string
+367,MDU6SXNzdWU4OTE4MTQ=,0,"internal error instead of type error on ""some_vector.some_field_name"""
+372,MDU6SXNzdWU4OTgwNTY=,0,implicit block values as function bodies don't actually get returned
+376,MDU6SXNzdWU5MDQwNDc=,0,Run the ll verifier before the optimizer
+377,MDU6SXNzdWU5MDQwNTQ=,0,Incorrect block results from intermediate tuple
+388,MDU6SXNzdWU5MjMwNTU=,0,Incorrect ref counting on nested block expressions
+438,MDU6SXNzdWU5ODc0NjE=,0,put librustrt and librustllvm in stageN directories of build
+449,MDU6SXNzdWU5OTMyNzM=,0,Or-patterns
+457,MDU6SXNzdWUxMDI1NTkx,0,"Serialize the non-exported metadata into the crate as well, for documentation purposes."
+459,MDU6SXNzdWUxMDI3MjA2,0,Perform meta tag matching to bind to crates
+464,MDU6SXNzdWUxMDMzNDYy,0,"Remove rustboot ""trans_const_lval bug"" workaround"
+476,MDU6SXNzdWUxMDQzOTc3,0,`rustc -S --emit-llvm` should emit LLVM assembler
+482,MDU6SXNzdWUxMDUyMDE0,0,"internal error ""imports and matches don't agree"" on multiple glob-import when at least one source is from a different crate"
+496,MDU6SXNzdWUxMDYyNjE5,0,Context creation doesn't respect stack alignment
+499,MDU6SXNzdWUxMDYzMzU1,0,Fix pretty-printing of anonymous objects
+509,MDU6SXNzdWUxMDY5MDg5,0,Remove upcall_join
+511,MDU6SXNzdWUxMDcwMTg4,0,"Passing ""none"" to an &mutable option::t[T] leaks"
+513,MDU6SXNzdWUxMDcxMTAw,0,Typechecking if apparently doesn't require a boolean.
+516,MDU6SXNzdWUxMDc1MTg2,0,Incorrect type in 'mismatched types' error
+521,MDU6SXNzdWUxMDc5NzI4,0,Valueless ret expression in block tail position doesn't parse
+526,MDU6SXNzdWUxMDkxODY3,0,native types should not all be the same type
+532,MDU6SXNzdWUxMDkyMDUy,0,Assert failure with 1-argument #fmt call
+539,MDU6SXNzdWUxMDkzNDUx,0,Adding support for 'degenerate' anonymous objects
+540,MDU6SXNzdWUxMDkzNDg5,0,Adding support for extending objects with methods that contain simple self-calls
+541,MDU6SXNzdWUxMDkzNTc0,0,Alias analysis should take move ops into account
+565,MDU6SXNzdWUxMTA3MTgx,0,Add ternary operator
+571,MDU6SXNzdWUxMTEyNDU3,0,Allow vector constants
+575,MDU6SXNzdWUxMTEzNzIx,0,Some forms of float literal don't parse
+577,MDU6SXNzdWUxMTEzODQ1,0,"Crash comparing ports, channels, tasks"
+582,MDU6SXNzdWUxMTIzODA5,0,switch from rand to isaac
+585,MDU6SXNzdWUxMTMyNjc3,0,Replace common::new_seq_hash with std::smallintmap
+588,MDU6SXNzdWUxMTMzNTQz,0,port constructors with types don't parse correctly.
+603,MDU6SXNzdWUxMTQ1OTE5,0,Remove rc_base
+607,MDU6SXNzdWUxMTUyNTgw,0,Allow crate link attributes to contain nested meta items

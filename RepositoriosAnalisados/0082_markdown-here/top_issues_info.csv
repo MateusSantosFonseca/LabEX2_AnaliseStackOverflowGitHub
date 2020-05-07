@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+577,MDU6SXNzdWU0OTA4NzMwMjk=,34,Support Thunderbird 68
+144,MDU6SXNzdWUyMjY3ODAzMQ==,31,Options to choose different LaTeX rendering services (p.e. with svg output) and offline conversion with MathJax
+80,MDU6SXNzdWUxNTkxNzQxOQ==,27,What would it take to make MDH work in Apple Mail?
+141,MDU6SXNzdWUyMjE2NDU4MA==,20,Firefox: ReferenceError: document is not defined
+130,MDU6SXNzdWUyMTIzODgwMQ==,20,Thunderbird inserts line breaks in sent HTML that break code lines
+85,MDU6SXNzdWUxNjE5NTEwMw==,19,Convert back to Markdown syntax saved Evernote's note
+21,MDU6SXNzdWU1NjEwOTc1,19,Extension updates not being accepted by Mozilla
+92,MDU6SXNzdWUxNzc2NDEyMg==,18,Support Zotero standalone
+504,MDU6SXNzdWUzMjg4MjU5MTg=,14,Doesn't work with new Gmail
+217,MDU6SXNzdWU0NzA3NjIxNw==,14,RTL support
+109,MDU6SXNzdWUyMDY5MDcwNw==,14,Markdown Here Upgrade Notification every time I open Chrome
+67,MDU6SXNzdWUxNDg3ODQzOQ==,14,Support Microsoft Outlook
+29,MDU6SXNzdWU2MzIyMjk2,14,Markdown toggle doesnt work in Thunderbird
+26,MDU6SXNzdWU2MDY0NjY0,13,TeX Math rendering
+524,MDU6SXNzdWUzNjM4MzE4NTI=,12,v2.13.3 Does Not Work on Thuderbird v60.0
+495,MDU6SXNzdWUzMTI2NTYxNTI=,12,Markdown-Here does not work with Thunderbird 60 Beta
+474,MDU6SXNzdWUyODQ0NDY2OTY=,12,"'""><img src=x onerror=prompt(1)>https://html5sec.org/test.svg"
+38,MDU6SXNzdWU5MDI0NDMw,12,"Any chance there could be a Safari extension, too?"
+6,MDU6SXNzdWU0ODEyMTk2,12,doesnt work when used with Google Apps Gmail
+101,MDU6SXNzdWUyMDI2NDEwNw==,11,Support for Emoji Emoticons
+369,MDU6SXNzdWUxNzAzMTEwNDM=,10,Options page doesn't appear in Firefox
+33,MDU6SXNzdWU3ODA0MDM1,10,Warn before losing content when reverting
+28,MDU6SXNzdWU2MTU0ODQx,10,Google Documents integration
+12,MDU6SXNzdWU0OTQ5NjUy,10,GFM-style line breaks not supported
+515,MDU6SXNzdWUzNDkyNDA4NzA=,9,Incompatible with Thunderbird v60.0
+447,MDU6SXNzdWUyNDc0MDE3Mzk=,9,preference fails to open in Thunderbird ( Mac version )
+372,MDU6SXNzdWUxNzM0MzkzMzY=,9,Request for Edge extension
+371,MDU6SXNzdWUxNzI1NjEwMTY=,9,Can I integrate it into my personal blog?
+327,MDU6SXNzdWUxMjg1MDU2Mjg=,9,Not working in Inbox
+261,MDU6SXNzdWU2MTgyNzk5Mg==,9,Switch TeX renderer to CodeCogs
+235,MDU6SXNzdWU1MjEzNTM5Mw==,9,Make rendered email better for Outlook recipients
+340,MDU6SXNzdWUxNDM5MDcxNzk=,8,[Mac / MH 2.12.0 / Chrome 49.0.2623.87] CPU usage
+314,MDU6SXNzdWUxMTkwMzU0NTU=,8,You are using a plain-text compose editor. You must change to a rich editor to use Markdown Here.
+310,MDU6SXNzdWUxMTQyMzQ3NzY=,8,Port for Evolution
+295,MDU6SXNzdWUxMDA1OTMyNTc=,8,Newline added when toggling back and forth between markdown preview and edit mode in gmail
+292,MDU6SXNzdWU5NDM1MjI3Mw==,8,Options page needs a overhaul
+287,MDU6SXNzdWU4OTQxODkwNw==,8,escaping asterisks inside italic block
+188,MDU6SXNzdWUzNTI4ODM5Mg==,8,[Google Chrome] Keyboard shortcut not working on Gmail composer (new conversation)
+167,MDU6SXNzdWUyODk1NTM1Ng==,8,Improved support for Postbox
+119,MDU6SXNzdWUyMDg3ODY4Mg==,8,Markdown Here Upgrade Notification every time I open Chrome
+56,MDU6SXNzdWUxMTQ0NTQ3OA==,8,Wrong view of markdown icon in Firefox toolbar
+221,MDU6SXNzdWU0ODE3MDc3OA==,7,"Google Inbox: MDH button doesn't enable in ""quick compose"" box"
+180,MDU6SXNzdWUzMzA4MjgxNw==,7,Thunderbird add-on providing odd behaviour
+171,MDU6SXNzdWUyOTg1NDE0Nw==,7,markdown cheatsheet
+48,MDU6SXNzdWUxMDc2NTI5Mw==,7,Update unmodified CSS if default changes
+35,MDU6SXNzdWU3OTM4MjI1,7,Do not render signature text as md
+30,MDU6SXNzdWU2NTE1ODE0,7,Can't see context menu in Postbox email
+444,MDU6SXNzdWUyNDQ4OTIxODQ=,6,The WebExtensions version always open the options page
+394,MDU6SXNzdWUxODkzOTkzNDQ=,6,Not working with new Google SItes
+339,MDU6SXNzdWUxNDE3NTc2NzA=,6,Memory leak?

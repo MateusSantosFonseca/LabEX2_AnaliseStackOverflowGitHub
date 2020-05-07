@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+24,MDU6SXNzdWU4MjI2Mzgw,0,Preferred method of boolean casting?
+124,MDU6SXNzdWUyMzU2MDgxNA==,0,Add regex section
+133,MDU6SXNzdWUyNDU1ODQ1OA==,0,Avoid leading pluses
+173,MDU6SXNzdWUzNTU5ODY2MA==,0,Add DailyMotion to the list of organizations that are using this style guide.
+306,MDU6SXNzdWU2Nzk1MjUyNQ==,0,Add es6-features as learning resource to ES6 guide
+393,MDU6SXNzdWU5Mjg3MzI4Mg==,0,Additional trailing comma
+473,MDU6SXNzdWUxMDA5MzQ1ODQ=,0,jsx-no-undef does not cover for no-undef
+567,MDU6SXNzdWUxMTUyNTY0NTk=,0,id-length exceptions
+945,MDU6SXNzdWUxNjQ2NzMzMDY=,0,[18.5 End files with a single newline character] Add es-lint rule
+967,MDU6SXNzdWUxNjc2Nzc1NjQ=,0,[React] Advise using Provider components (or HOC) to set context and higher order components to access context
+1075,MDU6SXNzdWUxNzY5NjkwNjg=,0,Referencing with PropTypes.shape
+1226,MDU6SXNzdWUxOTc5Mzk2OTI=,0,Wrong JSCS rule for functions (7.1)
+1326,MDU6SXNzdWUyMTE4NTkwMzk=,0,Suggested rule modification for 
+1333,MDU6SXNzdWUyMTI1NzU5NDA=,0,Why are global unused variables allowed in eslint config
+1340,MDU6SXNzdWUyMTU2MDU2Mjc=,0,Gitter Badge is not displaying.
+1443,MDU6SXNzdWUyMzQ5MTc4NTg=,0,Add section about not spreading props
+1499,MDU6SXNzdWUyNDQ4OTgzMjQ=,0,.
+1601,MDU6SXNzdWUyNjY2NDMwODU=,0,Add guide section for `no-else-return`
+1617,MDU6SXNzdWUyNjgwNjYyMjI=,0,r
+1636,MDU6SXNzdWUyNzIwMjAyNDQ=,0,7.11 good example uses bad example from 7.1
+1667,MDU6SXNzdWUyODQzMTEzMDg=,0,rtterte
+1744,MDU6SXNzdWUyOTkzNjk1OTA=,0,The npm packages get distributed without licenses
+1858,MDU6SXNzdWUzMzg0NzAzNzc=,0,The markdown syntax of README.md seems not work on 4.4(#array--from--iterable)
+1910,MDU6SXNzdWUzNTcyODk2Nzc=,0,hh
+1922,MDU6SXNzdWUzNjMzOTQ4ODg=,0, [suggestion]Add type-annotations to react/sort-comp
+1935,MDU6SXNzdWUzNzA4Mzc2Njg=,0,Disable `no-var` From Legacy Entry Point
+2049,MDU6SXNzdWU0NjExODkxMzg=,0,"Integrate ""eslint-plugin-eslint-comments"" plugin"
+2210,MDU6SXNzdWU2MDAxOTExODc=,0,JS
+2212,MDU6SXNzdWU2MDEyNzcyMzQ=,0,JavaScript
+2217,MDU6SXNzdWU2MTAyMzM3MDY=,0,Airbnb JS style guide
+2218,MDU6SXNzdWU2MTEzNzA5MTU=,0,JavaScript 
+2219,MDU6SXNzdWU2MTI3MjY1Mzk=,0,O
+8,MDU6SXNzdWU4MDQ4NDk5,1,"IIFE styles: to bang, or not to bang?"
+13,MDU6SXNzdWU4MTE5MDE1,1,Jedi Mindtricks
+19,MDU6SXNzdWU4MTgzMzQw,1,jQuery Chaining
+25,MDU6SXNzdWU4MjMyNjY5,1,Reserved words as property names
+39,MDU6SXNzdWU5ODc4MjI2,1,Bitshifting instead of Typecasting is slow on Chrome. 
+42,MDU6SXNzdWU5OTIwMjYy,1,jsHint config
+62,MDU6SXNzdWUxMjA1NzAzMw==,1,"What about code Annotations like (TODO, FIXME...) ?"
+72,MDU6SXNzdWUxNjE0MjkwNw==,1,Rename getProp() to hasProp()?
+92,MDU6SXNzdWUyMTgwNjk4Ng==,1,Two more resources
+100,MDU6SXNzdWUyMjM2MTA3OQ==,1,Leading Commas
+118,MDU6SXNzdWUyMjk4MjMyNA==,1,Eval statement
+178,MDU6SXNzdWUzNjc0MjIxMw==,1,hey
+191,MDU6SXNzdWU0MTc0MTgzMg==,1,Allow multiple var statements. 
+192,MDU6SXNzdWU0MTc1Nzc4Ng==,1,"Add VoxFeed to ""In the wild"""
+193,MDU6SXNzdWU0MTk4MDM2NA==,1,"Add Evernote to ""In the Wild"" list"
+228,MDU6SXNzdWU1NDY1MDk0NA==,1,"Add AlgoWiki to your organzations list, we have just forked your repo, Thanks!"
+231,MDU6SXNzdWU1NTcwMjkyMA==,1,Inconsistent use of periods before code snippets
+244,MDU6SXNzdWU1ODIzMjk5NA==,1,JSHint .jshintrc

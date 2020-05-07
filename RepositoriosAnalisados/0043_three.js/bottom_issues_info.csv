@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+102,MDU6SXNzdWU1NTYxMjM=,0,cube's rotation only on x OR y...
+105,MDU6SXNzdWU1NTk1NTA=,0,Rendering Images on Scene
+106,MDU6SXNzdWU1NjQxMDg=,0,Cube materials
+282,MDU6SXNzdWUxMDg3NDQ2,0,Alpha flicker
+290,MDU6SXNzdWUxMTAzMjE5,0,TrackballCamera and maxDistance
+535,MDU6SXNzdWUxNjM2NTYw,0,CanvasRender smoothshading bug
+544,MDU6SXNzdWUxNjU3NTEx,0,Problem: Simple Vignette Shader
+545,MDU6SXNzdWUxNjYzMTM4,0,question on improving interactive camera
+559,MDU6SXNzdWUxNjg5NTYy,0,Three JS exporter for Away3D
+571,MDU6SXNzdWUxNzIwMDU2,0,duplicate
+624,MDU6SXNzdWUxODM4OTU3,0,Article on porting from r44 to r45
+646,MDU6SXNzdWUxODk3NDc2,0,train rotation
+679,MDU6SXNzdWUyMDI3NzMz,0,WebGL Performance: Caching vertex attribute calls
+783,MDU6SXNzdWUyMzA3MTA3,0,Firstpersoncontrols
+805,MDU6SXNzdWUyMzYxODgy,0,Struct Array Uniform?
+818,MDU6SXNzdWUyMzk2MDcx,0,low fps in scene with many textured objects 
+889,MDU6SXNzdWUyNTE3Mzgx,0,Shading Cube
+921,MDU6SXNzdWUyNTgxNzA2,0,Make sphere geometry the same width as the canvas
+934,MDU6SXNzdWUyNTk1Njk1,0,Question about jigLib Triangle Mesh enigma
+945,MDU6SXNzdWUyNjIzMTg2,0,Update on Firefox antialiasing
+1050,MDU6SXNzdWUyNzYyNjEy,0,Camera collision on variable terrain?
+1066,MDU6SXNzdWUyNzk0NjE0,0,Error exporting normals from .mtl file
+1133,MDU6SXNzdWUyODg5ODU2,0,Cylinder shading when ends are different sizes does not work properly
+1144,MDU6SXNzdWUyOTA0NTc3,0,Support Y Flip for rotation and location attributes
+1236,MDU6SXNzdWUzMDY1NjM3,0,Three Queries
+1296,MDU6SXNzdWUzMTczODg1,0,Animatio
+1297,MDU6SXNzdWUzMTczODg2,0,Animatio
+1298,MDU6SXNzdWUzMTczODg3,0,Animatio
+1299,MDU6SXNzdWUzMTczODg4,0,Animatio
+1300,MDU6SXNzdWUzMTczODg5,0,Animatio
+1301,MDU6SXNzdWUzMTczODkw,0,Animatio
+1302,MDU6SXNzdWUzMTczODkx,0,Export simple animation (3ds Max)
+1414,MDU6SXNzdWUzNDE2MTE3,0,Resource Loading / Loading Screen
+1519,MDU6SXNzdWUzNjcxNjMy,0,"Simple bump map for """
+1528,MDU6SXNzdWUzNjgyMzc5,0,Multi material geometries
+1540,MDU6SXNzdWUzNzAyNTk5,0,"In Vector3.getRotationFromMatrix(), the scale argument is not optional"
+1657,MDU6SXNzdWU0MDE3NTIy,0,Blender Exporter and Animation
+1805,MDU6SXNzdWU0MjU3NzYz,0,Difference between ANGLE and OpenGL rendering in physical shading example
+1870,MDU6SXNzdWU0NDM5NDc0,0,How to draw a ellipse using THREE.Shape?
+1947,MDU6SXNzdWU0NjU1MTQ0,0,Dynamic vertices in .r47
+1948,MDU6SXNzdWU0NjU1MTc5,0,Dynamic vertices in .r47
+1968,MDU6SXNzdWU0NzEzNTE1,0,Identifying objects
+2096,MDU6SXNzdWU1MjAwNjM4,0,Google I/O 2011: WebGL Techniques and Performance
+2170,MDU6SXNzdWU1NDU5NDM1,0,Troubles with the size of texture
+2225,MDU6SXNzdWU1NzY1OTcw,0,"Multiple animations in an array, but can't move the morph."
+2248,MDU6SXNzdWU1ODc4MTk4,0,r49 patternPath vs. clipImage
+2270,MDU6SXNzdWU1OTc1NTY2,0,Safari Instructions - suggestion for three.js
+2271,MDU6SXNzdWU1OTgyNzMx,0,fs?[Question]
+2272,MDU6SXNzdWU1OTgyNzgx,0,dsf
+2319,MDU6SXNzdWU2MTg5MTQx,0,Documentation missing for many APIs

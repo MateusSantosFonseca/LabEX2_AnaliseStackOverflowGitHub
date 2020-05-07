@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+349,MDU6SXNzdWUyMDIyNTMy,50,Graphviz (Sugiyama) layout.
+60,MDU6SXNzdWU2MzE5NDQ=,45,this/parent
+2220,MDU6SXNzdWU1NjYxNTA2Ng==,37,Use ES6 Modules (and Rollup) instead of SMASH.
+1578,MDU6SXNzdWUyMDg1ODIxOA==,32,geom.voronoi sometimes throws an error
+2936,MDU6SXNzdWUxNjk2NzM0MzY=,31,Add links from API docs to source. Checklist.
+2733,MDU6SXNzdWUxMzI4MTY2Mjc=,31,Problem with d3.event when transpiling ES6 code with babel
+1642,MDU6SXNzdWUyMjk2MzI1MA==,30,Text-wrapping routine.
+1805,MDU6SXNzdWUyOTk4NjgyMw==,29,Mozilla TypeError: mutating the [[Prototype]] of an object will cause your code to run very slowly
+1519,MDU6SXNzdWUxOTI3NTM2NQ==,28,Use something quicker than d3.timer for the force layout
+3131,MDU6SXNzdWUyNDg3ODA2NTE=,25,Add sideEffects: false to package.json. 
+1145,MDU6SXNzdWUxMjA4ODg3Mw==,25,A more consistent approach to data.
+73,MDU6SXNzdWU2NzIwNzk=,24,SVG Web Compatibility
+2685,MDU6SXNzdWUxMjI1MTg5NTA=,23,Sunburst chart zooming incorrectly in Linux based Chrome
+1747,MDU6SXNzdWUyNzg5MDU5MQ==,22,"Rename the variable name pi , ILLEGAL TOKEN error in Ubuntu 13.10 Chrome 32"
+3138,MDU6SXNzdWUyNTQ4MzA4NTE=,20,Replace browser field with unpkg field in package.json.
+1033,MDU6SXNzdWUxMDM3MjUxMA==,19,"A modest proposal for a more layered, modular architecture"
+939,MDU6SXNzdWU4OTk1NzE5,19,Two tests failing
+1693,MDU6SXNzdWUyNTQxNzYwOQ==,18,Something wrong with the http://d3js.org/d3.v3.min.js package
+1376,MDU6SXNzdWUxNjUxNTcwMw==,18,Force Layout In D3.js gets very slow when a node is filled with an Image using pattern.
+341,MDU6SXNzdWUxOTEyNjgy,18,d3.behavior.zoom doesn't handle manual changes to domain
+100,MDU6SXNzdWU3MzgwODI=,18,Ability to trigger event handlers manually.
+3069,MDU6SXNzdWUyMTA5ODA1OTg=,17,Pie chart showing incorrectly in d3 v4 and d3 v3 in chrome browser
+199,MDU6SXNzdWUxMDYyNDE4,17,style.setProperty in IE8
+3076,MDU6SXNzdWUyMTM2OTI1MTc=,16,"Rollup not tree-shaking from ""d3"" package"
+1883,MDU6SXNzdWUzNDAwMDcwNQ==,16,d3.geo.centroid returns wrong center point (sporadically)
+1420,MDU6SXNzdWUxNzE1NTE2Mw==,16,"d3.scale.log(), 0 in domain"
+3284,MDU6SXNzdWUzMDc5MDI3MTQ=,15,[RFC]: rewrite in typescript and restructure to monorepo
+1196,MDU6SXNzdWUxMzE0MTk1MA==,15,Firefox mangles date axis (possibly only during BST?)
+400,MDU6SXNzdWUyNDc5ODY3,15,transition parameter inheritance
+344,MDU6SXNzdWUxOTk5MTE0,15,Munging of transform attribute breaks interpolation.
+55,MDU6SXNzdWU2MDg3Mzg=,15,A more compact attribute syntax? 
+42,MDU6SXNzdWU1NTgzODA=,15,"Internet Explorer 6,7,8"
+3116,MDU6SXNzdWUyNDE0ODkxMDY=,14,create-d3-module
+2461,MDU6SXNzdWU4NTQxMTE0Mw==,14,D3 4.0.
+1833,MDU6SXNzdWUzMTAyNjYwMQ==,14,"d3.median is slow, O(n log n) instead of O(n)"
+1332,MDU6SXNzdWUxNTgyMTU3Ng==,14,3.2 performance regression in resampleLineTo
+1321,MDU6SXNzdWUxNTU3OTg5MQ==,14,d3.svg.brush shouldn't preventDefault on brushstart.
+1095,MDU6SXNzdWUxMTM2OTM1NQ==,14,d3.geo.area and d3_geo_clipAreaRing should be consistent.
+1084,MDU6SXNzdWUxMTE1NDAzMw==,14,Allow to restrict pan when zooming
+2265,MDU6SXNzdWU2MzA2MzczNA==,13,stack layout does not support a mix of positive and negative bars
+1115,MDU6SXNzdWUxMTYxMjg2Mw==,13,Subticks division not available when there is just one major tick
+1099,MDU6SXNzdWUxMTQ3ODQ0MA==,13,Consider using user-select: none instead of preventDefault on drag mousedown.
+251,MDU6SXNzdWUxNDE1MTU1,13,Opera compatibility
+2887,MDU6SXNzdWUxNjM4MTYzMjA=,12,v4.0 - d3.zoom() prevents binding events on the SVG or it's elements
+2855,MDU6SXNzdWUxNjA1MzE3ODY=,12,Improve D3 TypeScript definitions using new String literal syntax
+1782,MDU6SXNzdWUyOTU5ODQ1MA==,12,d3.time.format directive for negative year
+1770,MDU6SXNzdWUyOTAzNjAxMA==,12,Add quadtree.find.
+1209,MDU6SXNzdWUxMzQyMTM1Nw==,12,"Fuller's Dymaxion projection, how hard would be implementing?"
+1005,MDU6SXNzdWU5ODYzOTIy,12,Do the zoom and drag behaviors need to cancel click events?
+619,MDU6SXNzdWU0MjExMTky,12,Is D3 compatible with IE7 and IE8?

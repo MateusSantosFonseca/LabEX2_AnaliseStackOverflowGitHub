@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+5,MDU6SXNzdWUxNjQwMzY=,0,Write Specs/Tests
+57,MDU6SXNzdWUzMzMxNTA=,0,don't require() transports that are not in use?
+62,MDU6SXNzdWUzNDMxNjI=,0,Try to end connection when already ended
+79,MDU6SXNzdWUzNzMwMDk=,0,"Double connections, weird behavior"
+91,MDU6SXNzdWU0MDAwMzk=,0,The 'flashsocket' transport seems to be broken on Chrome/Firefox
+104,MDU6SXNzdWU0MzUwNjY=,0,Crash Report (null request in XHR polling transport)
+114,MDU6SXNzdWU0OTQ4NDE=,0,EINVAL at Stream.setNoDelay
+116,MDU6SXNzdWU1MDA0NTM=,0,xhr-multipart errors when decoding JSON messages
+119,MDU6SXNzdWU1MDc4ODk=,0,xhr-polling returns truncated/corrupted messages
+122,MDU6SXNzdWU1MTU3ODg=,0,"JSONP-Polling: Client ""disconnects"" after 8 seconds"
+136,MDU6SXNzdWU1ODk2ODI=,0,flash socket in firefox causes slowness
+141,MDU6SXNzdWU1OTYyNTE=,0,broadcast apparently not working
+150,MDU6SXNzdWU2MTExNDk=,0,triggered exception error via chat error / websockets
+159,MDU6SXNzdWU2NDExMTU=,0,static files
+170,MDU6SXNzdWU2ODczNzA=,0,socket.io.js with xsrf headers ?
+199,MDU6SXNzdWU4NTQ5NjI=,0,package.json is not compatible with latest npm
+212,MDU6SXNzdWU5MTg1NDA=,0,Flashsocket not loading over SSL
+218,MDU6SXNzdWU5MjI4NDc=,0,Missing 0.6.18 tag
+220,MDU6SXNzdWU5Mjc0NDE=,0,feature request: allow client to provide session token to socket.connect()
+225,MDU6SXNzdWU5NTM1OTk=,0,Use with C++ websocket client?
+228,MDU6SXNzdWU5NzI3MDg=,0,npm update broken
+233,MDU6SXNzdWU5ODY3NjI=,0,handshake using xhr-polling and nginx
+239,MDU6SXNzdWUxMDAwNDQ3,0,Authentication with xhr-polling?
+241,MDU6SXNzdWUxMDAxOTc0,0,Transport jsonp-polling socket.io v0.6.17
+243,MDU6SXNzdWUxMDI5MTI4,0,"""Error calling method on NPObject!"""
+244,MDU6SXNzdWUxMDMwNTMy,0,memory leak warning when client use xhr-polling
+247,MDU6SXNzdWUxMDQ1MjI5,0,Client adds :80 to server url by default
+250,MDU6SXNzdWUxMDYyMzE1,0,never allow session id collision
+261,MDU6SXNzdWUxMDgwMjkx,0,Problem with the port number
+263,MDU6SXNzdWUxMDgyNzAx,0,http://socket.io/api.html does not exist
+264,MDU6SXNzdWUxMDg5MTE2,0,Pending message buffers
+267,MDU6SXNzdWUxMDkwNTE0,0,socket connect should be connection ? 
+436,MDU6SXNzdWUxMzE1ODQx,0,Safari 5.1 Type Error Undefined Function Line 2
+468,MDU6SXNzdWUxNDM4NTM0,0,How to close server debug partten?
+476,MDU6SXNzdWUxNDY3MTIy,0,"Uncaught, unspecified 'error' event."
+477,MDU6SXNzdWUxNDY4NDY2,0,Add checklist based input to guide the user through what to fill out for daily report.
+478,MDU6SXNzdWUxNDczOTM4,0,/socket.io/1/?t=1314188598869 404 not found
+504,MDU6SXNzdWUxNTU4Mzc5,0,npm packge.jason needs to be updated!
+510,MDU6SXNzdWUxNTg3OTgy,0,TypeError: Cannot read property '0' of undefined 
+514,MDU6SXNzdWUxNTk2ODcz,0,Link socket.io-client more clearly on the website
+526,MDU6SXNzdWUxNjYwMTM5,0,Why a socket is needed for each namespaces?
+531,MDU6SXNzdWUxNjg1MzY0,0,Fails on IE8/9 Cross domain.
+543,MDU6SXNzdWUxNzc4MzY1,0,Socket.io and non-domain-level Proxies
+547,MDU6SXNzdWUxNzg4NTgw,0,Origin is not allowed by Access-Control-Allow-Origin.
+553,MDU6SXNzdWUxNzk1OTM4,0,Origin isn't checked for websocket connects after initial handshake
+566,MDU6SXNzdWUxODcxMTYw,0,Impossible to get socket.io from a Express route
+567,MDU6SXNzdWUxODcxMTY4,0,Impossible to get socket.io from a Express route
+571,MDU6SXNzdWUxODg4NDc0,0,Unicode Parsing Issue
+595,MDU6SXNzdWUyMDQ3MzI4,0,HEAD Request - node warning
+604,MDU6SXNzdWUyMDg4NjM3,0,Documentation for cross-host persistence w/ Redis or other NoSQL DB

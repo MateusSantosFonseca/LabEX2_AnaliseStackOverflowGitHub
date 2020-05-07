@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+40,MDU6SXNzdWUxODc4MDY4Nw==,0,BeanDefinitionLoader cannot load resources when LaunchedURLClassLoader is the current classloader
+54,MDU6SXNzdWUxOTgyMjQ3NA==,0,Embedded Tomcat container stays alive even if the application does not
+86,MDU6SXNzdWUyMDgzNDk2OQ==,0,Update README.md for brew via pivotal tap
+87,MDU6SXNzdWUyMDg0MjQ0Mw==,0,Properties typo in starter.pom
+98,MDU6SXNzdWUyMTYzMDk3OA==,0,RelaxedDataBinder does not bind values that are only defined in environment variable style
+100,MDU6SXNzdWUyMTcyNzQwOQ==,0,Setting `security.management.enabled` to `false` disables security for the entire application
+122,MDU6SXNzdWUyMjg3MzU1NA==,0,spring-boot-starter-amqp requires a <version>
+139,MDU6SXNzdWUyMzU3MTI4MQ==,0,Gradle plugin still includes *Launcher classes with Layout.NONE
+140,MDU6SXNzdWUyMzU3ODA2OA==,0,"Document ant+ivy process, possibly make ant module"
+144,MDU6SXNzdWUyMzcyODg4OQ==,0,PropertiesConfigurationFactory always throws validation exceptions
+145,MDU6SXNzdWUyMzc1MTMyMQ==,0,AutoConfigurationReportLoggingInitializer error handling not defensive enough
+151,MDU6SXNzdWUyMzk0OTc0MQ==,0,SecurityAutoConfiguration causes early instantiation of JPA
+153,MDU6SXNzdWUyMzk2Nzk5Nw==,0,"Improve ""Starting application"" message when running in existing process"
+168,MDU6SXNzdWUyNDM3NjIwNg==,0,Duplicate EnableConfigurationPropertiesTests
+169,MDU6SXNzdWUyNDM5MDU5Mw==,0,Exception parsing VCAP_SERVICES
+174,MDU6SXNzdWUyNDUwNjc3Ng==,0,Superflous logging when running java -jar samples
+181,MDU6SXNzdWUyNDcwNTM0Nw==,0,`/health` endpoint does not cleanup it's DB connection
+186,MDU6SXNzdWUyNDg2NjcxMg==,0,Revise auto-detection of JodaTime Jackson Modules after upgrade to Spring 4.0.1
+197,MDU6SXNzdWUyNTIyNDY3NQ==,0,Batch with JPA should not use higher isolation levels
+204,MDU6SXNzdWUyNTMzMzM1OA==,0,JobLoader cannot be autowired when Batch is on classpath but @EnableBatchProcessing not used
+207,MDU6SXNzdWUyNTM4MTU4MA==,0,Support compilation of resources that are not Files
+209,MDU6SXNzdWUyNTQwNTkyMg==,0,Log warning on yaml file without snake-yaml library
+214,MDU6SXNzdWUyNTQ1NzA0NQ==,0,typo in EnvironmentTestUtils method.
+217,MDU6SXNzdWUyNTUyMTA0Nw==,0,Embedded shell doesn't deal with System.in.read()
+219,MDU6SXNzdWUyNTUyMTM0NQ==,0,Calling clear from REPL prints a double prompt
+220,MDU6SXNzdWUyNTUyMjA5MA==,0,!missingcommand dumps out of REPL
+225,MDU6SXNzdWUyNTU5OTQ1Ng==,0,Gradle plugin doesn't allow reloading of static resources from bootRun
+227,MDU6SXNzdWUyNTY4NDY2MQ==,0,Refactor CLI internals for REPL shell
+229,MDU6SXNzdWUyNTcxOTM3MA==,0,CLI shell barfs on CTRL-D
+230,MDU6SXNzdWUyNTcyMDE1NA==,0,CLI CleanCommand is obsolete
+233,MDU6SXNzdWUyNTgyMzY2Ng==,0,Move spring-boot tests utilities to main spring-boot.jar
+238,MDU6SXNzdWUyNTg5NjU2NA==,0,Allow custom PersistenceUnitManager with auto-configuration
+239,MDU6SXNzdWUyNTg5ODg3MQ==,0,Add @EntityScan annotation
+242,MDU6SXNzdWUyNTkzNTQxNg==,0,Upgrade to Spring 4.0.1
+243,MDU6SXNzdWUyNTkzNTQ0Mg==,0,Change version from 0.5.0 to 1.0.0
+250,MDU6SXNzdWUyNjA3MzAwNg==,0,Additional Javadoc for metrics
+255,MDU6SXNzdWUyNjA4MTI1Mg==,0,@ConfigurationProperties bean could be its own validator
+261,MDU6SXNzdWUyNjE5MDI3NA==,0,Support for comma separated lists of config file names
+264,MDU6SXNzdWUyNjIxMDI3OQ==,0,Add thymeleaf starter
+267,MDU6SXNzdWUyNjIzODIyMw==,0,/configprops doesn't show prefix (name= from @ConfigurationProperties)
+271,MDU6SXNzdWUyNjMxOTExNw==,0,@SpringApplicationConfiguration should pick up nested configuration class just as @ContextConfiguration does
+275,MDU6SXNzdWUyNjM2NDg2OQ==,0,/shutdown only applies to parent context and webapp doesn't stop
+277,MDU6SXNzdWUyNjQwNzE1Nw==,0,"Fix ""TLD skipped"" INFO Log output"
+279,MDU6SXNzdWUyNjQyNDU5MA==,0,better jsp support
+288,MDU6SXNzdWUyNjUwNjYwNg==,0,Upgrade to Logback 1.1.0
+294,MDU6SXNzdWUyNjYyMjY4Mw==,0,Log warning on missing templates folder if Thymeleaf is used
+297,MDU6SXNzdWUyNjY0MTE5Mw==,0,Promote howto.md from main project page
+305,MDU6SXNzdWUyNjc3MzQwOQ==,0,rc2
+311,MDU6SXNzdWUyNjg5NjA3MA==,0,Disabled port for ManangementServerProperties in EndpointWebMvcAutoConfiguration
+312,MDU6SXNzdWUyNjkwMzEyNA==,0,Document Listener/Initializer changes

@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+1752,MDU6SXNzdWU0NjM0MTQ0OQ==,0,Edge self-replacement cases of replaceWith
+1869,MDU6SXNzdWU0ODg0NDYzNQ==,0,Distribute jquery and jquery-compat to jquery-dist repo for bower and npm distribution
+1876,MDU6SXNzdWU0OTc3MjM5MQ==,0,#14549
+1911,MDU6SXNzdWU1MTI0NTQzMQ==,0,"jQuery(""#"") returns empty set but jQuery(document).find(""#"") throws"
+1929,MDU6SXNzdWU1MTk1NjcyMQ==,0,Hello
+1937,MDU6SXNzdWU1MjIwMDYwNA==,0,Sizzle tickets fixed in 1.11.2/2.1.3
+1989,MDU6SXNzdWU1MzMxOTY4MQ==,0,Single-fire Callbacks report as initially locked
+1990,MDU6SXNzdWU1MzMxOTY4NA==,0,Locking memoryless Callbacks aborts current execution
+2009,MDU6SXNzdWU1NDIwMTQ4MA==,0,The drop event is a DragEvent as well
+2010,MDU6SXNzdWU1NDIxOTY1NQ==,0,pipe doesn't forward progress from already-resolved Deferred
+2045,MDU6SXNzdWU1NTkzNzk5Mg==,0,Release: ensure version in package.json is changed
+2074,MDU6SXNzdWU1NjkzMDg1MA==,0,Please use qmik to develop mobile html5
+2127,MDU6SXNzdWU2MDI2NDUwMA==,0,Data: new data-as-expando implementation causing olddisplay test failure
+2147,MDU6SXNzdWU2MjE1MzQ4MQ==,0,IE10+ fail the test for modifying offset values in a callback
+2153,MDU6SXNzdWU2MzI0OTAyOA==,0,Update jsdom & drop obsolete workarounds
+2219,MDU6SXNzdWU2OTIwNjAxMg==,0,Effects: easing._default
+2235,MDU6SXNzdWU3MTI1NTk5Mg==,0,jqXHR.then returns a string when dataType is JSON
+2302,MDU6SXNzdWU3NTY3OTMzNA==,0,Create tests for event aliases
+2344,MDU6SXNzdWU4MDUxMjUwNg==,0,hello man
+2497,MDU6SXNzdWU5NzA3ODg0Mg==,0,"Error: Syntax error, unrecognized expression: unsupported pseudo: chekced"
+2503,MDU6SXNzdWU5NzYxNzEwNA==,0,Data: new data-as-expando implementation does not clear user data
+2540,MDU6SXNzdWUxMDEyMzY3MjY=,0,Use new qunit interface
+2645,MDU6SXNzdWUxMTEwODExNTg=,0,Add tests for new ES6 Symbol entity
+2670,MDU6SXNzdWUxMTIzNTIwMDI=,0,element.off('mouseenter') also removes mouseover events
+2698,MDU6SXNzdWUxMTU3Nzk5MTQ=,0,Members with same emails can be created.
+2710,MDU6SXNzdWUxMTY1OTYxNTc=,0,$.when + progress
+2716,MDU6SXNzdWUxMTY4MDQxNTE=,0,Add tests that use jQuery.speed explicitly
+2745,MDU6SXNzdWUxMTkzNDgwNDA=,0,Issue with node-strophe module 
+2750,MDU6SXNzdWUxMTk5NTMyNTM=,0,Document use of AMD modules
+2833,MDU6SXNzdWUxMjY3MzY1MjA=,0,New show/hide logic fails for disconnected elements in Firefox
+2846,MDU6SXNzdWUxMjcyNzk4NzM=,0,"Restore chainable no-op behavior for `.on(event, undefined)`"
+3029,MDU6SXNzdWUxNDQ0MzIwNTY=,0,$.when( deferred ).done() (serious?) regression
+3042,MDU6SXNzdWUxNDYxNzY3Nzc=,0,".data(""test1"") .data(""test-1"") .data().test1 does not get data-test-1 attribute"
+3064,MDU6SXNzdWUxNDkyMDk2MTI=,0,Revert jQuery.easing signature changes
+3073,MDU6SXNzdWUxNTA1MTY2MDU=,0,Update all src modules to strict mode
+3082,MDU6SXNzdWUxNTEzNTc2NjE=,0,Deferred tests fail in Android 4.0
+3103,MDU6SXNzdWUxNTI4NTkwMzA=,0,Remove jQuery.event.fix performance bottleneck
+3159,MDU6SXNzdWUxNTk4MDAwOTI=,0,_
+3235,MDU6SXNzdWUxNjU4MzkxMDA=,0,Remove `event.which` property fill
+3237,MDU6SXNzdWUxNjYxMzgwODY=,0,Update slim to not remove deprecated.js anymore given upcoming deprecations
+3397,MDU6SXNzdWUxODkyODczMjY=,0,[deleted]
+3451,MDU6SXNzdWUxOTUzOTk0Mjg=,0,The .is() method returns unexpected results.
+3469,MDU6SXNzdWUxOTczMTMzNTQ=,0,Callbacks with memory are unlocked by add
+3502,MDU6SXNzdWUyMDEwNjA1NTA=,0,Immediately-done animations miss the final progress notification
+3524,MDU6SXNzdWUyMDQ1MTM3NDg=,0,$.post() : json result has collapsed white space
+3538,MDU6SXNzdWUyMDY5MDE0MzA=,0,Using single quotes after on event
+3612,MDU6SXNzdWUyMTk0Mjg2MDk=,0,offset() should never return read-only properties
+3630,MDU6SXNzdWUyMjIyNjgyMDU=,0,asdfasdf
+3662,MDU6SXNzdWUyMjY4MjE2MjM=,0,"typeof window !== ""undefined"" ? window : this"
+3674,MDU6SXNzdWUyMzA5NjkzMjI=,0,hello

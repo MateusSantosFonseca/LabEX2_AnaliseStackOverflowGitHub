@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+9802,MDU6SXNzdWU1MDU4Mzg0MzM=,387,webpack 5 beta feedback
+8537,MDU6SXNzdWUzOTM0NzQyMzM=,275,webpack 5 alpha feedback
+959,MDU6SXNzdWU2NzIwOTkxNw==,249,Uncaught TypeError: Cannot read property 'call' of undefined
+2145,MDU6SXNzdWUxMzg3ODMxNzc=,224,Source Maps don't work on Chrome
+10352,MDU6SXNzdWU1NjE0MTQ3NTM=,194,Merge Proposal: Module federation and code sharing between bundles. Many builds act as one
+1315,MDU6SXNzdWU5ODI4NjQ4MA==,183,Vendor chunkhash changes when app code changes
+8656,MDU6SXNzdWU0MDExNDkyNzk=,168,"Parsing of `import()` fails in 4.29.0 (Compilation issue, related to dynamic import)"
+2867,MDU6SXNzdWUxNzEwMjIwNTg=,163,Tree shaking completely broken?
+6929,MDU6SXNzdWUzMTA0Njk2Mjg=,156,Webpack4 has memory leak in development mode
+215,MDU6SXNzdWUzMDM2NzE0Mg==,156,CSS resolving order
+536,MDU6SXNzdWU0NTc2MDYyNg==,126,Use a HTML file as an entry point?
+1914,MDU6SXNzdWUxMjgxMzAzNjE=,121,Process out of memory - Webpack
+196,MDU6SXNzdWUyOTE0NjQ0Ng==,112,Warning: Critical dependencies.
+4039,MDU6SXNzdWUyMDE3OTkxMzU=,104,Cannot assign to read only property 'exports' of object '#<Object>' (mix require and export)
+2734,MDU6SXNzdWUxNjM1MjAxNDY=,104,Call for new maintainers
+61,MDU6SXNzdWUxMDU5MDY4Nw==,100,Typescript support
+4160,MDU6SXNzdWUyMDQ1NzMyMjE=,99,resolve.alias not works
+4072,MDU6SXNzdWUyMDIyNzYyNjc=,92,TypeError: Data must be a string or a buffer
+537,MDU6SXNzdWU0NTgzNjY3OA==,88,Compile stuck at optimize chunk assets
+3165,MDU6SXNzdWUxODQwNTE5NjQ=,84,[HELP WANTED] Perform source-map audit against webpack
+3216,MDU6SXNzdWUxODYzMTY0MTU=,82,RFC: Webpack Performance Budgets
+5718,MDU6SXNzdWUyNjA0MTUwNjM=,79,Webpack's Performance at Airbnb
+1979,MDU6SXNzdWUxMzA3OTI2NjU=,77,"Will/does Webpack support ""module"" field?"
+1189,MDU6SXNzdWU5MDU5MDI2NA==,76,The need for multiple output paths?
+8768,MDU6SXNzdWU0MDg0ODI3NjQ=,75,"webpack broken by ajv@6.9.0, ""custom keyword definition is invalid: data.errors should be boolean"""
+3917,MDU6SXNzdWUyMDAxODMzMzY=,74,"2.2.0-rc.4's es6 modules' ""module"" usage detection seems to be broken"
+2797,MDU6SXNzdWUxNjcxNjU2MTI=,74,Usability Discussion
+981,MDU6SXNzdWU2ODY3NTM3OQ==,71,Error : ERROR in Entry module not found: Error: Cannot resolve 'file' or 'directory'...
+675,MDU6SXNzdWU1MzkxNzAzMA==,68,--watch doesn't work in latest (1.4.15) webpack on osx yosemite 10.10
+1905,MDU6SXNzdWUxMjc0MjMzNjQ=,67,Scaling to large codebases
+2012,MDU6SXNzdWUxMzE4Mzk0NjI=,65,webpack hangs in middle when '--p' is used always on 68%
+378,MDU6SXNzdWUzODgyNjEwMQ==,65,Loaders & Dependency Management
+6568,MDU6SXNzdWUzMDAwNjQyODY=,64,Tapable.plugin is deprecated. Use new API on `.hooks` instead
+1599,MDU6SXNzdWUxMTU2Nzg1NDA=,63,__dirname returns '/' when js file is built with webpack
+1545,MDU6SXNzdWUxMTMwNjc3MDg=,61,what is the timeline for the release of webpack 2?
+418,MDU6SXNzdWU0MDgwMTI5Mw==,60,Opt-in to disable page reload when using HMR
+6767,MDU6SXNzdWUzMDU1ODAxNDc=,59,Webpack 4 hot rebuild time twice as slow
+370,MDU6SXNzdWUzODQ3NTMxMg==,59,Wildcards in entry points
+2362,MDU6SXNzdWUxNDk2MDc4OTg=,58,`another module with an equal name` warning - need more info
+4921,MDU6SXNzdWUyMzA5Mjk3MTM=,57,"Uncaught Error: Cannot find module ""."""
+125,MDU6SXNzdWUyMzQ0MTU2OA==,57,New watching solution
+4530,MDU6SXNzdWUyMTU5Mjg0OTE=,56,2.3.0 breaks path resolution on Windows
+1479,MDU6SXNzdWUxMDg2MzcyOTM=,56,Hash changes if a filename is changed
+3018,MDU6SXNzdWUxNzc5Mjk0MDI=,55,beta23 doesn't start if config object includes loader configs because of schema
+2463,MDU6SXNzdWUxNTM5MDEzMzA=,55,"""TypeError: Path must be a string"" after break from project"
+1194,MDU6SXNzdWU5MDg1MDk4OA==,55,Webpack source maps are broken for debugging in Firefox
+382,MDU6SXNzdWUzODk2MDk4NQ==,55,"Warning ""There is another module with a equal name when case is ignored."""
+7197,MDU6SXNzdWUzMjAxNzUwMzY=,54,webpack keeps asking if I want to install webpack-cli
+1949,MDU6SXNzdWUxMjk2NjI2Nzc=,54,dynamic import() chunk name
+2933,MDU6SXNzdWUxNzM5OTc5OTE=,53,support output.libraryTarget: 'module'

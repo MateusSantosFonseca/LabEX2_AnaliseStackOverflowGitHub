@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+58,MDU6SXNzdWU1MzM3NzE=,0,Untitled
+131,MDU6SXNzdWUxMjI2NTU4,0,Remove from Playlist on Completed Download
+155,MDU6SXNzdWUxNjM3ODgz,0,Add a prominent developer link in the documentation
+158,MDU6SXNzdWUxNjM4NjUx,0,Create a one-step release script
+161,MDU6SXNzdWUxNjQ3MzE0,0,CLI Option to print a list of IEs
+164,MDU6SXNzdWUxNjUxNTE2,0,Remove sanitize_title
+166,MDU6SXNzdWUxNjU1NDY4,0,Update mechanism updates even if version is current
+212,MDU6SXNzdWUyMTkyODM4,0,teamcoco.com support
+222,MDU6SXNzdWUyMzE0NTM1,0,Support for videos.tf1.fr
+229,MDU6SXNzdWUyMzU0OTIz,0,[Feature] Limit number of downloaded videos
+233,MDU6SXNzdWUyMzY5ODcy,0,Support individual comedycentral videos
+261,MDU6SXNzdWUyNjY3NDEw,0,Support flickr videos
+262,MDU6SXNzdWUyNjc0Mzgx,0,Support videodetective.net
+286,MDU6SXNzdWUzMDc5NzE4,0,HTTP Error 403: Forbidden
+312,MDU6SXNzdWUzNjk1MDYz,0,Add support for c-spanvideo.org
+313,MDU6SXNzdWUzNjk1MDY2,0,Add support for ustream.tv
+319,MDU6SXNzdWUzNzc1MTAy,0,Ignore white space at the start of argument / links
+337,MDU6SXNzdWU0MjIzMzk3,0,Unhandeld IOError exception in to_stderr()
+362,MDU6SXNzdWU1MjcwODU5,0,.srt subtitle compatibility
+384,MDU6SXNzdWU1OTI1OTgy,0,Error: Host is down
+400,MDU6SXNzdWU2MzA4MDkx,0,getwindowsversion().major doesn't work with Python 2.6
+433,MDU6SXNzdWU3MTkyNDQz,0,Add a couple of FAQ
+434,MDU6SXNzdWU3MTkyODEy,0,Youtube-dl with aria2c not working anymore
+448,MDU6SXNzdWU3MjQ4NzQ5,0,downloaded videos cannot be played
+495,MDU6SXNzdWU3ODkzNDgw,0,youtube-dl --update
+519,MDU6SXNzdWU4MjMyNTU4,0,What's that output?
+534,MDU6SXNzdWU4MzY5ODUy,0,Add gdata URLs support
+542,MDU6SXNzdWU4NjE5MTM1,0,Please delete
+562,MDU6SXNzdWU4NzM3Njg4,0,metacafe: unable to extract media URL
+582,MDU6SXNzdWU5MTExMTM0,0,youtube 27
+585,MDU6SXNzdWU5MTc5MTkx,0,New type/length of playlist ID
+632,MDU6SXNzdWU5OTEwMDA2,0,Allow contradictory options in various config files
+645,MDU6SXNzdWUxMDE3MzQ3OQ==,0,Request rate limits
+657,MDU6SXNzdWUxMDM4Njk2Nw==,0,"please support ""Copy Video URL"" in embedded youtube videos format"
+673,MDU6SXNzdWUxMDY4MzM4OA==,0,"Some Youtube playlists doesn't work, ""Found 0 videos"""
+690,MDU6SXNzdWUxMTEwNjM1Nw==,0,--match-title and reject-title need to be decoded to unicode
+766,MDU6SXNzdWUxMjYzNzY4MQ==,0,Move some test_youtube_lists.py tests to test_download.py
+793,MDU6SXNzdWUxMzM3ODk4NQ==,0,Database support
+811,MDU6SXNzdWUxMzc1MTgyMg==,0,youtube dl continue
+843,MDU6SXNzdWUxNDM5MTk5Mg==,0,Could youtube-dl download automatic captions when that vedio haven't captions ?
+857,MDU6SXNzdWUxNDgxOTM2Ng==,0, InfoExtractors.py:1719:_real_extract:AttributeError: 'NoneType' object has no attribute 'group'
+880,MDU6SXNzdWUxNTMyMjk4NA==,0,Showing a progress bar on website
+885,MDU6SXNzdWUxNTQ0NjYxNw==,0,Vimeo: allow to authentificate for downloading private videos
+947,MDU6SXNzdWUxNjA3NDkwMQ==,0,subkey lengths 42.43 not supported
+963,MDU6SXNzdWUxNjE3NTE0Mw==,0,A query relating to view_count variable in Gamespot IE
+965,MDU6SXNzdWUxNjE3NTgzMg==,0,Support tu.tv
+984,MDU6SXNzdWUxNjMxNzE3Mw==,0,Payment issue on youtube ?
+997,MDU6SXNzdWUxNjQxMjY2MQ==,0,Audio format bitrate problems
+998,MDU6SXNzdWUxNjQ0MjEzMw==,0,Reuse the instances of InfoExtractors in YoutubeDL
+1042,MDU6SXNzdWUxNjcxOTI3OA==,0,Support Livestream.com

@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+58,MDU6SXNzdWU5NjgwNDIz,0,Can't get animate.css to work
+79,MDU6SXNzdWUxNTE1MzU0Mw==,0,bug with select
+208,MDU6SXNzdWUzMjI3MjA3OA==,0,slideInUp is messed up
+246,MDU6SXNzdWUzNzYyOTM2OQ==,0,rotateOutDownLeft bug
+267,MDU6SXNzdWU0MDM1MDU5MQ==,0,delete please
+279,MDU6SXNzdWU0MTc4NzAxMg==,0,animate.css was not rebuilt after issue fixed.
+284,MDU6SXNzdWU0MjQxNTgwMQ==,0,Simple Rotate Animation?
+287,MDU6SXNzdWU0MjkxOTA0Mw==,0,The commit that is tagged 3.2.0 has the incorrect version number in bower.json
+332,MDU6SXNzdWU1MzcxMzc5MA==,0,Package name
+341,MDU6SXNzdWU1NTI2NzYwMA==,0,Release 3.2.0 - Bower installation failed
+381,MDU6SXNzdWU2NDM4MzE2Mg==,0,Working with ScrollMagic causes a bug on ios
+383,MDU6SXNzdWU2NjQzMjIyNA==,0,Reference
+389,MDU6SXNzdWU2OTM5NjQxNg==,0,!!! Stylus Port !!!
+418,MDU6SXNzdWU4MDc2MDI3OQ==,0,closed
+423,MDU6SXNzdWU4NTUwNTgzNw==,0,Is it possible make multiple animations text
+430,MDU6SXNzdWU4ODkzNDA5OA==,0,index.html
+441,MDU6SXNzdWU5NTE2NTE0Mg==,0,"show and hidden, opacity , animate-fill-mode"
+442,MDU6SXNzdWU5NTE3NTMxNA==,0,"show and hidden, opacity , animate-fill-mode"
+455,MDU6SXNzdWUxMDAyNDQxMTY=,0,bower.json: change src to source in ignore
+521,MDU6SXNzdWUxMjY5ODkwNzY=,0,Add sliding animations to animate.scss
+562,MDU6SXNzdWUxNDcxNjAxODg=,0,Missing package.json
+571,MDU6SXNzdWUxNTA2MzYzNzg=,0,animate.css can support a element move start to end and reverse then return ?
+577,MDU6SXNzdWUxNTM4MzcxODA=,0,Bower include
+578,MDU6SXNzdWUxNTQ4MjcwNDk=,0,Animate to Transformed State
+590,MDU6SXNzdWUxNTc4NjkzMTA=,0,thanks
+615,MDU6SXNzdWUxNjc5ODQ5MzY=,0,Doesn't work with Aurelia.
+654,MDU6SXNzdWUxOTE4MDc2MTk=,0,Breaks transform scale hover effects
+665,MDU6SXNzdWUyMDI5NjE1Njk=,0,safari animation issue
+675,MDU6SXNzdWUyMTAzMTYxMTE=,0,Would be great to make mobile (iOS?
+726,MDU6SXNzdWUyNDg1NzY1OTM=,0,flip anmiation on iphone problems
+760,MDU6SXNzdWUyNzMyNjc0NTE=,0,Update base file
+779,MDU6SXNzdWUyODg4NTcwNjM=,0,zoomIn animation don't work on last Firefox version
+978,MDU6SXNzdWU0OTczNDU5ODc=,0,Items appearing late on Mobile (Two use cases with instructions to replicate issue)
+1045,MDU6SXNzdWU2MDM1NTg5MzQ=,0,Animate.js --> https://github.com/koffiisen/Animate.js
+1,MDU6SXNzdWUxODk4NTY5,1,Certain animations causing scrollbars in Firefox
+10,MDU6SXNzdWUxOTMxMDE1,1,That word. I do not think it means what you think it means.
+17,MDU6SXNzdWUyMDEzNTg1,1,Blurred/pixelated text when zooming animated elements on iOS
+27,MDU6SXNzdWU0MzEwMjU4,1,Question: anyway to specify animation properties?
+30,MDU6SXNzdWU0NzkwMTM2,1,Demonstration page breaks in Opera
+31,MDU6SXNzdWU0OTM4NjU2,1,Use examples
+32,MDU6SXNzdWU0OTkzNTIy,1,Compressed Version
+33,MDU6SXNzdWU1MjY3MzE2,1,missing bounceOutDown class elements in css
+39,MDU6SXNzdWU1NzUxMzQ2,1,Chrome text rendering bug during animations
+43,MDU6SXNzdWU2MjA1MTEz,1,Integration with jQuery Dialog
+44,MDU6SXNzdWU2MjgyNTcx,1,Flipping 'hinge' effect.
+50,MDU6SXNzdWU2ODU4NjMx,1,Duplicate property declaration at 0% and 100% breaks when minified
+54,MDU6SXNzdWU5MjMxNTAz,1,CSS animations brokes iOS video player
+57,MDU6SXNzdWU5NjA5NzQ2,1,pulse effect delay
+59,MDU6SXNzdWU5Njg2MzIw,1,Delay animation until after page has loaded?
+60,MDU6SXNzdWU5OTU0NTc3,1,rotateOutUpLeft not working in firefox 18.0

@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+7,MDU6SXNzdWUzNDAxMTY=,0,Arguments and return value for `apply`.
+8,MDU6SXNzdWUzNDAxMTc=,0,SVG path utilities.
+9,MDU6SXNzdWUzNDE2MjM=,0,Setting text(null) should clear the text content.
+10,MDU6SXNzdWUzNDE2MjQ=,0,Set inner HTML.
+12,MDU6SXNzdWUzNzM2Mzk=,0,Tick labels.
+14,MDU6SXNzdWUzNzczNDE=,0,Enter + exit selections are a bit weird.
+15,MDU6SXNzdWUzNzczNzQ=,0,Transitions with text(d3.tween(...)) fails.
+58,MDU6SXNzdWU2MjUzNjY=,0,Bipartite graph support for chord layout.
+61,MDU6SXNzdWU2MzI2NTE=,0,Polylinear scales.
+66,MDU6SXNzdWU2NTQ5NTY=,0,Setting ordinal scale domain does not recompute range.
+78,MDU6SXNzdWU2ODM4MjE=,0,Uncaught TypeError: Object #<SVGAnimatedString> has no method 'replace'
+121,MDU6SXNzdWU3ODY0NDk=,0,Don't ignore NaN-value nodes.
+138,MDU6SXNzdWU4NDY0MDQ=,0,Color manipulation.
+149,MDU6SXNzdWU5MjgxNTE=,0,d3.format should support additional types
+152,MDU6SXNzdWU5MzUwNzk=,0,d3.chart.horizon
+156,MDU6SXNzdWU5NjMwNTg=,0,Better mousewheel precision.
+161,MDU6SXNzdWU5NzI0NDQ=,0,d3.min & d3.max do not ignore NaN at [0].
+162,MDU6SXNzdWU5NzI0NDc=,0,d3.min & d3.max do not pass index to accessor function.
+176,MDU6SXNzdWUxMDExNjQ3,0,"""Nice"" a scale's domain."
+187,MDU6SXNzdWUxMDQ0OTEy,0,d3.svg.area evaluates the x-accessor twice per element.
+188,MDU6SXNzdWUxMDQ2MjQx,0,Force layout links and nodes should default to [].
+192,MDU6SXNzdWUxMDQ3NDkw,0,Force layout friction is not customizable.
+207,MDU6SXNzdWUxMTEwNzU3,0,Don't trigger mousemove on mouseup in force layout.
+233,MDU6SXNzdWUxMjk1NTI0,0,Possible layout issue in treemap for zero nodes
+243,MDU6SXNzdWUxMzc1MDQ3,0,Zoom behavior should prevent click events on drag.
+250,MDU6SXNzdWUxNDAxOTUw,0,Allow non-unique keys in data join.
+274,MDU6SXNzdWUxNTAyMjQw,0,Ordinal scales shouldn't coerce domain values to strings.
+303,MDU6SXNzdWUxNjgxOTE2,0,Quadtree for lines
+347,MDU6SXNzdWUyMDIwODUw,0,d3.layout.pie doesn't coerce value to number.
+348,MDU6SXNzdWUyMDIxMTUz,0,d3.layout.pie should sort by descending value by default.
+380,MDU6SXNzdWUyMjczNTQ1,0,Feature request: zoom x and y independently
+383,MDU6SXNzdWUyMjg4OTgy,0,dispatch.on should return a value.
+392,MDU6SXNzdWUyMzcwNDE5,0,"d3.interpolate(""10px"", 20) fails."
+394,MDU6SXNzdWUyMzk0NzI5,0,tick text not displayed - d3.scale.log
+397,MDU6SXNzdWUyNDU2NTgw,0,selection.filter(selector)
+412,MDU6SXNzdWUyNTc2ODk0,0,d3.json does request using incorrect ACCEPT header
+429,MDU6SXNzdWUyNzEzOTY1,0,Tiny issue in part bar chart tutorial
+431,MDU6SXNzdWUyNzE1MTk2,0,2.7.x
+435,MDU6SXNzdWUyNzk1OTU3,0,d3.time.{interval} should take offsets.
+452,MDU6SXNzdWUyOTI3ODM1,0,Setting brush extent can leave resizers as pointer-events: none.
+453,MDU6SXNzdWUyOTI4NTI3,0,d3.time.{interval}.ceil
+475,MDU6SXNzdWUzMDA5OTAx,0,"Better require(""d3"") compatibility."
+478,MDU6SXNzdWUzMDEzMjg2,0,d3.time.scale ticks should have an inclusive upper bound.
+480,MDU6SXNzdWUzMDE1MjA0,0,Minimize output when interpolating transforms.
+484,MDU6SXNzdWUzMDcxOTg3,0,"d3.behavior.zoom should allow setting of center (x,y,z)."
+487,MDU6SXNzdWUzMDczMjky,0,"d3.behavior.zoom's zoom extent is Math.pow(2, scale)"
+489,MDU6SXNzdWUzMDg2NDYw,0,Add selection.datum.
+493,MDU6SXNzdWUzMTE4NTY1,0,Zero Duration race condition causes NaN problem.
+500,MDU6SXNzdWUzMjAxMzk4,0,Remove /ex/treemap/flare.json 
+513,MDU6SXNzdWUzMjgxNjI4,0,"d3.time.weekOfYear (sundayOfYear?), d3.time.dayOfYear, etc."

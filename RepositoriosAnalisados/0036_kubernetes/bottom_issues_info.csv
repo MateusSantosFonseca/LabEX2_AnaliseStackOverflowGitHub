@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+5,MDU6SXNzdWUzNTE5MjcyNA==,0,Need a DESIGN.md document
+96,MDU6SXNzdWUzNTY5MDM5OQ==,0,Kubelet doesn't handle UDP
+114,MDU6SXNzdWUzNTc2MDExNg==,0,"""cloudcfg create"" prints extraneous log output"
+172,MDU6SXNzdWUzNjEwODEwMA==,0,IP affinity is per-container rather than per-pod
+191,MDU6SXNzdWUzNjE5MDA4Nw==,0,Add hook verifying boilerplate is present
+204,MDU6SXNzdWUzNjI1MDY5NQ==,0,Remove redundancy between cloudcfg and client packages
+206,MDU6SXNzdWUzNjMxMDk4Nw==,0,cloudcfg needs a formatter parameter
+370,MDU6SXNzdWUzNzMyMTkxOQ==,0,Unable to start example app before enabling the cloud storage API
+510,MDU6SXNzdWUzODE4MjAwMA==,0,Improve integration test setup
+564,MDU6SXNzdWUzODQ0OTQwOQ==,0,External load balancer doesn't handle zones correctly
+579,MDU6SXNzdWUzODUzNDI1MQ==,0,Kubecfg including test options when I hack/build-go.sh
+612,MDU6SXNzdWUzODY4OTk3MA==,0,Minion storage needs better logging
+613,MDU6SXNzdWUzODY5MDI5Nw==,0,release/release.sh broken
+614,MDU6SXNzdWUzODY5MDU3Mw==,0,If release script fails
+663,MDU6SXNzdWUzODkxNjg1OA==,0,Minions failing health checks should not cause apiserver to emit 500's
+684,MDU6SXNzdWUzOTAwMDExMg==,0,Delete service errors out before endpoint etcd key created
+707,MDU6SXNzdWUzOTE0MzE2NQ==,0,/stats retrieved from cAdvisor is unable to unmarshal. 
+769,MDU6SXNzdWUzOTQ0Njk3Mw==,0,Replication Controller desiredState.replicas should error on negative values as input
+802,MDU6SXNzdWUzOTU2OTI5Ng==,0,Docker does not restart when minions reboot (GCE)
+817,MDU6SXNzdWUzOTY4ODMyNw==,0,Need to restart all containers when their net container dies
+880,MDU6SXNzdWU0MDE3MzMwMg==,0,apiserver TestWatchFromOtherError is flakey
+947,MDU6SXNzdWU0MDU0MzIzOA==,0,controller-manager is passed --master twice
+955,MDU6SXNzdWU0MDYyMzAzMg==,0,Add an e2e test that runs update-demo
+1013,MDU6SXNzdWU0MTAzMzIzMQ==,0,validation variances allow errors
+1024,MDU6SXNzdWU0MTEwNzI1NA==,0,vSphere change broke regular vagrant
+1033,MDU6SXNzdWU0MTEyMDk4Mw==,0,"Vagrant provider has hard coded credentials, causing confusion"
+1094,MDU6SXNzdWU0MTQ0OTgxNA==,0,kubelet's /healthz is broken 
+1175,MDU6SXNzdWU0MTk1OTY3Mg==,0,"Need MAINTAINERS records (one file, multiple files, whatever) for components (e.g. for each cloud provider)"
+1209,MDU6SXNzdWU0MjIyMTc4NA==,0,kubecfg -c option should let me specify a URL
+1274,MDU6SXNzdWU0MjU0Nzc0OA==,0,Kube-proxy tests does not test UDP timeouts
+1346,MDU6SXNzdWU0MzA2NDg3Mg==,0,Crashing a minion doesn't lead to creation of new pods in replication controller
+1351,MDU6SXNzdWU0MzA3NzkyMw==,0,Transition cluster launch scripts to use binary release
+1512,MDU6SXNzdWU0NDQ3MzIzMA==,0,Salt configs: kubelet user is unneeded
+1549,MDU6SXNzdWU0NDczNDEzMQ==,0,Put etcdctl on the master
+1550,MDU6SXNzdWU0NDc0Mzc5MQ==,0,kubecfg run: container port not an int
+1565,MDU6SXNzdWU0NDgyOTY0Nw==,0,Error message during integration test
+1605,MDU6SXNzdWU0NTA1MjE4NA==,0,Make ErrorList introspectable
+1639,MDU6SXNzdWU0NTE3MTE4NA==,0,Test or remove proxy/config/file.go
+1645,MDU6SXNzdWU0NTE4MzgyNA==,0,v1beta2 package's types not copied from right place
+1678,MDU6SXNzdWU0NTM5Mzk0NA==,0,Update demo e2e test is flakey
+1729,MDU6SXNzdWU0NTUxODY3Mg==,0,Rationalize `build/` directory with `hack/` directory
+1731,MDU6SXNzdWU0NTUxODk3OA==,0,Azure deployment is broken with binary-deploy
+1732,MDU6SXNzdWU0NTUxOTA4MQ==,0,VSphere deployment broken with binary-deploy
+1776,MDU6SXNzdWU0NTc3NTUwMw==,0,Update demo e2e has unbound variable
+1783,MDU6SXNzdWU0NTc5NTAwNA==,0,kube-push.sh is busted
+1814,MDU6SXNzdWU0NTkxMjI1MQ==,0,Rare data race in pkg/controller
+1856,MDU6SXNzdWU0NjEwNzYyMA==,0,OSX with boot2docker v1.3.0 doesn't run build/release.sh correctly
+1859,MDU6SXNzdWU0NjExOTQ1NQ==,0,Need to support running as non-root
+1902,MDU6SXNzdWU0NjMwNDI4Mg==,0,Binary install friction
+1936,MDU6SXNzdWU0NjQ0NjYyOA==,0,Document format of service environment variables

@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+2871,MDU6SXNzdWUxMjg4NTQwNjk=,64,Add support for passive event listeners
+1862,MDU6SXNzdWU0ODU4MDUyOA==,60,Figure out how we are going to tag jQuery Compat releases
+3193,MDU6SXNzdWUxNjE2ODYzMjM=,55,different result of width() and height() since jQuery 3.0
+3541,MDU6SXNzdWUyMDczODkzNjM=,51,Issue using JQuery 3.1.1 and CSP
+2308,MDU6SXNzdWU3NTg5MDcxNQ==,51,"slideDown, show and more stopped working for `display: none` elements"
+2824,MDU6SXNzdWUxMjY1NDc3OTE=,48,1.12.0 vs 1.11.2 selectors with # broken
+2310,MDU6SXNzdWU3NjA2ODE3Nw==,43,Changes to offset break jQuery UI
+4665,MDU6SXNzdWU1OTgyNDI5NDI=,42,Breaking change to the data module in 3.5.0
+3214,MDU6SXNzdWUxNjM3MTY2ODE=,39,Deprecate event shorthand methods
+2432,MDU6SXNzdWU5MTM4NTA3OQ==,39,Inadequate/dangerous jQuery behavior for 3rd party text/javascript responses 
+1729,MDU6SXNzdWU0NjMzNzkyMw==,38,Have $(window).outerWidth() include the scrollbar width
+1722,MDU6SXNzdWU0NjMzMjc4NQ==,38,Improve API interoperability with standard Promise
+2145,MDU6SXNzdWU2MTY3MTg2MA==,37,$.each fails intermittently on iOS due to Safari bug
+1691,MDU6SXNzdWU0NTQwMjk1Mw==,35,Download builder
+2483,MDU6SXNzdWU5NjExOTYyNA==,34,Reduce Android 2.3 support on master (was: Investigate Android 2.3 support)
+1784,MDU6SXNzdWU0NjM0Mjc2Ng==,33,Issues using ShadowDom and ShadowRoot elements
+2895,MDU6SXNzdWUxMzEyODY3MjU=,32,SVGElement.offsetParent will be removed in Chrome around April 2016
+2730,MDU6SXNzdWUxMTc2NTY2MDU=,32,.attr() getter doesn't accept some characters in Firefox
+1692,MDU6SXNzdWU0NTQzNzIxOQ==,32,Improve performance removal of events with namespaces 
+2152,MDU6SXNzdWU2MzIzODA0Nw==,31,Run the Promises/A+ test suite in real browsers
+3194,MDU6SXNzdWUxNjE4ODg4NDU=,28,jQuery 3 - window load inside ready state will not be triggered
+2177,MDU6SXNzdWU2NDg3MTA5NQ==,28,'setTimeout is not defined' ReferenceError in CommonJS-like environment (Firefox SDK)
+1758,MDU6SXNzdWU0NjM0MjAwNw==,28,textbox not responding to keyup event in IE11
+4350,MDU6SXNzdWU0MzIxNzc0NTE=,27,saved.shift is not a function
+1741,MDU6SXNzdWU0NjM0MDY5OQ==,27,focus event ignores additional data when triggered
+1684,MDU6SXNzdWU0NTIyNDc3Mg==,27,CORS HTTP patch request is not working on IE10/11
+3969,MDU6SXNzdWUyOTUxODk0MjI=,26,getScript requires 'unsafe-inline' CSP rule
+2957,MDU6SXNzdWUxMzczMDE1NjQ=,26,License tags
+2723,MDU6SXNzdWUxMTcxNTA5MTA=,26,2.2 Release progress
+2654,MDU6SXNzdWUxMTE4NzExNjc=,26,Restore previous show/hide behavior
+2532,MDU6SXNzdWUxMDAxMDczNDg=,26,Modify ajaxConvert to return a promise/thenable.
+2250,MDU6SXNzdWU3MjI4MzAzMQ==,26,console.warn for .hide() and other perf gotchas.
+1765,MDU6SXNzdWU0NjM0MjMyMA==,26,offsetParent fails to recognize 3D transform context
+1724,MDU6SXNzdWU0NjMzNDkwMg==,25,"width(), height(), etc. shouldn't round"
+2961,MDU6SXNzdWUxMzczMTg2MTU=,24,Deprecate jQuery.isArray
+2679,MDU6SXNzdWUxMTQxMTA5NzU=,24,:target doesn't match elements on initial page load in Chrome and Firefox
+1687,MDU6SXNzdWU0NTI0NDU3MA==,24,IE8 Selector Bug
+4163,MDU6SXNzdWUzNTUwNzk5MzQ=,23,$.each breaks on string
+3179,MDU6SXNzdWUxNjA3MDIyNTU=,23,jQuery 3.0 still breaks sourceMaps
+2688,MDU6SXNzdWUxMTUxMzM1MDg=,23,CommonJS: avoid a global with a custom window passed to the factory
+2192,MDU6SXNzdWU2NzA3MzI4Nw==,23,".toggleClass( className, function )"
+1736,MDU6SXNzdWU0NjMzOTE5Mg==,23,Add hook to cleanData to allow cleanup
+1701,MDU6SXNzdWU0NTcxNzI5NQ==,23,Safari detected as IE < 8
+2912,MDU6SXNzdWUxMzI0OTAxMDA=,22,"$.inArray(void 0, ['foo', 'bar', void 0]) returns -1 (only in the real IE 8)"
+2404,MDU6SXNzdWU4OTA3MTg0OQ==,22,Be consistent when checking if the node is connected or not
+2227,MDU6SXNzdWU2OTkzMTQzNQ==,22,:visible/:hidden selectors unreliable
+2199,MDU6SXNzdWU2NzgyMDg5OA==,22,jQuery Class Operations on SVG DOM Attributes
+1941,MDU6SXNzdWU1MjI0NzA1OQ==,22,Performance: forced evaluation of camelCase(key) in $.fn.data()
+4422,MDU6SXNzdWU0NjA1Nzg4Njk=,21,Image preview not showing after cloning html form tag
+3102,MDU6SXNzdWUxNTI4MjkwNjc=,21,Make jQuery.when always async

@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+256,MDU6SXNzdWUyNDYzMDA=,244,Field Collapsing/Combining
+4915,MDU6SXNzdWUyNjM5MzMyNw==,207,Paging support for aggregations
+1607,MDU6SXNzdWUyODIyNTM1,160,Update API: update by query
+9226,MDU6SXNzdWU1MzkyNzA2OA==,151,Shard stuck in relocating state with recovery stage=translog
+1242,MDU6SXNzdWUxNDAwMjMz,129,Changes API
+25603,MDU6SXNzdWUyNDEzMjQ3ODg=,103,The hits.total differs from actual number of documents in  `ids` query
+2488,MDU6SXNzdWU5MzI2Mzc3,103,minimum_master_nodes does not prevent split-brain if splits are intersecting
+9212,MDU6SXNzdWU1MzgzMDQyNA==,102,ES 1.4.2 random node disconnect
+664,MDU6SXNzdWU1NjY5NDc=,102,Add HTTPS and basic authentication support to elasticsearch
+1063,MDU6SXNzdWUxMTE0Nzgx,96,"""block until refresh"" indexing option"
+8486,MDU6SXNzdWU0ODgwNzg1MA==,94,Order by scripted_metric sub aggregation
+4978,MDU6SXNzdWUyNjcyMTg2OA==,80,sysctl: permission denied on key 'vm.max_map_count'  - OpenVZ Elasticsearch 0.90.9 compatibility issue
+3022,MDU6SXNzdWUxNDE5NDgzMA==,80,Return matching nested inner objects per hit
+1305,MDU6SXNzdWUxNTc2MzIw,77,terms facet gives wrong count with n_shards > 1
+3300,MDU6SXNzdWUxNjUwMDA0NA==,75,Aggregation Module - Phase 1 - Functional Design
+15613,MDU6SXNzdWUxMjM1MjEzNDc=,74,Remove support for types?
+5100,MDU6SXNzdWUyNzQ1ODM1Mg==,73,multi-field terms aggregation
+27205,MDU6SXNzdWUyNzAyODA0MDM=,72,Java high-level REST client completeness
+2917,MDU6SXNzdWUxMzM5NDExNQ==,72,Sorting based on parent/child relationship
+48027,MDU6SXNzdWU1MDY5MTgwMTE=,69,:test:fixtures:krb5kdc-fixture:composeUp failure
+10005,MDU6SXNzdWU2MDAyNjgwOQ==,69,Date type has not enough precision for the logging use case.
+2230,MDU6SXNzdWU2NjE5Mzgw,67,Update by query API
+43387,MDU6SXNzdWU0NTgxNDU3NzA=,66,Multiple Test Failures from Blocked accept0 Syscalls (Debian CI Runs only)
+1076,MDU6SXNzdWUxMTQwNTUy,67,Support Hierarchical Facets
+12366,MDU6SXNzdWU5NjI4NTQ5Nw==,65,Invalid mapping case not handled by index.mapping.ignore_malformed
+5359,MDU6SXNzdWUyODkwMTc2Ng==,65,Add a method to compute alias names for index templates
+5324,MDU6SXNzdWUyODYzODQ4NA==,61,"Add support for ""missing"" to all bucket aggregations"
+5512,MDU6SXNzdWUzMDAyNTg3Mg==,58,Add K-means clustering feature
+17006,MDU6SXNzdWUxMzkyODcxMjM=,55,Support for BigInteger and BigDecimal
+19415,MDU6SXNzdWUxNjUzMDgzNjA=,53,Can't use Java client due to NoClassDefFoundError: org/apache/log4j/Priority
+1688,MDU6SXNzdWUzMTYyMDY1,53,The example for Filtered Queries does not work
+1077,MDU6SXNzdWUxMTQyOTE3,53,[Feature Request] Add a river to ElasticSearch instance
+911,MDU6SXNzdWU4NjM2NTg=,53,"""Did you mean"" spellchecking"
+29820,MDU6SXNzdWUzMTc0NDgyNjQ=,49,Custom privilege definition on roles
+1203,MDU6SXNzdWUxMzQwODMw,49,Provide online Javadocs
+46091,MDU6SXNzdWU0ODY1MzExMjk=,48,CI failures due to indices not being cleaned up as expected
+9023,MDU6SXNzdWU1MjYxNDM5Mw==,46,Odd shard distribution in Elasticsearch 1.4.2
+18972,MDU6SXNzdWUxNjExNjI2OTE=,44,"Corrupt index after disk full, unclean shutdown / Possible to avoid translog recovery at all?"
+16838,MDU6SXNzdWUxMzY5MTI0MDA=,44,Sort term aggregation with nested aggregation in order path
+19611,MDU6SXNzdWUxNjc3MzE0MDk=,43,Simplify src directory structure
+18406,MDU6SXNzdWUxNTUyNjI0MTE=,43,elasticsearch fails to start when tmp directory defined
+15267,MDU6SXNzdWUxMjA2NDQ4MzA=,43,Field data loading is forbidden on [FIELDNAME]
+9726,MDU6SXNzdWU1Nzk0MzAwNA==,43,SearchContextMissingException: No search context found for id [xx]
+1940,MDU6SXNzdWU0NTMyOTYx,43,High CPU usage when idle
+32850,MDU6SXNzdWUzNTA0NjQ1MTQ=,42,Logging changes to support Beats Elasticsearch module (including logging to JSON)
+17537,MDU6SXNzdWUxNDU5Nzg3MjM=,42,Invalid shift value (xx) in prefixCoded bytes (is encoded value really a geo point?)
+11919,MDU6SXNzdWU5MTg1MzM1OQ==,42,Slowlog does NOT log timeouts
+7574,MDU6SXNzdWU0MTg1ODgxNQ==,42,geo bounds aggregation: Add support for geo_shape.
+6441,MDU6SXNzdWUzNTI4NjkxMA==,42,ElasticsearchIllegalArgumentException No version type match
+6372,MDU6SXNzdWUzNDc1NjMyOA==,42,"When starting up, recovery of shards takes up to 50 minutes"

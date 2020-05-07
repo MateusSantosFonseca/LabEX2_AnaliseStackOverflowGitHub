@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+473,MDU6SXNzdWUyNDk0MDUxMTg=,64,Ligature request: %>% pipe operator in R
+211,MDU6SXNzdWUxNjU2NTc3MjI=,55,Add glyphs to unicode reserved plane
+96,MDU6SXNzdWUxMjM0MjE3NDM=,52,Partial IntelliJ IDEA support
+798,MDU6SXNzdWU0NzA5OTM4Njg=,49,1.207 looks terrible in Emacs
+312,MDU6SXNzdWUxOTA3MzMxNTA=,47,Prettify-symbols config for emacs 
+36,MDU6SXNzdWUxMDAwMTM4NjE=,39,Future ideas
+92,MDU6SXNzdWUxMjMyODMwOTA=,34,Is  instead of [] a good idea?
+513,MDU6SXNzdWUyNjc0NjIxOTU=,28,Italic variant out of a custom version of Fira Mono
+4,MDU6SXNzdWU1Mzc3NDY3MA==,27,Add install instruction
+641,MDU6SXNzdWUzNTI5ODA0OTk=,26,Strange request about `Retina` style and SublimeText on Linux
+46,MDU6SXNzdWUxMDUyMjAxMTI=,26,Doesn't work at all in Emacs
+601,MDU6SXNzdWUzMjUzMjEyNTU=,25,Can you make the `r` look better?
+352,MDU6SXNzdWUyMDI1MjM4OTM=,24,Request: enhancement the @ and & characters
+162,MDU6SXNzdWUxNDQzNjczMjk=,23,Invisible `=` sign
+42,MDU6SXNzdWUxMDI0MjE1MjY=,23,What would it take to get ligatures working in emacs?
+120,MDU6SXNzdWUxMjc5NzY3MjQ=,21,Please add __ ligature
+13,MDU6SXNzdWU3OTU5MzU0Mw==,21,More conservative ligatures?
+617,MDU6SXNzdWUzMzU5MDM2NjE=,19,"$, & and @ (and maybe <= and >=)"
+18,MDU6SXNzdWU4MDIxNDc5Mw==,19,What about publishing as webfont to cdn?
+787,MDU6SXNzdWU0NjUwMDc0NDg=,18,Disable `<-`
+173,MDU6SXNzdWUxNDg2MjE0Mzg=,18,Ligature Request: += and -=
+902,MDU6SXNzdWU1MjgwMjM0ODg=,17,Remove fi/fl
+479,MDU6SXNzdWUyNTI5NDY2MDI=,17,Same symbol for =< and <=
+75,MDU6SXNzdWUxMTk2MjU4Nzk=,17,Request for adding ligatures for template engines
+836,MDU6SXNzdWU0OTIwNzQ4Mjg=,16,I can't make ligatures work in VSCode.
+416,MDU6SXNzdWUyMjU0NDEwNzk=,16,"Comparison ligatures & Ligature Request +=, -="
+637,MDU6SXNzdWUzNDgyOTcxMTc=,15,Array push operator []=
+435,MDU6SXNzdWUyMzQ3MTQyOTM=,15,Font Ligatures not working after installing System76 Pop Theme in Ubuntu using Gnome
+253,MDU6SXNzdWUxNzMzODY2MDQ=,15,Is ligating www to a zigzag-line a good idea?
+158,MDU6SXNzdWUxNDMwOTM3NTA=,15,provided emacs workaround gets emacs stuck
+125,MDU6SXNzdWUxMjk5MzM0OTE=,15,Request for /= vs !=
+959,MDU6SXNzdWU1NzI2MzA0NjU=,14,A displaying defect on ZSH with theme: powerlevel10k
+944,MDU6SXNzdWU1NjI0NjkzNTA=,14,"""x"" in 0xFF is confusing"
+424,MDU6SXNzdWUyMjk4ODMwNTY=,14,"Parallelism between , <=, =<, , >=, =>"
+402,MDU6SXNzdWUyMTg3OTkxNTY=,14,{...} looks weird
+262,MDU6SXNzdWUxNzQ0NTUwOTA=,14,=> & == swapped in latest release 1.201
+259,MDU6SXNzdWUxNzM3NzQ0MTI=,14,Hyphen based ligatures don't work in WPF
+869,MDU6SXNzdWU1MDk1NDQ2NzE=,13,ss02 cannot be baked in
+459,MDU6SXNzdWUyNDQ4NDY0MzI=,13,Line spacing inhomogeneous depending on characters used
+449,MDU6SXNzdWUyNDEzMzcwMTc=,13,Block characters are too tall
+770,MDU6SXNzdWU0NDkwMDEzNTg=,12,"VF doesn't list weight instances correctly built from script (Win10, others?)"
+577,MDU6SXNzdWUzMDgwNDE1Nzc=,12,Backslashes became very hard to see (almost invisible)
+89,MDU6SXNzdWUxMjMyMDc0OTU=,12,--> issue
+64,MDU6SXNzdWUxMTQ1Nzg0Mzk=,12,"Perl matching operators (<=>, =~, !~, ~~)?"
+871,MDU6SXNzdWU1MDk2NzY1MTk=,11,"Missing text in SvenCoop using FiraCode, works with FiraMono and IBM Plex Mono"
+854,MDU6SXNzdWU1MDE2OTUxMjc=,11,Open question: should ligatures technically use 'dlig' rather than 'calt'?
+842,MDU6SXNzdWU0OTM3NzAzMDE=,11,Can we get the alternative stylistic set in a different binay 
+699,MDU6SXNzdWUzOTg2MTgxMTQ=,11,Dotted zero header
+643,MDU6SXNzdWUzNTMwNjYwMDk=,11,Pipe-Bracket and Pipe-Brace ligatures are confusing {| [| |] |}
+583,MDU6SXNzdWUzMTI0NzQ5NDE=,11,The greater than and less than font don't look right in VS Code

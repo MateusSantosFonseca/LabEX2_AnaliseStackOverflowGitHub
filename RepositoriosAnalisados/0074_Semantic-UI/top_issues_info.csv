@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+157,MDU6SXNzdWUyMDQ5NDkyNA==,146,[Menu] Make Fixed Menu Collapsable
+1175,MDU6SXNzdWU0NjAzNjM5Mw==,126,Eliminate Dependency on jQuery
+6109,MDU6SXNzdWUyOTAxNTg1NTU=,120,Is Semantic UI development dead ?
+403,MDU6SXNzdWUyMzc0NDcyOA==,114,[Form] Add File Input Styles
+962,MDU6SXNzdWUzODIzNDk4NA==,89,[UI] Carousel
+1357,MDU6SXNzdWU1MDY4NTg5MQ==,87,[UI] Table Data-Grid
+191,MDU6SXNzdWUyMDY1MjgxMw==,86,[UI] Date Picker
+216,MDU6SXNzdWUyMDcyMzU4Mw==,79,CSS Preprocessing
+2216,MDU6SXNzdWU3MzQyOTY5OA==,73,2.0 Announcement
+1114,MDU6SXNzdWU0MzYzMDY0MQ==,71,[UI] Add Responsive Helper Classes
+847,MDU6SXNzdWUzMzg2MjI4Mg==,67,Multi Select
+614,MDU6SXNzdWUyNzMwMDU2Nw==,64,Modal: Bad position on second show
+1885,MDU6SXNzdWU1OTI2NjMxMQ==,61,Colored text
+1298,MDU6SXNzdWU1MDIxNTAyOQ==,61,Integration with Meteor.js
+1147,MDU6SXNzdWU0NDkyNzUzNg==,61,[Framework] SASS Support
+1336,MDU6SXNzdWU1MDQ3MDU3MA==,60,[UI] Input Slider / Range Component
+6449,MDU6SXNzdWUzMzQ4Nzg2NTU=,58,[Modal] Scrolling broken for mobile devices from recent 2.3.2 changes
+2072,MDU6SXNzdWU2NjY4Mzg5OQ==,58,[Dropdown] Add Nullable Option for Single Selection
+6641,MDU6SXNzdWUzNzI3MjYyNzk=,52,Installation stuck on Creating src/theme.config
+165,MDU6SXNzdWUyMDUyMDI5MA==,45,Window doesnt scroll when modal is larger than viewport
+691,MDU6SXNzdWUyODY4MTI0NA==,44,1.0 Progress Report
+2779,MDU6SXNzdWU5OTAwNjM5MA==,42,"[Search] - Ajax abort not correct ""there was an issue querying the server."""
+5391,MDU6SXNzdWUyMzAyMjg2MTU=,41,[build] gulp build command not working
+206,MDU6SXNzdWUyMDcyMjA4OA==,41,Example Layouts
+1430,MDU6SXNzdWU1MTcyNjY5MQ==,40,[UI] Growl/Toast Component
+6413,MDU6SXNzdWUzMjY5NjUyMTM=,38,Pull requests and issues closed by the bot
+6067,MDU6SXNzdWUyODU1NzQ2OTM=,38,gulp build is not building semantic.min.css
+2056,MDU6SXNzdWU2NjEyNTcxMw==,38,"Running gulp in project folder, it looks for semantic.json in wrong path"
+396,MDU6SXNzdWUyMzUzNDQwNw==,38,Word Order Dependency
+1816,MDU6SXNzdWU1ODAwNTQ3Nw==,37,[Build] Add Quiet Option
+1526,MDU6SXNzdWU1MzAyNjc4Nw==,36,Duplicate class names are removed by Meteor
+229,MDU6SXNzdWUyMDc5ODMxMA==,35,Semantic-UI Dropdown Not Working
+1199,MDU6SXNzdWU0NjkwMzkzNQ==,34,DropDown does not work in a standard Android 4.2.2 browser 
+702,MDU6SXNzdWUyOTA3MzQ2Nw==,34,[Form Validation] Clear errors
+4196,MDU6SXNzdWUxNjMxNjg5MzQ=,33,[Modal] Resize Causes Scrolling to be Removed
+5112,MDU6SXNzdWUyMTEyNTc2MTA=,32,SCROLLING not working with modal
+3533,MDU6SXNzdWUxMjQ2NzU5NjU=,32,How to add semantic-ui with webpack
+1344,MDU6SXNzdWU1MDUyMDg0NA==,31,@themesFolder is undefined on build
+1270,MDU6SXNzdWU0OTczNTI0Ng==,31,1.0 Release
+6439,MDU6SXNzdWUzMzMyMTM2NzA=,30,[Label] Basic label has same colored background since 2.3.2
+3535,MDU6SXNzdWUxMjQ2OTUyOTU=,28,Color Picker Component
+2449,MDU6SXNzdWU5MDQ5NTAzMg==,28,Sites/Companies Using Semantic UI
+5733,MDU6SXNzdWUyNTQ4Njg3MTE=,27,[Modal] .scrolling.contents scrollbar cant be dragged in Firefox (55.0.3)
+1770,MDU6SXNzdWU1NzA1NDg5Nw==,27,[Form] Add Input Help Text
+1727,MDU6SXNzdWU1NTY4NjQ0Mg==,27,[Dropdown] Convert <optgroup> to headers
+1368,MDU6SXNzdWU1MDg2OTM0Mw==,27,[Search] ui search dropdown - combo box versus select behavior
+1340,MDU6SXNzdWU1MDQ5MTE0MQ==,27,[Dropdown] Direction Detection Should Account For Overflow Container
+507,MDU6SXNzdWUyNTA1MDA5OQ==,27,Corner icon a little bit shifting in Chrome
+189,MDU6SXNzdWUyMDY0MDExNQ==,27,[Project] Package Generator
+4342,MDU6SXNzdWUxNjc3NDE1NjI=,26,[Divider] - Vertical dividers broken on documentation site

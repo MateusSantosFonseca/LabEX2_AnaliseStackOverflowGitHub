@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+6,MDU6SXNzdWUxMDM2MDUxOQ==,0,"Fileystem.IsMounted() panics with ""stale NFS file handle"""
+24,MDU6SXNzdWUxMTUyODc2NQ==,0,(kernel bug) Docker can't start containers after large network transfer on kernel <3.5.0-21.32
+29,MDU6SXNzdWUxMTg0NDA4Mw==,0,Memory limits
+39,MDU6SXNzdWUxMTkwMTI5MQ==,0,"""docker help"" does not return a full list of commands"
+55,MDU6SXNzdWUxMTkzNTEwMA==,0,'docker pull' should only download missing versions
+65,MDU6SXNzdWUxMTk5MTQ3Nw==,0,Automatically download unit test image
+67,MDU6SXNzdWUxMTk5NDY0OA==,0,Publish new images with 'docker push'
+77,MDU6SXNzdWUxMjAxMzUwMw==,0,Removed containers stay in DB
+91,MDU6SXNzdWUxMjA1MzQwOA==,0,Impossible to ping from within docker
+92,MDU6SXNzdWUxMjA1NDUyMg==,0,Run test as user
+144,MDU6SXNzdWUxMjM2OTA0NQ==,0,Login fails on daemon mode
+165,MDU6SXNzdWUxMjQzMjk0MQ==,0,Check permissions prior the push
+189,MDU6SXNzdWUxMjQ3MjYwMA==,0,Env is broken in TTY mode
+212,MDU6SXNzdWUxMjUxNTIzNQ==,0,0.2.0
+214,MDU6SXNzdWUxMjUxNTkzNw==,0,Handle signals
+285,MDU6SXNzdWUxMjY1Mjg1NA==,0,Unclosed HTTP response bodies in registry.go
+311,MDU6SXNzdWUxMjY4NjA0NA==,0,docker pull fails when interupted
+334,MDU6SXNzdWUxMjgxNjE1Mw==,0,Unauthorized AMI
+351,MDU6SXNzdWUxMjkxNTAyMg==,0,riak use case
+361,MDU6SXNzdWUxMjk1MTU5OQ==,0,Can't kill container after docker restart
+384,MDU6SXNzdWUxMzA0Njg5Mw==,0,docker push output is not well formated
+399,MDU6SXNzdWUxMzA4OTA0Ng==,0,Run Ubuntu precise/12.04 LTS on Docker
+437,MDU6SXNzdWUxMzQxNzY0MQ==,0,Document how to enable the kernel configuration for memory limit support
+451,MDU6SXNzdWUxMzQ1NzE3MQ==,0,'docker push' of large images doesn't show progress bar for a long time
+518,MDU6SXNzdWUxMzk1ODM4Ng==,0,Feedback on Logo's wanted
+527,MDU6SXNzdWUxMzk5MzAyOQ==,0,Display a warning if the client and the server have different version
+565,MDU6SXNzdWUxNDEyNzIwMA==,0,Structure update for documentation
+569,MDU6SXNzdWUxNDE1MzQ3OA==,0,can't `docker run busybox` after `docker rmi busybox`
+573,MDU6SXNzdWUxNDE2OTc2Nw==,0,be able to customize host and port
+579,MDU6SXNzdWUxNDIwMjg0Ng==,0,Move the quiet/only_ids option in images an ps to the client
+585,MDU6SXNzdWUxNDIxMzQ2OQ==,0,Create the layer directory with 0755 permissions by default instead of 700
+609,MDU6SXNzdWUxNDM1MjE5Mg==,0,Add basic auth to the api
+610,MDU6SXNzdWUxNDM1NjAzOQ==,0,Improve the rmi command
+616,MDU6SXNzdWUxNDM2OTg2MQ==,0,Docker API should support a wider range of boolean parameters
+626,MDU6SXNzdWUxNDQyMzQ1MQ==,0,Document our kernel requirements and other kernel-related topic
+671,MDU6SXNzdWUxNDYyNDk3Mw==,0,Adding versionning to the Rest API
+680,MDU6SXNzdWUxNDY0OTUyNg==,0,broken URL in github README.md
+694,MDU6SXNzdWUxNDY5NDg4Mw==,0,"docker run ""-u"" and ""-h"" flags broken with Images that contain a config"
+711,MDU6SXNzdWUxNDc1MDcwNA==,0,Unit tests conflict with running docker containers
+748,MDU6SXNzdWUxNDkzOTg0OA==,0,Command line help order
+771,MDU6SXNzdWUxNTAxNzAyMw==,0,Display docker client version
+775,MDU6SXNzdWUxNTAyMjc5NQ==,0,Add automatic testing notifications to docker-ci
+776,MDU6SXNzdWUxNTAyMjgxNg==,0,Ensure docker-ci test docker code as it was at commit time
+803,MDU6SXNzdWUxNTA5NjYyMg==,0,Race within Run
+835,MDU6SXNzdWUxNTE5OTg3Mg==,0,Link in contributing page is broken
+838,MDU6SXNzdWUxNTIwMDE0Mg==,0,Fix IRC link in FAQ
+839,MDU6SXNzdWUxNTIwMDE1NQ==,0,Add Google group link in FAQ page
+843,MDU6SXNzdWUxNTIyODQxNA==,0,`docker inspect` should take >1 container/image IDs
+856,MDU6SXNzdWUxNTI4OTE0Nw==,0,Add optional port forwarding to vagrantfile
+860,MDU6SXNzdWUxNTMxNTkyOQ==,0,Fix hack/Vagrantfile to use correct linux extras (aufs)

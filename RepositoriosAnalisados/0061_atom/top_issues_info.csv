@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+2956,MDU6SXNzdWUzNzc1Mjg3NQ==,258,Add Linux software repositories for app update support
+2654,MDU6SXNzdWUzNjAxNDg3Mw==,246,Editor window startup is slow
+6867,MDU6SXNzdWU3ODU3MTI3Mw==,202,Atom packages that require an upgrade to 1.0 API
+20034,MDU6SXNzdWU1MDk1MzE1NjA=,151,Crashing on macOS 10.15
+5344,MDU6SXNzdWU1NjE2NjExMQ==,149,Tab switching (ctrl-tab) should be in MRU order
+1722,MDU6SXNzdWUyODkzMTE3Ng==,148,Open file in current window
+1603,MDU6SXNzdWUyODQ1MjY4OQ==,146,Reopen windows when relaunching Atom
+307,MDU6SXNzdWUxMTM0MzgzOQ==,140,Large file support
+15323,MDU6SXNzdWUyNTA0NTMyMTA=,139,Atom gives a quick white blink/flickering when you do something
+4982,MDU6SXNzdWU1Mzk2NDcxMw==,135,Atom doesn't update file buffers correctly when switching branches.
+5756,MDU6SXNzdWU1OTAwODYxOA==,132,"Let's choose a view framework for docs, generated packages, etc."
+9544,MDU6SXNzdWUxMTY1NzMxMzY=,126,Atom is slow regaining focus on Windows and Linux with git repo
+2860,MDU6SXNzdWUzNzM2NzkwNw==,126,Auto-update on Mac doesn't work as a non-Admin user
+3426,MDU6SXNzdWU0MTUxNjg0OQ==,123,Atom Helper high CPU usage
+63,MDU6SXNzdWU3NDU0NDI3,123,Create icon
+7822,MDU6SXNzdWU5NDE3NzU5OA==,121,Atom on ARM Information
+2456,MDU6SXNzdWUzNDY2NzQ4MA==,120,Atom over sshfs Unusably Slow
+2203,MDU6SXNzdWUzMzM3ODUwNw==,119,Git integration doesn't work if .git/ not in top level
+7275,MDU6SXNzdWU4ODIzMTY3Nw==,118,Frequent recurring freezing on Windows
+11406,MDU6SXNzdWUxNDY4ODAxODc=,117,Data loss after power outage
+2939,MDU6SXNzdWUzNzY5NzU0Nw==,110,Add portable version of Atom
+4244,MDU6SXNzdWU0OTQ3NDc1NQ==,108,Help test the new Windows installer & auto-updater
+2539,MDU6SXNzdWUzNTE4OTAzNw==,107,"""Uncaught Error: ESPIPE, invalid seek"" when saving to FTP mounted with gvfs"
+9643,MDU6SXNzdWUxMTczMDQ0MjU=,105,"""Open with Atom"" removes added project folders"
+14909,MDU6SXNzdWUyMzkxNTI5Njk=,103,Settings lost
+6437,MDU6SXNzdWU2OTQ0OTI1MQ==,103,100% CPU usage when started in the home folder
+4966,MDU6SXNzdWU1MzkyNzE0Mg==,103,"Have metrics disabled by default, or completely removed"
+17557,MDU6SXNzdWUzMzQ4MDkwNjk=,101,Atom 1.28 crashes on macOS with Shadowsocks proxy
+14020,MDU6SXNzdWUyMTQ5MjQyNjY=,101,Atom not appearing on Start Menu (or anywhere) on Windows 10 after first install.
+1827,MDU6SXNzdWUzMDc3NDcwMQ==,101,"Frequently excessive CPU, memory consumption"
+11035,MDU6SXNzdWUxMzgwMTk0MDI=,97,Add config option for MRU tabs
+5901,MDU6SXNzdWU2MDI2NDQzMw==,95,Make Windows shell integration opt-in via Settings
+10044,MDU6SXNzdWUxMjE5Njg5NTk=,91,Quitting and re-opening Atom does not save the same tabs I had open
+5692,MDU6SXNzdWU1ODU5ODMzOA==,91,Restart and Update Doesn't from Release Notes Page
+13084,MDU6SXNzdWUxODU2NDI4MDI=,86,Shelling out to collect environment variables is creating runaway 100% CPU processes on Linux
+1814,MDU6SXNzdWUzMDYxODUwMA==,82,Linux ship list
+5323,MDU6SXNzdWU1NjA5MDE4Nw==,80,Atom keeps adding desktop shortcut
+4026,MDU6SXNzdWU0NzQ3Mjg2MQ==,80,Reverse delete consumes too many characters
+2122,MDU6SXNzdWUzMzE3MjI3Ng==,78,Cursor disappears after holding Alt key 
+1046,MDU6SXNzdWUyMTc3MDA1OA==,77,Windows Installer
+12983,MDU6SXNzdWUxODMwNDIwNzM=,75,The editor is not responding.
+7595,MDU6SXNzdWU5MjEwODgwOQ==,75,Deactivate multiple cursors feature (on Ctrl+mouse click)
+5109,MDU6SXNzdWU1NDU5Njc1Nw==,75,Path too long exception on Windows install
+4360,MDU6SXNzdWU1MDU1MDI3Mw==,74,Atom does not start when using x2go
+3927,MDU6SXNzdWU0NjUxNDYxNw==,74,Atom detected as malware by antiviruses
+274,MDU6SXNzdWUxMDk4MDI1Mw==,74,Allow panes to be resized
+3365,MDU6SXNzdWU0MDk3Njk0Nw==,73,Atom can lock files or folders under some circumstances
+18535,MDU6SXNzdWUzODY3MjQzNjA=,71,Items in the Menu Bar are invisible on Ubuntu 18.10 when atom window is focused.
+10819,MDU6SXNzdWUxMzM2MTUzOTU=,71,Error: Cannot find module '../build/Debug/nodegit.node'
+10623,MDU6SXNzdWUxMjk4ODk2NzY=,71,"""Open Empty Editor On Startup"" option not working."

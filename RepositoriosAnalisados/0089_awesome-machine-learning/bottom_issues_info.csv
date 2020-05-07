@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+34,MDU6SXNzdWUzNzk4NjE3NQ==,0,Typo in OpenCV
+47,MDU6SXNzdWUzODA1NjcxNw==,0,dsp link wrong
+121,MDU6SXNzdWU2MzI4MDIyMQ==,0,Please add a license file to the repo
+188,MDU6SXNzdWUxMTAzNjQ2Mjg=,0,Add 'machine-learning' python repository
+216,MDU6SXNzdWUxMjI5OTgyMTI=,0,Validate pull requests with Travis
+365,MDU6SXNzdWUyMjM5NjQ5Mzk=,0,"""Neural Network Designer""'s link loads wrong site"
+398,MDU6SXNzdWUyNDE2NzU0Mzg=,0,flake8 reports: F821 undefined name 'index'
+435,MDU6SXNzdWUyNjQ5MzAwNzE=,0,Feature extraction
+495,MDU6SXNzdWUzMTgyMTcwMTY=,0,Broken book link
+496,MDU6SXNzdWUzMTgyMTczMzc=,0,Broken book link
+26,MDU6SXNzdWUzNzk3Mzk0Ng==,1,The Shogun Machine Learning Toolbox is not a Python library
+46,MDU6SXNzdWUzODA1NjM3Ng==,1,Add statkit.js
+49,MDU6SXNzdWUzODA5ODU3Ng==,1,Add ELKI
+93,MDU6SXNzdWU0ODk2MjY3NQ==,1,Updating books list
+130,MDU6SXNzdWU2Njg4MDUwOQ==,1,AwesomeOpenSource
+147,MDU6SXNzdWU4MTY1MjYyMA==,1,opengm should appear in C++/Python
+148,MDU6SXNzdWU4MTY1NjU5MQ==,1,vigra
+170,MDU6SXNzdWU5NjU4MjUyNA==,1,Update link to `Twitter-text-js`.
+185,MDU6SXNzdWUxMDk5MzExMTk=,1,Consider adding python repository
+190,MDU6SXNzdWUxMTA0MzY0NTQ=,1,Consider including this...
+213,MDU6SXNzdWUxMjI0MzQxMTc=,1,Microsoft's ML library
+231,MDU6SXNzdWUxMjczODYxMTk=,1,Orange machine learning library in Python
+245,MDU6SXNzdWUxMzEzNzI4NDc=,1,ClearNLP for a Java NLP tool
+247,MDU6SXNzdWUxMzE0Mzk2MjA=,1,Apache Storm not Included
+286,MDU6SXNzdWUxNTgyODY0MDQ=,1,Confused which to take
+311,MDU6SXNzdWUxNzgwNjcyMDU=,1,http://bragisoft.com/  looks dead
+322,MDU6SXNzdWUxODQ0MjAzNjg=,1,did not see SINGA
+330,MDU6SXNzdWUxODc1NDk0Nzc=,1,[Question] Can we add meetups / groups to this list?
+342,MDU6SXNzdWUyMDA0Nzc2NjY=,1,emergent
+343,MDU6SXNzdWUyMDI3ODU1NDU=,1,Missing seldon
+380,MDU6SXNzdWUyMzAxMTI5NjQ=,1,Text classification to .NET
+385,MDU6SXNzdWUyMzEyOTE0NDk=,1,NLP.js seems obsolete
+386,MDU6SXNzdWUyMzIwMTAxNjI=,1,REPLACE Brain [JavaScript]
+482,MDU6SXNzdWUzMDEzNjY4MTM=,1,D3.js
+485,MDU6SXNzdWUzMDM3NzY0NDU=,1,Add OpenNN
+489,MDU6SXNzdWUzMDgyMjY4MDc=,1,Broken link of high performance text mining
+509,MDU6SXNzdWUzMzIxNTc0MDA=,1,README addition of clojure-mxnet
+534,MDU6SXNzdWUzNjE1NTE1Njg=,1,another CL library
+546,MDU6SXNzdWUzNzIxNzg0NjU=,1,A PyTorch-Based Framework for Deep Learning in Computer Vision
+564,MDU6SXNzdWUzODY1NjgwMDk=,1,Wiki is world editable
+605,MDU6SXNzdWU0NDE3ODI2MTg=,1,Add FluxML and JuliaText packages in Julia
+614,MDU6SXNzdWU0NTk1NzUxNDM=,1,Add the ANN lib called Konectik
+620,MDU6SXNzdWU0ODEyMTE2NzE=,1,Please add links for Delphi langage
+687,MDU6SXNzdWU2MDcxNjI5MDM=,1,ML
+41,MDU6SXNzdWUzODAzNDAzNw==,2,"more to easy linked awesome-[python, go, ruby]"
+105,MDU6SXNzdWU1MjMzMjI0OA==,2,Announcing getAwesomeness()
+140,MDU6SXNzdWU3MzQ1MDE2Mg==,2,"Dead link: All of Statistics book, Probability and Statistics section"
+323,MDU6SXNzdWUxODUyMzE3MDc=,2,deep learning of patterns in multiple parallel time series
+336,MDU6SXNzdWUxOTQ1ODU4MDY=,2,404 error for PRML
+427,MDU6SXNzdWUyNTk5MTEyNjg=,2,Add Podcasts

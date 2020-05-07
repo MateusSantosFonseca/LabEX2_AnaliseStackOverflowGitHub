@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+4657,MDU6SXNzdWUxMTk5MDk1OTI=,100,Allow the embedded web server to be shut down gracefully
+7107,MDU6SXNzdWUxODEyNDkyMzA=,96,Log a warning on startup when spring.jpa.open-in-view is enabled but user has not explicitly opted in
+4393,MDU6SXNzdWUxMTU0NTY5NjQ=,63,Support Thymeleaf 3
+8762,MDU6SXNzdWUyMTc1NDI4MDU=,58,Allow @ConfigurationProperties binding for immutable POJOs
+1788,MDU6SXNzdWU0NzE5NDA0NQ==,55,Overriding logging properties like FILE_LOG_PATTERN
+7033,MDU6SXNzdWUxNzk0OTU3OTI=,49,@SpyBean on Data Jpa Repository bean isn't working
+15062,MDU6SXNzdWUzNzY0NzMyMTQ=,45,Apply TomcatConnectorCustomizer and TomcatContextCustomizer beans automatically
+1254,MDU6SXNzdWUzNzgyNzEzOA==,43,Allow @ConfigurationProperties binding on interfaces
+5537,MDU6SXNzdWUxNDQ3MzU3Mzc=,42,Improve Kotlin support
+13042,MDU6SXNzdWUzMTk4OTA1ODM=,39,"Circular reference in JPA, DataSource, initializers"
+8488,MDU6SXNzdWUyMTE3OTA1MTk=,39,"""IllegalArgumentException: Bean factory must allow eager class loading"" with 1.5.2.RELEASE when using JRebel"
+12523,MDU6SXNzdWUzMDU5NDExNzc=,38,Support Java 9 Multi-Release JAR files 
+2763,MDU6SXNzdWU2NTg4MTAwNQ==,37,Upgrade to Hibernate 5.1
+6254,MDU6SXNzdWUxNjMxMDIxMDM=,36,Maven-failsafe-plugin fails to execute integration tests
+2797,MDU6SXNzdWU2NzQyNDk1MA==,36,Add inlined conf file support to launch.script
+12892,MDU6SXNzdWUzMTUyOTkxNDc=,35,Spring WebFlux with Netty Doesn't Gzip Static Resources Correctly
+5669,MDU6SXNzdWUxNDc5MDM0MzI=,35,Potential race condition when initializing Logback
+519,MDU6SXNzdWUyOTYzMzExMA==,35,Service wrappers for spring boot application
+200,MDU6SXNzdWUyNTI3NDUzMQ==,35,Refrain from requiring/using @ComponentScan to define a base package for Spring Data repositories
+10306,MDU6SXNzdWUyNTc5ODkzODM=,34,Add config option to fully disable boot managed security
+10129,MDU6SXNzdWUyNTQzNzQwNTQ=,34,Make base path configurable for WebFlux applications
+5047,MDU6SXNzdWUxMjk2MTE1NjY=,34,spring-boot-devtools: tunneled debugging freezes on IntelliJ 15
+8965,MDU6SXNzdWUyMjMyNjM4MDI=,33,Provide a callback for customising the auto-configured FreeMarkerConfigurer
+6402,MDU6SXNzdWUxNjU4MzcwMTA=,33,Investigate JUnit 5
+3164,MDU6SXNzdWU4NjY2ODAzOA==,33,Option for disabling dependency management
+2290,MDU6SXNzdWU1MzQ5NjYyOQ==,33,"Support @WebServlet, @WebFilter, and @WebListener"
+830,MDU6SXNzdWUzMzE4MjU3MA==,33,It should be possible to run tests without starting the CommandLineRunner
+256,MDU6SXNzdWUyNjA4NTM0OQ==,33,Error when adding @EnableJpaRepositories 
+8115,MDU6SXNzdWUyMDMzMzc1MzA=,32,Expose the functional bean registration API via SpringApplication
+4394,MDU6SXNzdWUxMTU1MTU4MDc=,32,Upgrade to Reactor 2.0.7 in order to fix memory leak
+2895,MDU6SXNzdWU3MTg2ODIyOA==,32,Support zip64 format executable archives
+2525,MDU6SXNzdWU1ODE5MDE1MQ==,32,"Add ""start-stop"" goals for the spring-boot-maven-plugin"
+3576,MDU6SXNzdWU5NjUyNDA2NA==,31,TransactionRequiredException on @Query @Modifying methods in JpaRepository
+3315,MDU6SXNzdWU5MDU3MjAyNQ==,31,Devtools reload doesn't work with spring-boot-maven-plugin
+2645,MDU6SXNzdWU2MDk0MzU5Mw==,31,Add LdapAutoConfiguration
+1095,MDU6SXNzdWUzNTY2NTcwNA==,31,-Dspring.profiles.active ignored when mvn spring-boot:run
+10963,MDU6SXNzdWUyNzI1MTE1ODQ=,30,Consider making the default user's username and password configurable
+10907,MDU6SXNzdWUyNzEwNTA3NTk=,30,Secured Actuator endpoints try to redirect to a login page rather than returning a 401
+4525,MDU6SXNzdWUxMTczNTM1NDk=,30,No qualifying bean of type SecurityProperties found for dependency after upgrade to 1.3.0
+3316,MDU6SXNzdWU5MDU4NTAxNA==,30,Devtools: Same class with different classloader causing NoSuchBeanDefinitionException
+2025,MDU6SXNzdWU1MDQ3MzQ0Mg==,30,Actuator is not working with Jersey starter
+1083,MDU6SXNzdWUzNTU0Nzk0OQ==,30,Not an managed type (with Release 1.1.0 and 1.1.1)
+501,MDU6SXNzdWUyOTUxNzAyNQ==,30,@Value and @ConfigurationProperties behave differently when binding to arrays
+19593,MDU6SXNzdWU1NDczNzA4MTk=,29,Support liveness and readiness state for Kubernetes
+15047,MDU6SXNzdWUzNzYxMTM5MTI=,29,Configure SameSite attribute on session Cookies with Spring Session
+11338,MDU6SXNzdWUyODE2ODQ0MzI=,29,2.0.0.M7 spring-boot-starter-actuator  caused OOM
+7087,MDU6SXNzdWUxODA3NjQwMTE=,29,Log warning on slow host resolution
+4918,MDU6SXNzdWUxMjU3NDg1ODk=,29,Autoconfiguration support for Hazelcast clients
+4779,MDU6SXNzdWUxMjIyNDQzNTQ=,29,Allow an app to start when its DataSource is unable to connect to the DB
+18565,MDU6SXNzdWU1MDYxNTg3NTQ=,28,MeterRegistryPostProcessor does not work when Instantiated MeterRegistry

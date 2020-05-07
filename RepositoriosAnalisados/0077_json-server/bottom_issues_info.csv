@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+37,MDU6SXNzdWU1MjE2NDEyNQ==,0,Error HTTP 413 Request entity too large
+123,MDU6SXNzdWU4ODUxODI1Ng==,0,Watch router file
+137,MDU6SXNzdWU5MTc4NTAwNg==,0,--routes support for auto api
+151,MDU6SXNzdWU5NTc5MjY4NQ==,0,Passport Auth / New feature
+169,MDU6SXNzdWUxMDExMjY5MTA=,0,query string support came_case?
+174,MDU6SXNzdWUxMDMzNjQ5MzM=,0,running json-server for remote returns an error
+182,MDU6SXNzdWUxMDc4MDAyNTk=,0,Support for multiple static directories
+204,MDU6SXNzdWUxMTg0NDc0MzQ=,0,Does not handle : in request path
+217,MDU6SXNzdWUxMjM3NzQzMzU=,0,Specify line endings
+229,MDU6SXNzdWUxMjk4ODU4MTE=,0,No support for :resource at the end of the route path?
+248,MDU6SXNzdWUxNDA1MjU5NjI=,0,How to refresh the rewriter on the fly?
+255,MDU6SXNzdWUxNDg0MjQ0Nzk=,0,Near by search
+313,MDU6SXNzdWUxNjIxNDQ2MDE=,0,How to match the given GET parameters every time?
+332,MDU6SXNzdWUxNjYyNzAzODM=,0,Language negotation
+333,MDU6SXNzdWUxNjYzMTA1Mzc=,0,Can I get data like 'activity/v1/get_support_activity'?
+360,MDU6SXNzdWUxNzc2MTAzMzI=,0,Closed
+372,MDU6SXNzdWUxNzk4NzYxOTA=,0,Support query params in rewrites
+403,MDU6SXNzdWUxODc5MjgzNzE=,0,how i can genrate id for personal for given below schema it genrate id only for lead
+408,MDU6SXNzdWUxODkzNzExMjg=,0,Add engine field to package.json
+431,MDU6SXNzdWUxOTQwODkxNTY=,0,rewrite url when no params fails to pass query strings
+448,MDU6SXNzdWUxOTg2MTA1NjQ=,0,DB cant have non-ASCII keys/routes
+458,MDU6SXNzdWUyMDM1NzUxNDE=,0,"Nasted sort, paginate and filter."
+461,MDU6SXNzdWUyMDM4MTAwMDI=,0,Nested filtering
+463,MDU6SXNzdWUyMDQwNzk0Nzc=,0,--https flag
+464,MDU6SXNzdWUyMDQxMTI1MTQ=,0,Changing id property does not change nested resource property suffix
+467,MDU6SXNzdWUyMDU0ODQ0ODA=,0,Sending GET/POST request XDK Bosch C-programming
+471,MDU6SXNzdWUyMDY5MTEyNTQ=,0,Response returns 404 when not finding by id with existing resource
+482,MDU6SXNzdWUyMDkyMjk3NzQ=,0,Bulk insert
+489,MDU6SXNzdWUyMTQzMDMzMzU=,0,Specific multilevel routes
+490,MDU6SXNzdWUyMTQ3NjQ0MDI=,0,RAML specification generation
+492,MDU6SXNzdWUyMTQ5NjM3NzU=,0,Custom route from a generator.js
+497,MDU6SXNzdWUyMTYwMTg4MjE=,0,embed bug when set _.id = '_id'
+501,MDU6SXNzdWUyMTY2NTYwMzU=,0,problem Route value
+502,MDU6SXNzdWUyMTY3MzU0ODA=,0,get simple prop under root
+515,MDU6SXNzdWUyMjEwNTI4MzU=,0,Composite Relationships like transaction table
+522,MDU6SXNzdWUyMjMxMjAzNDY=,0,Would like to see a case insensitive sort option for strings
+523,MDU6SXNzdWUyMjMxODc2NDQ=,0,Partial response
+527,MDU6SXNzdWUyMjUwNTg0NDQ=,0,How can I create session scoped requests with json-server in heroku?
+539,MDU6SXNzdWUyMjkxMDM0NTI=,0,"Setting options as a module, rather than by the CLI"
+543,MDU6SXNzdWUyMzE2MTc0MTE=,0,Response is not being wrapped
+545,MDU6SXNzdWUyMzM1MDEwNTA=,0,When using DELETE Method it also deletes another json values
+546,MDU6SXNzdWUyMzM4MzA5NjY=,0,YAML version of the DB.
+547,MDU6SXNzdWUyMzM4NjQxNjE=,0,It's possible to break db file structure by sending list in POST
+553,MDU6SXNzdWUyMzU1NDk4MjI=,0,why the field value become string
+557,MDU6SXNzdWUyMzYzOTY2NTg=,0,Add open browser CLI option
+561,MDU6SXNzdWUyMzczMTY1NTE=,0,Cannot read property 'find' of undefined
+562,MDU6SXNzdWUyMzc0ODA1NTM=,0,Multiple response for given resource
+563,MDU6SXNzdWUyMzc3NjQ3MzA=,0,A problem with paging
+565,MDU6SXNzdWUyMzgzMTk2MDA=,0,How will this server handle concurrent writes?
+583,MDU6SXNzdWUyNDE0NTM4Njg=,0,Add please-upgrade-node

@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+11,MDU6SXNzdWU3OTQ4NzQ5NA==,0,typo in readme all_ligatures.png
+90,MDU6SXNzdWUxMjMyMTU1MDM=,0,Objective-C tokens
+155,MDU6SXNzdWUxNDA0MTkwMjg=,0,If you saw my note on #127
+161,MDU6SXNzdWUxNDQwMDc4NDU=,0,`0x[0-9a-f]` not strict enough
+184,MDU6SXNzdWUxNTM0MDgzOTY=,0,"Ligature request: ||>, etc"
+194,MDU6SXNzdWUxNTg5NDk0MTU=,0,Ligature request: <^>
+200,MDU6SXNzdWUxNjE3Mjc2MDk=,0,Ligature for Natural Transformation
+203,MDU6SXNzdWUxNjMyMTE3MDM=,0,Add butterfly terminal to list of font supported terminals
+208,MDU6SXNzdWUxNjU0MzYxOTY=,0,Ligature for CoffeeScript's Sprockets require statement: #=
+214,MDU6SXNzdWUxNjU4MzEyMzI=,0,Nim ligature request: [.  .]  {.  .}  (.  .)  ]#
+226,MDU6SXNzdWUxNjcxMTMyODA=,0,Don't work with Lxterminal and mate-terminal very well
+229,MDU6SXNzdWUxNjczNDYyMzE=,0,Add ==== ligrature
+240,MDU6SXNzdWUxNzAxMTcwNTY=,0,Ligature request: json operators in PostgreSQL
+261,MDU6SXNzdWUxNzQxOTQ2NzU=,0,APL Symbols?
+279,MDU6SXNzdWUxNzkwOTMyNjY=,0,Return `{.` `.}` Nim ligatures
+289,MDU6SXNzdWUxODMyNzk0NTg=,0,Ascii Triangle sizes differ
+297,MDU6SXNzdWUxODczMTQ1NTQ=,0,Ligature Request: Little fish ( >-> )
+298,MDU6SXNzdWUxODc0NTUzMTg=,0,"Glyph for the character U+2206 ""INCREMENT"""
+299,MDU6SXNzdWUxODc1MjMyMDc=,0,{. not working in Emacs
+306,MDU6SXNzdWUxODkyNjkyMDQ=,0,Ligature request: restore ???
+317,MDU6SXNzdWUxOTE3NjU5NzQ=,0,Ligature request: >>|
+330,MDU6SXNzdWUxOTU2NTkxMjY=,0,Ligature for `{|` and `|}`
+332,MDU6SXNzdWUxOTU5ODM1Mzg=,0,the square brackets shown at different heights
+335,MDU6SXNzdWUxOTYyMzkyOTE=,0,Atom package
+359,MDU6SXNzdWUyMDUwMTI2OTA=,0,Invalid RANGE argument to set-char-table-range
+377,MDU6SXNzdWUyMTIyNzUzMzY=,0,t
+389,MDU6SXNzdWUyMTYxNjYyMTA=,0,Context-sensitive vertical alignment for ligatures
+392,MDU6SXNzdWUyMTY3NTA5OTM=,0,Ligature Request: <==>
+413,MDU6SXNzdWUyMjM4MzYzMTc=,0,Ligature request: >>>=
+417,MDU6SXNzdWUyMjY4Njk4MTU=,0,`#{` ligature is not clearly legible
+420,MDU6SXNzdWUyMjgzODA2NzI=,0,Slow rendering on high DPI under Windows 10 Creators Update with GDI and Clear Type
+462,MDU6SXNzdWUyNDUxMzM0MjI=,0,Ligatures working in Windows gvim with the correct setting
+471,MDU6SXNzdWUyNDc0NTE4NTI=,0,There is an unlisted workaround for Notepad++
+515,MDU6SXNzdWUyNjg4OTM0MzY=,0,Feature Request: Create a sans-serif version of the font
+584,MDU6SXNzdWUzMTI4MDgzMTY=,0,Ligature request: =>= and &&&
+714,MDU6SXNzdWU0MDk5NTU1MzI=,0,Box Drawing Light Arcs
+720,MDU6SXNzdWU0MTI5ODU0Nzg=,0,Bring back the ligature for \\
+741,MDU6SXNzdWU0Mjk4ODA1Njk=,0,Ligature request <% <%= %> ERB templates in RoR
+780,MDU6SXNzdWU0NTU2NjUwNDY=,0,Add norm of Matrix 
+783,MDU6SXNzdWU0NjA5MzIwNTU=,0,logo
+804,MDU6SXNzdWU0NzM4NjMwNjk=,0,Issue on Intellij IDEA with Fira Code Retina
+809,MDU6SXNzdWU0Nzg1ODE5MjM=,0,FiraCode support in Occam
+817,MDU6SXNzdWU0ODU4NzE5NTY=,0,More traditionally-looking @ (at) symbol
+818,MDU6SXNzdWU0ODc1NTA2MDM=,0,Add U+261A..261F left/up/right/down black/white pointing index
+819,MDU6SXNzdWU0ODc1NTE5MzM=,0,Add U+2622 Radioactive sign U+2623 Biohazard sign
+820,MDU6SXNzdWU0ODc1NTI2MzA=,0,Add U+269B Atomi symbol
+821,MDU6SXNzdWU0ODc1NTMwODQ=,0,Add U+26A0 Warning sign
+825,MDU6SXNzdWU0ODg2MjQ5Njg=,0,Bring back thin slash in a stylistic set
+827,MDU6SXNzdWU0ODk2MTkwNjI=,0,Powerline chevron misaligned in 1.207
+830,MDU6SXNzdWU0OTE1Njc1NDE=,0,"Update <$, <$> and $> for ss04"

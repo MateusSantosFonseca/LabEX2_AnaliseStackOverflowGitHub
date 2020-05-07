@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+61,MDU6SXNzdWU1MDk0MDUzMA==,0,My contribution to this logo throw in.
+78,MDU6SXNzdWU1MTA3MTY3Mw==,0,Mani
+79,MDU6SXNzdWU1MTA3MTc1Mg==,0,Mani
+213,MDU6SXNzdWU1Mjk2MDk1OA==,0,wrong issue
+1053,MDU6SXNzdWU1OTc1Nzk2OA==,0, io.js TC Meeting 2015-03-04
+1287,MDU6SXNzdWU2NDgxNzczNA==,0,core: handle._handle.close(callback) is not idempotent
+1414,MDU6SXNzdWU2ODE5Mjg3OQ==,0,Foundation Development Policy
+1809,MDU6SXNzdWU4MTI3NTMxMg==,0,Wrong issue
+2010,MDU6SXNzdWU4OTMwMzExMw==,0,=\=
+2420,MDU6SXNzdWUxMDE2MTEzNjI=,0,create labels please)
+2421,MDU6SXNzdWUxMDE2MTE2Nzc=,0,set user node.js task please
+2739,MDU6SXNzdWUxMDU0MjE4NTg=,0,immediate segfault on node 4.0.0-rc5
+3054,MDU6SXNzdWUxMDgxODE3NjM=,0,Launcher not working: Keep getting ArrayIndexOutOfBound
+3089,MDU6SXNzdWUxMDg1MzIyNzQ=,0,process.versions.icu
+3146,MDU6SXNzdWUxMDkyOTYwMTU=,0,api docs say incomingMessage.headers is read-only but it is not
+3229,MDU6SXNzdWUxMTAxNDc4NzQ=,0,Lint failing
+3247,MDU6SXNzdWUxMTAzMjc4NDk=,0,doc: WORKING_GROUPS.md will be affected by iojs-* to nodejs-* rename
+3345,MDU6SXNzdWUxMTExNTQyOTE=,0,debugger: `node --debug-port=1234 debug t.js` doesn't work
+3535,MDU6SXNzdWUxMTM0NTk0OTc=,0,delete me
+3957,MDU6SXNzdWUxMTgyMDYyMDU=,0,test-cluster-net-send failure on windows
+3992,MDU6SXNzdWUxMTg0ODQzNDk=,0,"Buffer.writeInt{L,B}E generates wrong bytes for some negative integers"
+4450,MDU6SXNzdWUxMjQwOTMwMjU=,0,Investigate flaky test-cluster-disconnect-race
+4571,MDU6SXNzdWUxMjU0NzEzNDM=,0,Document return value of http.server.listen
+4692,MDU6SXNzdWUxMjY2NTYzMDQ=,0,Installation
+4712,MDU6SXNzdWUxMjY4NTc1MDg=,0,doc: http.request parameter protocol defaults to `http` could mention it ignores trailing colon
+4899,MDU6SXNzdWUxMjkwODQ2MTA=,0,Cannot build msi
+5136,MDU6SXNzdWUxMzIwNzg1MzU=,0,UDP Packet Corrupted
+5223,MDU6SXNzdWUxMzM1MzYzNzU=,0,stream: why use string_decoder in Readable?
+5351,MDU6SXNzdWUxMzUyMTkzNzg=,0,investigate flaky test-timers-unref-active-unenrolled-disposed
+5365,MDU6SXNzdWUxMzU0NTY0ODg=,0,doc: assert.deepStrictEqual() description inaccurate
+5725,MDU6SXNzdWUxNDEwNjI0NDI=,0,Investigate flaky test-http-get-pipeline-problem
+5854,MDU6SXNzdWUxNDI4NDUxNDg=,0,Investigate flaky test-http-set-timeout
+5892,MDU6SXNzdWUxNDMzNDkzNjI=,0,Investigate flaky test-net-socket-timeout
+5976,MDU6SXNzdWUxNDQ5NDc1NjQ=,0,The current json doctool does not support grouped optional params
+6004,MDU6SXNzdWUxNDUzMDE4OTA=,0,url: format ignores query if it's no object
+6135,MDU6SXNzdWUxNDcxMjg4NjM=,0,Investigate flaky test-child-process-fork-net
+6144,MDU6SXNzdWUxNDc0MDgxNzA=,0,Build 5.10.1 for ARMv7 without vfpv4 idiva idivt instructions?
+6182,MDU6SXNzdWUxNDgxMTEwNDI=,0,Add or fix localAddress and localPort options.
+6214,MDU6SXNzdWUxNDg2MDc1NTI=,0,module resolution can fail with trailing slash
+6223,MDU6SXNzdWUxNDg3MDg5ODA=,0,uncaughtException documentation should mention that it not a reliable restart on crash method
+6336,MDU6SXNzdWUxNTAxODMyNDE=,0,Undocumented and possibly wrong behavior of historySize in readline
+6549,MDU6SXNzdWUxNTI4NDMzODE=,0,meta: On backporting commits for LTS
+7187,MDU6SXNzdWUxNTg4MjE4NTU=,0,none
+7459,MDU6SXNzdWUxNjI2OTkxMzk=,0,suspicious multi-byte string handling in _debug_agent.js
+7646,MDU6SXNzdWUxNjQ3MzI4Nzc=,0,CONTRIBUTING.md assumes UNIX-like OS
+7701,MDU6SXNzdWUxNjUyMzczOTQ=,0,[bogus]
+7779,MDU6SXNzdWUxNjYwMTkyNjA=,0,Node.js can't serialize JAVASCRIPT Object Notation faster than other functional platforms
+7922,MDU6SXNzdWUxNjg0OTU5MTE=,0,isLength throws RangeError when used within a class' property setter method
+7929,MDU6SXNzdWUxNjg1MzY2MjM=,0,Investigate flaky test-dgram-send-callback-buffer on FreeBSD
+8085,MDU6SXNzdWUxNzA5NDA4NTA=,0,Error at code example of Duplex Stream in Docs

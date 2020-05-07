@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+8,MDU6SXNzdWUxNDQyNzY5NA==,0,Add toggleDevTools
+13,MDU6SXNzdWUxNDU5ODk2NA==,0,Crash when searching project
+18,MDU6SXNzdWUxNTE3OTA5MQ==,0,Support copy/paste/select all in dev tools
+19,MDU6SXNzdWUxNTI1MTg1Nw==,0,Replace is/setFullscreen with is/setFullScreen
+28,MDU6SXNzdWUxNTcyMDcyOA==,0,Add native method to get version number
+42,MDU6SXNzdWUxNzA1NDQ4Mw==,0,Leaving open dialog displays unresponsive dialog
+73,MDU6SXNzdWUxODc5NzQ1Mg==,0,Windows Support
+75,MDU6SXNzdWUxODc5ODQ0NA==,0,Window menu API
+88,MDU6SXNzdWUxOTI3ODMzNw==,0,Fullscreen icon shows in Frameless window after returning from fullscreen
+102,MDU6SXNzdWUyMDA4MzcyNQ==,0,Crash switching to specs window
+108,MDU6SXNzdWUyMDg5Mjg4MA==,0,Modules fail to resolve if a containing directory name contains a space
+114,MDU6SXNzdWUyMTc3Mjg0NQ==,0,Which options are required for WDK and Windows SDK installers on windows?
+123,MDU6SXNzdWUyMjE5OTAyOA==,0,The windows have no icon on Windows
+129,MDU6SXNzdWUyMzQ2Mjg4MQ==,0,Need a way to force-kill a window
+131,MDU6SXNzdWUyMzY1OTQ2Nw==,0,Unresponsive editor dialog displayed during confirmation dialog
+138,MDU6SXNzdWUyMzgwNjUxOA==,0,Add fs.lstatSyncNoException
+145,MDU6SXNzdWUyNDMxNTAxMw==,0,window.open is leaking
+150,MDU6SXNzdWUyNTEwMTQxNg==,0,Screen size is not correct sometimes
+156,MDU6SXNzdWUyNTQwMDM5NA==,0,Child process's message was sometimes blocked
+157,MDU6SXNzdWUyNTU1NzAyNg==,0,Restart renderer process for all navigations and reloads
+159,MDU6SXNzdWUyNTgwNDU0NQ==,0,Connecting to pipe is slow
+161,MDU6SXNzdWUyNTkxODgzNg==,0,Add support for high-DPI display on Windows
+163,MDU6SXNzdWUyNjE2MjA5OQ==,0,Crashing at [BRYInspectableWebContentsView window:didBecomeActive:]
+174,MDU6SXNzdWUyNzA0MDQyOQ==,0,Key events handled by renderer are still sent to browser on Windows
+182,MDU6SXNzdWUyODM4OTkwNw==,0,Remove locks used by protocol module
+186,MDU6SXNzdWUyODUzODIyMA==,0,Calling `alert('Look!')` from the dev tools causes Atom to lock up.
+206,MDU6SXNzdWUyOTA2NzkzMw==,0,Crash when calling NativeWindow::IsWebViewFocused.
+207,MDU6SXNzdWUyOTA2ODI1MA==,0,Make native modules being built with debug information
+212,MDU6SXNzdWUyOTI4MjQyOQ==,0,Handle first click when window is unfocused
+219,MDU6SXNzdWUzMDMwMDY5NQ==,0,Unshown window has wrong window height on Linux
+223,MDU6SXNzdWUzMDg5MDEzMg==,0,capturePage returning empty buffer
+227,MDU6SXNzdWUzMTE4MTI3Mw==,0,localStorage values set when Atom is closing are not persisted
+257,MDU6SXNzdWUzMjk1NTUwOQ==,0,Hide From Taskbar
+265,MDU6SXNzdWUzMjk5NTExOA==,0,Crash at views::Widget::UpdateWindowTitle()
+269,MDU6SXNzdWUzMzA0MjM4NA==,0,Crash at atom::NativeWindow::CloseWebContents()
+272,MDU6SXNzdWUzMzA1NzIzOA==,0,Leaving Kiosk Mode on OS X Mavericks -- Menu & Dock Don't Come Back
+278,MDU6SXNzdWUzMzE2MjI2NQ==,0,Ship with some common old shared libraries
+287,MDU6SXNzdWUzMzI0MTcxMQ==,0,Support application locale
+292,MDU6SXNzdWUzMzMwNzA1Mg==,0,Setting menu after window has been shown would make menu disappear
+299,MDU6SXNzdWUzMzM0Njc0NQ==,0,Forms don't work
+318,MDU6SXNzdWUzMzU4NjQyNw==,0,Stylesheet turn not fully applied while loadUrl from file://
+364,MDU6SXNzdWUzNDU1NjM0Mg==,0,Crash at atom.exe!views::Widget::OnNativeBlur
+370,MDU6SXNzdWUzNDcxNDYzNA==,0,Ability to set zoom level
+385,MDU6SXNzdWUzNTIwOTM3OA==,0,"Event ""did-finish-load"" fires multiple time for each content's iframe "
+390,MDU6SXNzdWUzNTMzMzIxNQ==,0,Broken url
+391,MDU6SXNzdWUzNTM4Njc3NA==,0,Crash at atom.exe!atom::NativeMenuWin::UpdateStates() 
+394,MDU6SXNzdWUzNTU0NTQyNw==,0,"Crash at atom.exe!atom::NativeMenuWin::MenuHostWindow::OnMenuCommand(int,HMENU__ *) "
+396,MDU6SXNzdWUzNTY4NDg4NQ==,0,The icon of browser-window haven't document
+413,MDU6SXNzdWUzNjEwODU4Mw==,0,remote.require looks for modules relative to atom executable
+428,MDU6SXNzdWUzNjQyOTc3NQ==,0,Should Chromium version be in navigator.userAgent

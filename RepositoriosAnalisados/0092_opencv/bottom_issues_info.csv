@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+4240,MDU6SXNzdWU5NzQxMDA3MQ==,0,Expose more of the HOG functionality in the python API
+4241,MDU6SXNzdWU5NzQxMDQ4MQ==,0,Separable morphology filters
+4242,MDU6SXNzdWU5NzQxMDc4NQ==,0,Unicode support requested
+4243,MDU6SXNzdWU5NzQxMDgyMA==,0,Add analogon to CV_NEXT_GRAPH_EDGE
+4244,MDU6SXNzdWU5NzQxMDg1Mg==,0,Video codecs adjustment
+4248,MDU6SXNzdWU5NzQxMDk5Mg==,0,CvStatModel::write and CvStatModel::read not implemented
+4249,MDU6SXNzdWU5NzQxMTA0MA==,0,FIX_INTRINSICS for a single camera in StereoCalibrate
+4250,MDU6SXNzdWU5NzQxMTA2Mw==,0,Shape Descriptors for Maximally Stable Extremal Regions
+4253,MDU6SXNzdWU5NzQxMTIwMQ==,0,Mat Type Coherence: always returning CV_64FC1 Mat
+4259,MDU6SXNzdWU5NzQxMTU1Mg==,0,Maybe there is a logical bug in function icvCalcOpticalFlowLK_8u32fR
+4263,MDU6SXNzdWU5NzQxMTc2MQ==,0,findHomography returns bad Homography
+4266,MDU6SXNzdWU5NzQxMTkyMw==,0,DCT for odd length
+4268,MDU6SXNzdWU5NzQxMTk4OA==,0,Add support for weighted datasets in clustering
+4270,MDU6SXNzdWU5NzQxMjA4NA==,0,RANSAC parameters for estimateRigidTransform
+4271,MDU6SXNzdWU5NzQxMjE1Mw==,0,Statistical Shape Model
+4272,MDU6SXNzdWU5NzQxMjIyMg==,0,Add Restricted Boltzmann Machine (RBM) to ml
+4275,MDU6SXNzdWU5NzQxMjM0Ng==,0,SURF Buffer Reuse
+4279,MDU6SXNzdWU5NzQxMjUxNg==,0,Usage of DescriptorExtractor for custom (=own) code: Design flaw?
+4281,MDU6SXNzdWU5NzQxMjU4Nw==,0,A method to discover what keypoints are removed when descriptors are computed.
+4283,MDU6SXNzdWU5NzQxMjY3Nw==,0,remap for 64-bit images is performed with 32-bit precision
+4284,MDU6SXNzdWU5NzQxMjcyMQ==,0,Native camera support in adb shell as executable - cannot grab a frame
+4286,MDU6SXNzdWU5NzQxMjg0Nw==,0,Undocumented functions/methods in API exported to java/python
+4287,MDU6SXNzdWU5NzQxMjg4NA==,0,CascadeClassifier::detectMultiScale() const?
+4289,MDU6SXNzdWU5NzQxMjk4MA==,0,add scrollbars to highgui windows
+4290,MDU6SXNzdWU5NzQxMzAxNA==,0,Cannot change video size in a thread
+4291,MDU6SXNzdWU5NzQxMzAzOA==,0,OpenCV Android native camera doesn't work on some Motorola devices
+4293,MDU6SXNzdWU5NzQxMzEwNg==,0,negative cursor position overflow in python mouse callbacks
+4294,MDU6SXNzdWU5NzQxMzEzMw==,0,Upgrade to CvStatModel::save / load
+4302,MDU6SXNzdWU5NzQxMzM3Mw==,0,copyTo function support to slices of higher-dimensional matrixes.
+4304,MDU6SXNzdWU5NzQxMzQyNw==,0,weighted Hough
+4305,MDU6SXNzdWU5NzQxMzQ2MA==,0,Multiple identical CvAnn_MLPs  yield different training results
+4306,MDU6SXNzdWU5NzQxMzQ4NA==,0,SVM training - memory
+4307,MDU6SXNzdWU5NzQxMzUxNw==,0,Error in Python Find Contours
+4308,MDU6SXNzdWU5NzQxMzU1Mw==,0,Problem Accessing Histogram Elements in Android Version of OpenCV
+4309,MDU6SXNzdWU5NzQxMzU4Nw==,0,Can't use BRIEF descriptor in BOW unless....
+4310,MDU6SXNzdWU5NzQxMzYyMA==,0,header files for python module
+4311,MDU6SXNzdWU5NzQxMzY1NQ==,0,CreateVideoWriter does not report error
+4312,MDU6SXNzdWU5NzQxMzY5MA==,0,In python 'cv2.SURF.detect' is unusable with user-provided keypoints
+4313,MDU6SXNzdWU5NzQxMzcyMA==,0,Signficant slow down of SVD in OpenCV 2.3
+4316,MDU6SXNzdWU5NzQxMzg2Nw==,0,Feature request: add codec parameters in videoWriter
+4317,MDU6SXNzdWU5NzQxMzkxMg==,0,Please Implement WarpBilinear
+4318,MDU6SXNzdWU5NzQxMzk3Ng==,0,output of GPU detectMultiScale returns multiple of detector size
+4326,MDU6SXNzdWU5NzQxNDQ0NA==,0,memory leak in Python binding with cv.GetMat
+4327,MDU6SXNzdWU5NzQxNDQ4Mg==,0,Errors in SURF/STAR Python Bindings
+4328,MDU6SXNzdWU5NzQxNDUzNA==,0,OpponentSIFT descriptor failure
+4337,MDU6SXNzdWU5NzQxNDk5Mw==,0,reorganize work with generate_16|32|64.i
+4338,MDU6SXNzdWU5NzQxNTA2Ng==,0,"test history (eg. success, failed, crashed, not run) during all revisions "
+4345,MDU6SXNzdWU5NzQxNTUwNw==,0,Reading corrupted frames ffmpeg + x264  
+4349,MDU6SXNzdWU5NzQxNTY0OA==,0,Descriptors for Affine invariant regions
+4352,MDU6SXNzdWU5NzQxNTgxMg==,0,Exposing more Keypoint and Feature2d C++ functions to Java API.

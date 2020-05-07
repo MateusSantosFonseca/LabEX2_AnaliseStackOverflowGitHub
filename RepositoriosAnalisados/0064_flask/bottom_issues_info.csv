@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+3,MDU6SXNzdWUxNzA0NDU=,0,Switch to explicit request object passing
+224,MDU6SXNzdWU3OTUxMDg=,0,Docs should mention that url_for() skips query string args with value=None
+234,MDU6SXNzdWU5Mjg1OTc=,0,logging improperly extending directly from Logger class
+246,MDU6SXNzdWUxMDcxMDkw,0,Split up Testsuite
+258,MDU6SXNzdWUxMTE5ODE3,0,Make Tests for bluprints with dotted Names
+278,MDU6SXNzdWUxMjEyNTkw,0,Typos in flask.app.Flask docstrings/comments
+326,MDU6SXNzdWUxNzA2MjA3,0,Move Some Context Preservation Logic into App
+351,MDU6SXNzdWUyMjkwNDg1,0,session is saved before @after_request callbacks
+358,MDU6SXNzdWUyNDg4NTI2,0,More examples/documentation for pluggable view decorators
+368,MDU6SXNzdWUyNjU3MjU3,0,unused code in app.logger ?
+370,MDU6SXNzdWUyNjY0OTY0,0,Quickstart: Variable Rules Section
+374,MDU6SXNzdWUyNzE5NDQy,0,error in view.rst 
+459,MDU6SXNzdWUzNzk3NDg1,0,Problem with file uploading
+484,MDU6SXNzdWU0MDM2Mjkx,0,Revise updated foreword (rduplain).
+519,MDU6SXNzdWU0ODI5ODY3,0,Quickstart  login example has unclear comment.
+596,MDU6SXNzdWU2OTUwNTk3,0,"sdist from master creates ""devdev"" version."
+600,MDU6SXNzdWU3MTUyNzQy,0,cannot run testsuite on Windows
+605,MDU6SXNzdWU3MzM2MDU5,0,Regarding JSON inside <script> tag and HTML5 parser
+610,MDU6SXNzdWU3NjE0NTk2,0,[BUG]TypeError: 'JsonObject' object is not callable
+611,MDU6SXNzdWU3NjMxNTE3,0,"Minor typo in Tutorial, but possibly confusing"
+677,MDU6SXNzdWUxMTAwNTE4MA==,0,Minor typo in quickstart
+678,MDU6SXNzdWUxMTA1NjUyNQ==,0,Flask exception logging has a catch-22
+725,MDU6SXNzdWUxNDAwMTc5Mw==,0,Explicitly state that the jsonify method changes on request
+781,MDU6SXNzdWUxNjA2NjkwNA==,0,test_appcontext_signals() fails with blinker installed
+788,MDU6SXNzdWUxNjI4NjY1Mg==,0,json.py use bson.json_util
+968,MDU6SXNzdWUyNjU0Njg3Nw==,0,"GET params discarded by flask test client, when using full url"
+1033,MDU6SXNzdWUzMjEzMzA4Nw==,0,admin notification when rate limit is reached
+1134,MDU6SXNzdWUzODgxMzk2MQ==,0,Quote all HTML attributes
+1398,MDU6SXNzdWU2NDY3NDI4Nw==,0,"Oops, didn't mean to post this."
+1449,MDU6SXNzdWU3MjU1NDgxOQ==,0,imp module deprecated. 
+1488,MDU6SXNzdWU4NjMyODQ0MA==,0,"If you aren't using classes for `view_func`s, you can't tell Flask not to serve OPTIONS"
+1511,MDU6SXNzdWU4OTc4ODU5MA==,0,TaggedJSONSerializer loads(dumps(..)) breaks on certain values
+1525,MDU6SXNzdWU5MzUwNDcyNQ==,0,Flask + eventlet slow response time
+1544,MDU6SXNzdWU5ODU1NTE1Ng==,0,flask blueprint 
+1564,MDU6SXNzdWUxMDMzODM3Nzc=,0,Popping application context after every request
+1601,MDU6SXNzdWUxMTQzNTM1NzI=,0,Duplicate: Downloadable documentation files links (pdf and zippe files) are dead
+1644,MDU6SXNzdWUxMjA4NDUyNzQ=,0,Please update mod_wsgi documentation to use httpd 2.4 syntax
+1646,MDU6SXNzdWUxMjEwOTQ4NDc=,0,visual studio code plugin>
+1674,MDU6SXNzdWUxMjQ1MjU0ODg=,0,"When using an external debugger, exceptions are not properly propagated"
+1740,MDU6SXNzdWUxMzgyNTMyMTM=,0,Not able to set encoding in open_resource
+1769,MDU6SXNzdWUxNDYxMDQ5NDE=,0,Remove link to dotCloud on deployment options
+1803,MDU6SXNzdWUxNTM5NTA1MDM=,0,'config object has not attribute from_json' error 
+1922,MDU6SXNzdWUxNjE3MDMyODM=,0,HTTPMethodOverrideMiddleware docs example doesnt work with latest version
+1931,MDU6SXNzdWUxNjIyNzU2MzI=,0,dialogue box?
+1947,MDU6SXNzdWUxNjQwNjE4NTY=,0,Persona example - deprecated
+1975,MDU6SXNzdWUxNjkwNzAwODM=,0,Examples in uWSGI docs are not using the same socket.
+1999,MDU6SXNzdWUxNzQxOTg0NDA=,0,Proposal : splitting the config logic into a different package.
+2033,MDU6SXNzdWUxNzgyOTYyNDM=,0,failing test for safe_join in windows
+2056,MDU6SXNzdWUxODI2MDY0OTk=,0,Installation documentation for Windows: minor typo
+2100,MDU6SXNzdWUxOTE2ODUxMDY=,0,"Header issue with many body request (put, post, etc)"

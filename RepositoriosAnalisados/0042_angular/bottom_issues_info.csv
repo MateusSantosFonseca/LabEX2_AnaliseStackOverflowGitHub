@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+2129,MDU6SXNzdWU3OTY0Njk1Nw==,0,benchpress: integrate with webpagetest.org
+2168,MDU6SXNzdWU4MTE2MTkzOA==,0,benchpress should throw if given invalid slope calculation metric
+7242,MDU6SXNzdWUxMzU4ODI5MTM=,0,Angular 2 tutorial ts and js files build up
+7432,MDU6SXNzdWUxMzg0OTYxNzk=,0,Use the rest operator in Validators.compose
+7570,MDU6SXNzdWUxNDAzNDIxNTQ=,0,BUG: ngModelChange fired in different order on mobile vs. desktop
+7814,MDU6SXNzdWUxNDQzMjk5MzU=,0,I18n: Opting out of translation
+9286,MDU6SXNzdWUxNjA3OTE0OTU=,0,[i18n] escaping in ICU message
+10195,MDU6SXNzdWUxNjY2OTk5NzY=,0,Proposal to separate concerns of child control construction and parent ControlContainer mapping.
+10429,MDU6SXNzdWUxNjg3MjAyNzQ=,0,Add useful stuff to ngc angularCompilerOptions.trace
+10821,MDU6SXNzdWUxNzEyMzE1MjU=,0,Test for deprecated APIs
+10916,MDU6SXNzdWUxNzE4NTE3MzA=,0,Why do I have to use the browser bootstrap *and* import the BrowserModule?
+11497,MDU6SXNzdWUxNzYxNDI2Njg=,0,Enforce `<template [dir]=>` could also be used as `<el *dir=>`
+11588,MDU6SXNzdWUxNzY4MDg0MzM=,0,Boolean values in URL Matrix Parameters
+11682,MDU6SXNzdWUxNzc1MzM5OTk=,0,Perf: Optimize stylesheet handling
+11718,MDU6SXNzdWUxNzc4MjU2MDc=,0,"Ambiguous ""form state object"" can only be determined at runtime"
+11759,MDU6SXNzdWUxNzgxMDU3MjY=,0,[RegExp Validator] investigate using the '/u/ flag
+11868,MDU6SXNzdWUxNzg5NTIyNjc=,0,Clarify route definitions
+12086,MDU6SXNzdWUxODEwNzk4NzA=,0,Cannot navigate to aux route that is a child of a componentless parent
+12241,MDU6SXNzdWUxODI1MzY0ODA=,0,Feature request to route root modules
+12248,MDU6SXNzdWUxODI1OTAxNTg=,0,Provide more syntactic sugar for custom form components
+12256,MDU6SXNzdWUxODI2NTcyMzM=,0,benchpress: get firefox support up again
+12483,MDU6SXNzdWUxODQ4MzQxMjk=,0,"Feature Request: add automated unit testing, like Elmlang"
+12667,MDU6SXNzdWUxODY4NjU4NDA=,0,Profiler: make it easier to access the profile in debug mode
+12688,MDU6SXNzdWUxODcwOTIzMjA=,0,Component specific renderers
+12701,MDU6SXNzdWUxODcyNDEzMDM=,0,Change detection falls behind on IE9
+12716,MDU6SXNzdWUxODc0MDQzOTA=,0,Allow hexadecimal (and octal and binary) literals in expressions
+12720,MDU6SXNzdWUxODc0MzY0NTk=,0,Add a ComponentFixture.detectChangesWhenStable API
+12894,MDU6SXNzdWUxODk0MzA4MjE=,0,Patching a null value on a disabled form group makes the whole form invalid
+12900,MDU6SXNzdWUxODk0NjkwMDQ=,0,Ability to wrap existing services
+12953,MDU6SXNzdWUxOTAyMTA5OTM=,0,Allow disabling NgControlStatus
+13218,MDU6SXNzdWUxOTMyODM4MTk=,0,Pluggable NgModules with AoT compatibility
+13339,MDU6SXNzdWUxOTQ1NzA1ODQ=,0,Navigate to ancestor route
+13366,MDU6SXNzdWUxOTQ3NjU5MzQ=,0,RouterLinkActive problems with child and parent Active
+13435,MDU6SXNzdWUxOTUzMTkzOTQ=,0,Consider issuing a warning in the language service if an event is a method type.
+13547,MDU6SXNzdWUxOTYyMzczMzE=,0,feat(core): support macro-syntax on attributes with the same name.
+13872,MDU6SXNzdWUyMDAwNzE3ODI=,0,Router: inconsistent commands for main and named outlets
+13887,MDU6SXNzdWUyMDAzNDQwOTI=,0,[@angular/language-service] support for code fix
+13888,MDU6SXNzdWUyMDAzNDQyOTM=,0,[@angular/language-service] support for go to definition @Component/templateUrl
+13889,MDU6SXNzdWUyMDAzNDQ1MjA=,0,[@angular/language-service] support for rename
+13993,MDU6SXNzdWUyMDE2NjM5ODE=,0,Forms should throw error if two or more NgModels appear in form with the same name
+14222,MDU6SXNzdWUyMDQ2Mzg3MzA=,0,Add url validator
+14283,MDU6SXNzdWUyMDUxOTM4NTM=,0,Router guards: need a way to determine which parameter has changed
+14470,MDU6SXNzdWUyMDczODk0Njk=,0,evil.com url in project
+14471,MDU6SXNzdWUyMDc0MDEwNTk=,0,Throw when formGroup directive receives a FormArray instance
+14480,MDU6SXNzdWUyMDc1ODI5MDY=,0,Angular 2 relative pathing from siblings doesn't work
+14622,MDU6SXNzdWUyMDkyMTQ5MDY=,0,feat(language service): relax component/directive error checks when defined in spec
+14649,MDU6SXNzdWUyMDk1Mzk5NTM=,0,Improve error message for NgModule import cycles (e.g. A imports B which imports A)
+14908,MDU6SXNzdWUyMTE3NDYyMDU=,0,Errors are not always thrown during second pass change detection
+14938,MDU6SXNzdWUyMTE5Nzc5Mjk=,0,"bug(language service): spurious ""no directive found"" error "
+14967,MDU6SXNzdWUyMTIyNTY0NTM=,0,aio: Security audit

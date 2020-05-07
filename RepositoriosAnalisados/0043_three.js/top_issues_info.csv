@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+9562,MDU6SXNzdWUxNzI1NTIxNDE=,339,Transform `examples/js` to support modules
+9754,MDU6SXNzdWUxNzg4MzMyNTM=,203,HLS on Safari / IOS now not working
+7522,MDU6SXNzdWUxMTQ3MjAzNTE=,161,NodeMaterial
+4776,MDU6SXNzdWUzMjkxNjcxNg==,153,Moving to a modular architecture
+14137,MDU6SXNzdWUzMjYyOTgxNDE=,114,Textures Rendered as Black on (some?) devices with Android 7+
+13288,MDU6SXNzdWUyOTU5NjQ2Mzc=,113,"SkinnedMesh bug when far from scene root (0,0,0)"
+5180,MDU6SXNzdWUzOTkxNTg0NQ==,101,Selective lighting
+9860,MDU6SXNzdWUxODI5ODUyOTY=,100,FBX Binary format not supported?
+8110,MDU6SXNzdWUxMzMxMzg0NzQ=,95,Safari/Firefox DOM Exception 18 for Streaming Video Texture
+323,MDU6SXNzdWUxMTYyOTc4,91,ExtrudeGeometry
+11951,MDU6SXNzdWUyNTAyNjA3OTU=,85,GLTFExporter
+905,MDU6SXNzdWUyNTQ5NjA3,85,Drawing a long 3D tube
+11552,MDU6SXNzdWUyMzY3NzU3OTI=,84,Evaluate ES6 classes
+9965,MDU6SXNzdWUxODYwNTM3NTE=,84,WebGL2Renderer
+6241,MDU6SXNzdWU2MjE3ODQxOQ==,79,cyclic dependencies
+4386,MDU6SXNzdWUyNzEyMzM5Ng==,78,Experimenting with Geometry2
+11475,MDU6SXNzdWUyMzQ2OTkyMDE=,74,Material: Added onBeforeCompile()
+5876,MDU6SXNzdWU1Mzk2OTk4OQ==,73,UV offset / repeat should be part of materials rather than textures
+6419,MDU6SXNzdWU2ODk4ODgyNw==,69,Adopt some ES6 features
+12903,MDU6SXNzdWUyODI5OTA5OTU=,68,"Utils: Deprecate Exporters (Blender, 3DS Max and Maya)"
+8718,MDU6SXNzdWUxNTA0MzkxMDk=,67,Fast Polygon Lights (would include Area)
+6050,MDU6SXNzdWU1NzI2MzE0MA==,67,Load Mixamo Animation Animation
+5582,MDU6SXNzdWU0NzkyMjcxOQ==,65,Open discussion on the new Blender exporter features.
+2638,MDU6SXNzdWU4NDA3MzE3,65,Performance regress in r53?
+4927,MDU6SXNzdWUzNTc2MDY3Nw==,63,Error creating WebGL context
+2106,MDU6SXNzdWU1MjI4MDM4,62,Working on SkeletonAnimation - JSONFormat
+341,MDU6SXNzdWUxMTk3MzAy,61,"Google Closure Compiler ""externs"" file for three.js ?"
+1799,MDU6SXNzdWU0MjQ3NTE4,60,NURBS
+12432,MDU6SXNzdWUyNjY0ODg2Mjk=,59,Support for alternative ID generation methods
+16524,MDU6SXNzdWU0NDczNDU0ODM=,57,BasisTextureLoader: Next steps
+13397,MDU6SXNzdWUyOTkxODMyMjU=,56,GLTFExporter GLB compatible with Facebook viewer
+9756,MDU6SXNzdWUxNzg4NTY0Njc=,56,Enhancement Proposal: Wrap OBJLoader in web worker
+5524,MDU6SXNzdWU0Njk3MzI5MA==,56,Loaders
+3386,MDU6SXNzdWUxMzcwMzUyNQ==,56,Holes in contours causes triangulation failure
+7732,MDU6SXNzdWUxMjA0NTkxNDU=,55,Shadows break stereoscopic/3D rendering with post-processing
+7130,MDU6SXNzdWUxMDUyNzc1MDA=,54,FlatShading on MeshLambertMaterial
+11746,MDU6SXNzdWUyNDIwMjg0MTM=,53,Non-blocking assets loaders
+13889,MDU6SXNzdWUzMTUzNjk0MDU=,52,Cannot see glass transparency on GLTF 3D model
+13379,MDU6SXNzdWUyOTg3ODUwNTI=,52,VideoTexture updating at 60-90fps
+9716,MDU6SXNzdWUxNzc3NTM1NDk=,52,"""extension 'GL_ARB_gpu_shader5' is not supported"""
+5411,MDU6SXNzdWU0NTAwNTMwNA==,52,Documentation Improvement Project
+2293,MDU6SXNzdWU2MDc5NTE2,52,"Skinning + Morph Targets, only minor refactoring needed (sic!)"
+11318,MDU6SXNzdWUyMjc5NDA4MTU=,51,Donations for THREEjs Development?
+17220,MDU6SXNzdWU0Nzg5MDEwNTE=,50,ReactAreaLights do not seem to work in a module bundler
+15965,MDU6SXNzdWU0MjA2MjM5NzU=,50,"feature request: transform origin (or ""pivot point"")"
+8711,MDU6SXNzdWUxNTAyNDE3MTg=,50,"Object3D, Mesh, Scene, Group ambiguity "
+4599,MDU6SXNzdWUyOTk1NjM1OQ==,50,Make matrixWorld & matrix always up-to-date?
+9685,MDU6SXNzdWUxNzY3NDM0NzQ=,49,Textures are extremely washed out
+12231,MDU6SXNzdWUyNTg5ODU3MjE=,48,Proposal: eliminate the optional target
+8161,MDU6SXNzdWUxMzQ1MjI3MzY=,48,Undeclared identifier 'IncidentLight' on Windows

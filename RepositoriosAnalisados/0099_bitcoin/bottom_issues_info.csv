@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+61,MDU6SXNzdWU1ODg0NjA=,0,Timestamps in debug log
+322,MDU6SXNzdWUxMDY5Njky,0,"Listtransactions strange behavior with high ""from"" values"
+323,MDU6SXNzdWUxMDY5NzA2,0,Listtransactions bad transaction numbering
+370,MDU6SXNzdWUxMTUwMjI3,0,backup button in client for wallet.dat
+465,MDU6SXNzdWUxMzkyNTE2,0,listtransactions rpc call crash
+531,MDU6SXNzdWUxNzMxMjUz,0,Spanish locale update
+651,MDU6SXNzdWUyMzA1Njg2,0,Rewrite wallet when changing wallet passphrase?
+796,MDU6SXNzdWUzMDg5MzQ0,0,MacPorts / boost 1.48 causes bitcoin-qt build failure
+802,MDU6SXNzdWUzMTAzNTUw,0,Update win32 gitian libpng version
+822,MDU6SXNzdWUzMTg0NTY3,0,Use of free instead of delete in bitcoinrpc.cpp
+833,MDU6SXNzdWUzMjEwOTE4,0,Save QR code image: append .png
+836,MDU6SXNzdWUzMjI3MjA3,0,gettransaction only works on own transactions
+866,MDU6SXNzdWUzMjgwMzU2,0,"bitcoin-qt 0.6.0 beta address book shows no entries, main page shows entries"
+875,MDU6SXNzdWUzMjg5NzE4,0,Bitcoin-Qt just dies at startup if rpcport conflict
+913,MDU6SXNzdWUzNDQ0NTUx,0,Excess inventory relay during initial block download
+1050,MDU6SXNzdWUzOTk5MTkx,0,Sign message bitcoin address tooltip is wrong
+1055,MDU6SXNzdWU0MDE2Mjcz,0,About bitcoin-qt dialogue text should be selectable
+1065,MDU6SXNzdWU0MDIyOTUx,0,addrMan crash on CentOS
+1080,MDU6SXNzdWU0MDY2NjEw,0,Label doesn't update when selecting from address book
+1086,MDU6SXNzdWU0MDk2MTgz,0,-datadir with -testnet broken
+1099,MDU6SXNzdWU0MTE4Mzk0,0,make_windows_icon.py not a Python script
+1156,MDU6SXNzdWU0MzM0NzQ4,0,Addrman crash
+1167,MDU6SXNzdWU0MzUxNjcx,0,DoS prevention: check for duplicate transactions earlier
+1241,MDU6SXNzdWU0NDkyOTc0,0,QT debug console doesn't focus on text entry area initially.
+1544,MDU6SXNzdWU1MzcxNzUz,0,'send buffer full' massive log spam
+1560,MDU6SXNzdWU1NDUwODkw,0,proxyInfo isnt locked
+1654,MDU6SXNzdWU2MDQxNjk3,0,Bitcoind crashes if signrawtransaction on a transaction with unknown inputs
+1688,MDU6SXNzdWU2MzMxODEx,0,signrawtransaction signs SIGHASH_SINGLE out-of-bounds
+1696,MDU6SXNzdWU2MzU3MTgx,0,qmake error creating Makefile on osx
+1848,MDU6SXNzdWU3MDUyMjc0,0,"""Unknown transaction type found"" in debug.log in p2pool Generate-Txs"
+1866,MDU6SXNzdWU3MTI1Mzc2,0,include addresses in listunspent
+2040,MDU6SXNzdWU4Njk0OTE4,0,"test_bitcoin initializes datadir, datadir/blocks/blk00000.dat, etc"
+2084,MDU6SXNzdWU5MTE3MDcy,0,E
+2140,MDU6SXNzdWU5NTkyMzkx,0,Util.cpp Two warnings while compiling.
+2189,MDU6SXNzdWUxMDExNTM0Mg==,0,"List wallet amounts in smaller denominations, not Bitcoin"
+2288,MDU6SXNzdWUxMDgxMDQ4MA==,0,Windows build not gitian-build-reproducible
+2326,MDU6SXNzdWUxMTIyOTYyOQ==,0,-
+2379,MDU6SXNzdWUxMjE0MjA5Nw==,0,Setting options
+2381,MDU6SXNzdWUxMjE1NzA3NQ==,0,mempool command has issues
+2451,MDU6SXNzdWUxMjc1MjkwOQ==,0,Bitcoin-Qt: problems with tabs toolbar
+2593,MDU6SXNzdWUxMzc4ODcyMw==,0,RPC not listening when starting up bitcoind with new ~/.bitcoin
+2667,MDU6SXNzdWUxNDQ4Mjk1MA==,0,lockunspent returns true even for non-existent outputs
+2668,MDU6SXNzdWUxNDQ4NjQ0Ng==,0,"bitcoin-qt crash while performing transaction, pls help!!!!!!!!"
+2687,MDU6SXNzdWUxNDY4NTk3MA==,0,Assert at shutdown after calling getblocktemplate a couple times at runtime (0.8.2rc2)
+2714,MDU6SXNzdWUxNDkzMzI4MA==,0,util_seed_insecure_rand test flaky
+2744,MDU6SXNzdWUxNTE5NDE4NA==,0,Apparently there could be a memory zero-day exploit with bitcoind [Likely not be anything to be worried about]
+2762,MDU6SXNzdWUxNTQxNDU4MQ==,0,"Ability for miners to identify chain splits, and choose what chain to use without the need for a client patch/update."
+2782,MDU6SXNzdWUxNTg2NDQyNA==,0,Initializing a new database with -txindex=1 set asks for reindex
+2810,MDU6SXNzdWUxNjI2MTc2MQ==,0,Minor interface tweaks needed; consistency in the menu labels
+2896,MDU6SXNzdWUxODA2OTY4OQ==,0,Add one-time Tx address flag to GUI

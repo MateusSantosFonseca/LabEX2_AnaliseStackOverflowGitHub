@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+1,MDU6SXNzdWU0NjI1MjI0,0,Converting a selection can result in a proliferation of emtpy `<div>`s
+11,MDU6SXNzdWU0OTQ5NTUw,0,GFM: no support for special links
+41,MDU6SXNzdWU5NjMyNDYx,0,Better indication of modified-ness of themes
+44,MDU6SXNzdWUxMDU3MzUyNw==,0,Thunderbird: Error when rendering empty email
+62,MDU6SXNzdWUxNDE0NjkzNQ==,0,Registration: hide Additional Info based on Participant=N
+81,MDU6SXNzdWUxNTkzMTI3NQ==,0,Options page auto-opening on new version can get confused
+124,MDU6SXNzdWUyMTEwNTc3OA==,0,Chrome: Enable rendering in cross-origin iframes
+125,MDU6SXNzdWUyMTExNTAyOQ==,0,Thunderbird: Saving a raw MD draft results in broken MD
+129,MDU6SXNzdWUyMTIyMjM0NA==,0,Postbox: Add warning about losing changes when user unrenders modified HTML
+134,MDU6SXNzdWUyMTQyODY1Mg==,0,Investigate Evernote forum interface
+154,MDU6SXNzdWUyNTkyMzgyNQ==,0,Enable citations (like Pandoc)
+156,MDU6SXNzdWUyNjY4MTgwMw==,0,awd
+162,MDU6SXNzdWUyODEzMTE2Ng==,0,"Forgot-to-render should also work with ""Send"" button when ""Send+Archive"" enabled"
+168,MDU6SXNzdWUyOTA2NDE2Mg==,0,Render inline Markdown in HTML blocks
+169,MDU6SXNzdWUyOTA2NDM3OQ==,0,Use visually consistent icons in Thunderbird and Postbox
+172,MDU6SXNzdWUyOTk2NjcyMQ==,0,Exclude forwarded email content from rendering and forgot-to-render check
+208,MDU6SXNzdWU0Mjg0MjY1NA==,0,Postbox: context menu item doesn't appear
+233,MDU6SXNzdWU1MTI0Nzc4Ng==,0,Reference links with pre-formatted links don't render correctly
+264,MDU6SXNzdWU2Mjg0NjY3NA==,0,Thunderbird: Custom font is lost when rendering
+270,MDU6SXNzdWU2ODk0NTkxNg==,0,Link auto-scheme-adding should exclude `mailto:`
+274,MDU6SXNzdWU3NTE3NDg0MQ==,0,Not working in Pale Moon
+297,MDU6SXNzdWUxMDExMzc5NDM=,0,Unrendering fails when replying to MDH email (and reply is visible)
+298,MDU6SXNzdWUxMDExODgzNTI=,0,Chrome: Disabled button isn't greyed out
+309,MDU6SXNzdWUxMTIwNjY5MzU=,0,Enable Markdown in Lightning
+312,MDU6SXNzdWUxMTc2MTI2OTE=,0,Add additional content wrapper
+317,MDU6SXNzdWUxMTk4NjA2Mzc=,0,Forgot-to-Render check for Fastmail
+322,MDU6SXNzdWUxMjQyNDEzMzY=,0,Medium refuses to use markdown-here
+323,MDU6SXNzdWUxMjQ5Mjg2NzI=,0,Option to not add data-md-url
+325,MDU6SXNzdWUxMjc0MTU1MTY=,0,Support for keyboard shortcut formatting?
+326,MDU6SXNzdWUxMjgzMTM0NDk=,0,Chinese(or other language) support in dillinger
+328,MDU6SXNzdWUxMjk4MjA3MjM=,0,Request: YAML Support in Code Blocks
+330,MDU6SXNzdWUxMzI0NjE4MjQ=,0,Breaking changes in Firefox 45
+331,MDU6SXNzdWUxMzI3NjYyNzA=,0,[indiefab] widget for marketing eblasts and FTW needs updating
+334,MDU6SXNzdWUxMzgyMTE4MjI=,0,Possibility to generate Table of Contents
+336,MDU6SXNzdWUxNDAwMTg1Nzg=,0,Syntax highlighting CSS themes have wrong classes for languages
+341,MDU6SXNzdWUxNDU0NDU2ODU=,0,Port to iOS?
+343,MDU6SXNzdWUxNDcwNzQzNjk=,0,Will safari's extension continued to be update?
+347,MDU6SXNzdWUxNDgyNzkzNjA=,0,None-Ascii characters(such as Chinese) are not support in dillinger 
+352,MDU6SXNzdWUxNDg5OTI5ODY=,0,Feature-Request: Emoji for Unicode-Use
+353,MDU6SXNzdWUxNDkyNTczOTU=,0,Link in Gmail
+354,MDU6SXNzdWUxNTA0MzA2Nzg=,0,no warning on un-rendered table
+362,MDU6SXNzdWUxNjMwNzE2NzE=,0,No wrap
+363,MDU6SXNzdWUxNjUzNzM5MTY=,0,Wiki - explain how it works under the hood
+365,MDU6SXNzdWUxNjYzODQyNzY=,0,right-paren in a URL cannot be escaped
+366,MDU6SXNzdWUxNjc0MzE2NjU=,0,SVG support
+367,MDU6SXNzdWUxNjg0ODY3MTE=,0,Sequence & Workflow support
+376,MDU6SXNzdWUxNzQ3MTMwMzM=,0,Don't render URLs as links when within a code block or inline code
+379,MDU6SXNzdWUxNzU4MTA5NTU=,0,Verilog syntax highlighting not working
+383,MDU6SXNzdWUxNzc1NzMxNjM=,0,Ascii Art or Unicode Equations Pretty printing
+384,MDU6SXNzdWUxNzc5MjI1ODg=,0,Link to bug isn't a link

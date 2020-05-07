@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+105,MDU6SXNzdWU1OTE2MDE3NA==,0,Why synthetic state on TouchableHighlight instead of instance variable?
+211,MDU6SXNzdWU2NDU5MTAzMw==,0,"Typo in ""reuse anything you{""'""}ve already"""
+413,MDU6SXNzdWU2NDk4NjA5Mg==,0,iOS simulator scrolling is broken
+599,MDU6SXNzdWU2NTc5NTI4NQ==,0,autoGenerateWrapperClass is null 
+640,MDU6SXNzdWU2NjExODI4NQ==,0,Weird RTCUIManager behaviour
+643,MDU6SXNzdWU2NjE2NDA1Nw==,0,UIExplorer error
+787,MDU6SXNzdWU2NzQ4MzUxNA==,0,How to set border-top-left-radius
+872,MDU6SXNzdWU2ODgzODQyNg==,0,XmlHttpRequest.XmlHttpRequest() and XmlHttpRequest.getResponseHeader() return empty string even if XmlHttpRequest.responseHeaders returns an object
+926,MDU6SXNzdWU2OTUyNjcxOQ==,0,cocoa pod version too old
+979,MDU6SXNzdWU3MDI5NTU3Mg==,0,Text layout bug on update with non-left textAlign
+983,MDU6SXNzdWU3MDMzMjAzMA==,0,"Integration with existing App, how to use <ListView>"
+1081,MDU6SXNzdWU3MjMwODM1OA==,0,Navigator doesn't obey gesture.edgeHitWidth
+1199,MDU6SXNzdWU3NDM1NjQ3Mg==,0,RCTBridge's `loading` property is no longer set
+1258,MDU6SXNzdWU3NTg2MjAyNg==,0,Can I delay displaying a list view until all rows with images are rendered?
+1268,MDU6SXNzdWU3NjE1NDY5NA==,0,NavigatorIOS leftButtonIcon not working
+1456,MDU6SXNzdWU4MjcwNDAxMA==,0,[Packager] Source maps do not seem to work in Chrome
+1657,MDU6SXNzdWU4OTEzMTU5Ng==,0,ListView not growing after additions since 34cef28a10b7d44be453c072578b5b6c07a0dcd8
+1769,MDU6SXNzdWU5MTQ4NzkwMA==,0,[Debugger] Pause on uncaught exceptions message not so useful
+1795,MDU6SXNzdWU5MjAxOTYyOQ==,0,[Bridge] Nullable parameter attributes crash the bridge at runtime
+1797,MDU6SXNzdWU5MjAyOTkyNQ==,0,Same error message for all errors
+1815,MDU6SXNzdWU5MjE4NjMyNA==,0,[Docs] Add Guide for device size / orientation
+1830,MDU6SXNzdWU5MjM4NDAxNw==,0,Apple Mach-O Linker Error
+2037,MDU6SXNzdWU5NTc4ODE4OA==,0,NavigatorIOS button clicked event is not firing
+2116,MDU6SXNzdWU5NzE0NDYxNQ==,0,XMLHttpRequest.ios.js not compatible with fetch.js?
+2124,MDU6SXNzdWU5NzI2NDM1Mw==,0,Fix the Launch Chrome Tools AppleScript
+2207,MDU6SXNzdWU5ODYzODIxNQ==,0,AsyncStorage Issues
+2268,MDU6SXNzdWU5OTcwNTIxNA==,0,[PanResponder] Gestures priority
+2390,MDU6SXNzdWUxMDIyMTUxMjc=,0,Add projectRoots to be specified from cli in Packager
+2402,MDU6SXNzdWUxMDI0NjY5MTk=,0,[JS] Should we expose `Date` object to JS?
+2417,MDU6SXNzdWUxMDI2NjU0Njg=,0,Text  center aligned wrap problem
+2421,MDU6SXNzdWUxMDI2OTIxNTA=,0,How cocoapods react naitve project use third party lib ?
+2673,MDU6SXNzdWUxMDYzOTg3NzA=,0,[website] syntax error in Java example.
+2757,MDU6SXNzdWUxMDY3MzUwMDQ=,0,Error thrown after bundling
+2764,MDU6SXNzdWUxMDY3Njc1Mjg=,0,packager swallows startup errors
+2912,MDU6SXNzdWUxMDc1NzkwOTk=,0,Not obvious how to create a new Android View
+2917,MDU6SXNzdWUxMDc2MDEzNzE=,0,[ActionSheetIOS] Loops in iOS9 / iPhone 6 and renders glitched
+3046,MDU6SXNzdWUxMDg0MTQ4Njg=,0,Delete
+3105,MDU6SXNzdWUxMDg3NjY5MDY=,0,[MapView] showsUserLocation without automatic zooming?
+3257,MDU6SXNzdWUxMTAxNDE1MDM=,0,Unable to click/tap React Native debugging menu in iOS simulator
+3266,MDU6SXNzdWUxMTAyMzQ1NDc=,0,Adding extra platforms
+3295,MDU6SXNzdWUxMTA1NzczNDM=,0,Help: fix weird react-native + flex issue 
+3302,MDU6SXNzdWUxMTA2MjQ5OTE=,0,Nested scrollview is not working in react native android but working in ios ?
+3402,MDU6SXNzdWUxMTEzNDYyMjI=,0,Error: watchman--no-pretty get-sockname returned exit code 1 
+3473,MDU6SXNzdWUxMTE5NDg4OTA=,0,Dismiss/Hide keyboard for text input
+3486,MDU6SXNzdWUxMTIwMDkwMjI=,0,wrong issue
+3537,MDU6SXNzdWUxMTIzNTc4Njc=,0,is android pom correct in central ? need aar but any dependence the pom type is jar by default
+3562,MDU6SXNzdWUxMTI1NDYwOTQ=,0,[XMLHttpRequest] uncaught exception while trying to upload a file
+3622,MDU6SXNzdWUxMTI5Mjc2NTY=,0,[docs] add Troubleshooting entry for when devices can't connect to the packager server
+3756,MDU6SXNzdWUxMTM5NTYxNjY=,0,[iOS]  Error in implementing Native UI Component
+3818,MDU6SXNzdWUxMTQ0NDc0MTA=,0,Error: Cannot find module '/Users/tianpeng/AwesomeProject/node_modules/react-native/package.json'

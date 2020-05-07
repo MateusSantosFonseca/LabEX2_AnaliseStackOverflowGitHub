@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+4,MDU6SXNzdWU0MjcxMjI5Ng==,0,Bundling with browserify/webpack
+7,MDU6SXNzdWU0Mjg4MTIwMg==,0,Promise doesn't support multiple args
+8,MDU6SXNzdWU0MjkxMTMwNw==,0,axios.all doesn't work
+55,MDU6SXNzdWU2NzAzNjMxOQ==,0,Blindly use JSON.parse when transforming response data
+57,MDU6SXNzdWU2NzIwODA5Nw==,0,Remove deprecated success/error aliases
+94,MDU6SXNzdWU5Nzc3MzE3OA==,0,Custom DNS interceptor
+116,MDU6SXNzdWUxMDg3NzMyMjE=,0,axios(url) doesn't work
+156,MDU6SXNzdWUxMTc4NjQ5Mzg=,0,Issue when using application/x-www-form-urlencoded as Content-Type
+194,MDU6SXNzdWUxMjY5OTI1Njg=,0,Promise is not defined
+248,MDU6SXNzdWUxMzYzMzM2NTA=,0,IE11 - DELETE request - Content-Type => Problem
+273,MDU6SXNzdWUxNDI1MjM1Mjc=,0,All PR builds fail due to Travis security restrictions
+429,MDU6SXNzdWUxNzM3NDIwODU=,0,API Service Manual Error
+460,MDU6SXNzdWUxODAwMzM0MDU=,0,Converting circular structure to JSON
+615,MDU6SXNzdWUxOTc1MTMzOTg=,0,Change the browser support logo links in Readme file
+684,MDU6SXNzdWUyMDU0MDQzODQ=,0,how can i use headers
+711,MDU6SXNzdWUyMDg1NjkyMzE=,0,Data does not send/POST request
+808,MDU6SXNzdWUyMTg1NDE2NTQ=,0,test
+821,MDU6SXNzdWUyMjAxMDM4MDA=,0,okiio
+843,MDU6SXNzdWUyMjE5NzYyMTI=,0,XMLHttpRequest cannot load error. But the get request return the wanted data with a 200 response code.a
+881,MDU6SXNzdWUyMjU3NDc4NjE=,0,Just typos in DocBlocks
+898,MDU6SXNzdWUyMjg1MDMzNDQ=,0,get
+899,MDU6SXNzdWUyMjg1MDMzNjE=,0,get
+929,MDU6SXNzdWUyMzI1MjcyODQ=,0,closed
+937,MDU6SXNzdWUyMzM0NzIzNjY=,0,"returning a promise out of a ""put"" method will get executed on the fly"
+962,MDU6SXNzdWUyMzY3MDI2MTE=,0,about json deserializing  ISO-8601 date as a string not a date object
+967,MDU6SXNzdWUyMzcyMDE0OTY=,0,How to Set Hostname on Node Server-Side-Rendering
+1002,MDU6SXNzdWUyNDM3MzM0Nzg=,0,GET request to server.js from Redux Action
+1020,MDU6SXNzdWUyNDU5MjAzNTc=,0,About axios request With the character
+1051,MDU6SXNzdWUyNTE0MTg0MDM=,0,b
+1100,MDU6SXNzdWUyNjAxMTM2NTU=,0,redux-saga-requests - Axios and Redux Saga
+1113,MDU6SXNzdWUyNjI5MTgyOTE=,0,Interrupted chunked transfer is not correctly handled in ReactNative.
+1124,MDU6SXNzdWUyNjQ0OTg3MTM=,0,Emit an event before promise is resolved/rejected
+1157,MDU6SXNzdWUyNzA1ODQ2Mjk=,0,console.log(234)
+1205,MDU6SXNzdWUyNzczODc2NTg=,0,Support header with USER-AGENT property
+1213,MDU6SXNzdWUyNzg1ODE5Njg=,0,Axios not sending header on patch but does on get-requests
+1230,MDU6SXNzdWUyODA2NjkxMjk=,0,A
+1241,MDU6SXNzdWUyODIzMTk4MDU=,0,an error 
+1265,MDU6SXNzdWUyODU0NDExOTc=,0,String is mixed with json for response. [Not sure whether it is an issue or my fault]
+1268,MDU6SXNzdWUyODYyMTY5NjY=,0,AWS S3 signedUrl response headers not compatible - 307 Temporary Redirect 
+1289,MDU6SXNzdWUyODgzMjcwMjc=,0,Racing Car Example doesn't work
+1292,MDU6SXNzdWUyODg0MjQwNDQ=,0,Support header composition
+1400,MDU6SXNzdWUzMDMyNjk2MTE=,0,   lkjh gfvd c
+1406,MDU6SXNzdWUzMDQwNzY5NzU=,0,s
+1416,MDU6SXNzdWUzMDU0MDk4OTU=,0,"validateStatus is not being honored, even the default"
+1424,MDU6SXNzdWUzMDU3OTc3OTY=,0,Request data stream errors are not captured with node.js
+1447,MDU6SXNzdWUzMTA1MjQwNjk=,0,Axios return json data with status code in once string
+1451,MDU6SXNzdWUzMTEyNDk3NTY=,0,Some confusion in README: Config order of precedence
+1459,MDU6SXNzdWUzMTIxNjk1Mjk=,0,Enable greenkeeper to keep dependencies up to date
+1462,MDU6SXNzdWUzMTIyMjIzMzU=,0,x
+1483,MDU6SXNzdWUzMTQzMDY5NTc=,0,"Url encoding of backtick (""`"") character in query strings"

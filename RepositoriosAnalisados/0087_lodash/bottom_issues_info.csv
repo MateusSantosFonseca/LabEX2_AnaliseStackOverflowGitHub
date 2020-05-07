@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+2911,MDU6SXNzdWUxOTgwNTIyNTE=,0,This package has over 30k dependants.
+4420,MDU6SXNzdWU0ODE5MzM2MDk=,0,Wildcard iterator
+4474,MDU6SXNzdWU0OTU5NTg0Njc=,0,Creating npm release package
+4481,MDU6SXNzdWU0OTgyNTM1OTE=,0,Cannot convert object to primitive value
+4532,MDU6SXNzdWU1MTY1MzAzNjQ=,0,"after 5.0 road map, what is the alternative of curry partial partialRight?"
+4533,MDU6SXNzdWU1MTY2NzY4OTI=,0,Typescript: filter functions do not infer type.
+4548,MDU6SXNzdWU1MjM5MDM1MzY=,0,Map a collection over a collection of functions
+4570,MDU6SXNzdWU1MzE4NDgxNzQ=,0,"Behaviour of _.isEmpty, _.size with ArrayBuffer and SharedArrayBuffer"
+4591,MDU6SXNzdWU1Mzc0MDQ0NTM=,0,Add the `splitBy` function for arrays
+4602,MDU6SXNzdWU1NDQyNDY5NjI=,0,Ensure in endsWith.js that position parameter will be a number value even if it is input as null
+4603,MDU6SXNzdWU1NDQyNTIzOTI=,0,Support for locales in case changing functions
+4607,MDU6SXNzdWU1NDUzMzg1MjU=,0,Non coercible objects
+4611,MDU6SXNzdWU1NDU0MjU1MjQ=,0,Add an _.assignOnly method [Feature request][Code proposal]
+4631,MDU6SXNzdWU1NTIxMjk2NzE=,0,Importing multiple methods from lodash-es in the same file
+4637,MDU6SXNzdWU1NTQ1ODM4OTI=,0,Iteration in _.every doesn't stopped once predicate returns falsey
+4643,MDU6SXNzdWU1NjE1MzE4MTM=,0,Proposal: construct
+4644,MDU6SXNzdWU1NjE4NTM3NDU=,0,Return type of isMatchWithCustomizer
+4645,MDU6SXNzdWU1NjI2NjAwOTE=,0,isEqual doesn't account for `regex.lastIndex`
+4646,MDU6SXNzdWU1NjI3MjU1Nzg=,0,_.clone doesn't support BigInt typed arrays
+4674,MDU6SXNzdWU1NzA1MDYwNTY=,0,Why is orderBy number ordering not working correctly?
+4675,MDU6SXNzdWU1NzA2MzEyOTE=,0,[Info] OpenJS Conference & Collab Summit FYIs for Project Communities
+4682,MDU6SXNzdWU1NzMzMTAzODk=,0,Relate _.every and _.some functions in docs
+4692,MDU6SXNzdWU1Nzk5NTI0NDA=,0,Number of arguments to iteratee of fp/reduce not limited to 2
+4693,MDU6SXNzdWU1ODEyMTgzODY=,0,_.result is not return right value(bug in lodash/core )
+4699,MDU6SXNzdWU1ODM4MjkwNzU=,0,Please document that `.get`'s `object` argument can be undefined or null
+4706,MDU6SXNzdWU1ODkzODcwMjA=,0,"Do not create new position using lodash set, when the value does not exist"
+4709,MDU6SXNzdWU1OTAzMjkzMDE=,0,Unable to build a CSP compliant version of isEqual
+4711,MDU6SXNzdWU1OTI2MTc3Mzc=,0,Math method to find both min and max values of array in one pass
+4720,MDU6SXNzdWU1OTc2MTcwOTY=,0,Update docs for `_.intersectionWith` comparator to avoid confusion regarding comparator argments
+4722,MDU6SXNzdWU1OTk0MzgxMDA=,0,_.conforms: cannot validate missing properties
+4723,MDU6SXNzdWU1OTk5MzM5Mzg=,0,Array swap function proposal
+4726,MDU6SXNzdWU2MDE5MjY0MjU=,0,Incorrect kebabcase transformation 
+4727,MDU6SXNzdWU2MDIwMzkzMjM=,0,Push to Path
+4730,MDU6SXNzdWU2MDQxNDgzNzM=,0,Range includes the `end` for some values
+4735,MDU6SXNzdWU2MDYxODc2NDk=,0,why use while ?
+4738,MDU6SXNzdWU2MDcxNjAxMzQ=,0,Prototype Pollution Vulneravility (by Sonatype CLM)
+4746,MDU6SXNzdWU2MDk1NzQ1NTI=,0,omit doesnt work with object that come from mongoose library.
+4747,MDU6SXNzdWU2MTA2ODkzNDc=,0,Examples with indices should not use integers are data
+4748,MDU6SXNzdWU2MTA2OTg4NzI=,0,Naming of 'Last' vs 'Right'
+4755,MDU6SXNzdWU2MTMyNzM5Nzc=,0,cloneDeep does not clone correctly arrays of objects
+69,MDU6SXNzdWU2NzI3NTE5,1,_.merge doesn't always work properly when trying to merge more than two objects
+161,MDU6SXNzdWUxMDAyOTA0NQ==,1,Add source map build option
+225,MDU6SXNzdWUxMjYzMTQ3Mw==,1,Add `_.unzip` as the inverse of `_.zip`
+238,MDU6SXNzdWUxMzEyNTU0OA==,1,mkdirpSync errors with windows absolute path
+255,MDU6SXNzdWUxMzY5NjY3Mw==,1,Make `minify.js` send a UA header to prevent GitHub API errors
+258,MDU6SXNzdWUxMzg4ODE1OA==,1,Question about intersection
+273,MDU6SXNzdWUxNDQ3NDY0MQ==,1,--stdout still writes file to filesystem
+436,MDU6SXNzdWUyNDY2NDk5Ng==,1,Add a type method
+492,MDU6SXNzdWUyODYxODgzOQ==,1,uniqueId method
+530,MDU6SXNzdWUzMTg5ODUzNA==,1,Each with counter/index

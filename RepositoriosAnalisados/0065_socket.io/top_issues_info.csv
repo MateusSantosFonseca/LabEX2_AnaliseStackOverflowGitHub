@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+438,MDU6SXNzdWUxMzIxOTc4,299,"High rate of ""client not handshaken should reconnect"""
+434,MDU6SXNzdWUxMzA5Mzk0,129,Add wildcard support for events
+1942,MDU6SXNzdWU1NDI5NzE3OQ==,124,Error during WebSocket handshake: Unexpected response code: 400
+777,MDU6SXNzdWUzNDg3NDgy,73,unexplained disconnect 'transport end' after upgrading
+1846,MDU6SXNzdWU0NzIyMjg1NQ==,66,AWS EC2 Behind ELB Always Prints Error Unexpected response code: 400
+429,MDU6SXNzdWUxMzAxMTA0,63,hybi10 incompatibility
+635,MDU6SXNzdWUyMjA3MjMz,58,client-side disconnect is not detected
+430,MDU6SXNzdWUxMzAxMTc5,54,Multiple sockets open after reconnect
+1015,MDU6SXNzdWU2NjM2MjQ5,53,memory leak
+463,MDU6SXNzdWUxNDAzNTY3,53,Count of connected clients/sockets
+3259,MDU6SXNzdWUzMjY3NDkyMjE=,51,JS exceptions thrown while just idling (WebSocket is already in CLOSING or CLOSED state.)
+351,MDU6SXNzdWUxMTc5ODQ5,49,Socket.IO and Windows Chrome Stuck
+3054,MDU6SXNzdWUyNTc2NzUwMzc=,48,Setting a timer for a long period of time warning
+991,MDU6SXNzdWU2MTc4NzE4,44,why does socket.io uses websocket connection and xhr polling parallel?
+3025,MDU6SXNzdWUyNDc2MDIyMzg=,43,Continual transport close on client
+301,MDU6SXNzdWUxMTMyMTE3,47,"0.7 doesn't work on Dotcloud, but 0.6.18 does."
+1590,MDU6SXNzdWUzNDk2NjMyMg==,42,socket.io 1.0 with titanium (appcelerator)
+474,MDU6SXNzdWUxNDY0NzI2,41,Double connect
+2769,MDU6SXNzdWUxOTE5NDc2NDY=,40,Socket.io disconnect with ping timeout randomly
+2228,MDU6SXNzdWUxMDU0OTIzNDA=,40,Node v4.0.0 - Build failing
+609,MDU6SXNzdWUyMTA3NjA0,40,Cannot call method 'writeHead' of undefined
+1503,MDU6SXNzdWUzMjA2MjU2Nw==,38,"1.0.0-pre ""Session ID unknown"""
+1148,MDU6SXNzdWUxMDQzNjgxMw==,38,Add support for the per-frame DEFLATE extension
+2870,MDU6SXNzdWUyMDkwMjQ0NjU=,37,http://socket.io website is down
+2016,MDU6SXNzdWU1ODQyODI0MQ==,37,"In Firefox, connection ....  was interrupted while the page was loading"
+2541,MDU6SXNzdWUxNTM3NDI0ODY=,36,socket.io website is down.
+193,MDU6SXNzdWU4MDQ3Nzg=,36,Safari (Mac Only) crashes when using websocket
+3381,MDU6SXNzdWUzODU4NjMzNjE=,35,CORS Errors after updating to 2.2.0
+461,MDU6SXNzdWUxMzk2NDQ0,35,xhr.abort on disconnect not sending connection close to server on beforeunload event
+1910,MDU6SXNzdWU1MTg4ODg2Mg==,34,Sockets stay / remain established / connected on operation system but disconnected in socket.io 
+1696,MDU6SXNzdWUzODk0MzEyNA==,34,Apache 2.4 ProxyPass Configuration
+1577,MDU6SXNzdWUzNDc0NjY2Mg==,34,"Client handshake returns error message ""Transport unknown"""
+406,MDU6SXNzdWUxMjcwNzAy,34,Check for connection:close
+976,MDU6SXNzdWU1OTUwMjA4,33,socket.io crashes Mobile Safari on iOS
+798,MDU6SXNzdWUzNzIwNDA1,33,WebSocket is closed before the connection is established.
+2476,MDU6SXNzdWUxMzk0NDc1ODU=,32,The right way for a client to reconnect after the server does a socket.disconnect( true )
+1665,MDU6SXNzdWUzNzE3NjgzMA==,32,RangeError: Maximum call stack size exceeded
+2056,MDU6SXNzdWU2MjM1MzQxMQ==,31,Can't install on Windows with Node 0.12
+1542,MDU6SXNzdWUzNDUxMzQ5Mg==,31,io configure - socket io v1.X
+2213,MDU6SXNzdWUxMDE3MjI5Mzk=,30,Error on installing socket.io - iojs 3.0.0
+511,MDU6SXNzdWUxNTkxMDU5,30,Support Hybi10 binaryType
+1238,MDU6SXNzdWUxNDUxMjA3MQ==,30,any news about version 1.0?
+602,MDU6SXNzdWUyMDc3Njc4,29,this.req.headers.upgrade is undefined when trying to call toLowerCase()
+291,MDU6SXNzdWUxMTE0NTIz,29,broadcast doesn't work in namespace
+997,MDU6SXNzdWU2Mjg2NzQ3,28,Duplicate events
+3006,MDU6SXNzdWUyNDIzNjAxNDU=,27,Will the computer demo (socket.computer) ever be fixed?
+652,MDU6SXNzdWUyMjg5OTEx,27,reconnect_failed gets never fired
+377,MDU6SXNzdWUxMjE0ODUy,27,socket.io does not work on Firefox 6 beta
+2333,MDU6SXNzdWUxMjAzODYwOTE=,26,Question: What could be the possible reasons for socket-io server returning 400 Bad Request via nginx?
+2109,MDU6SXNzdWU3MjY4MjU4NQ==,26,Error when building for WebPack

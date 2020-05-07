@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+22,MDU6SXNzdWUzNzkxNTk2Mg==,0,No errors reported for unclosed multiline comments.
+41,MDU6SXNzdWUzODExODkwNg==,0,[Emit] Module name not underscored when conflicts with parameter name
+42,MDU6SXNzdWUzODExOTAwNw==,0,[Emit] clodule with recursive reference
+44,MDU6SXNzdWUzODExOTAzMg==,0,"[Emit] ""use strict"" emitted after __extends instead of before"
+63,MDU6SXNzdWUzODExOTIyNA==,0,[Errors] top level identifier named require or exports
+64,MDU6SXNzdWUzODExOTIyNg==,0,[Errors] _this in reserved positions
+69,MDU6SXNzdWUzODExOTMwNw==,0,[Errors] exported var of private type
+73,MDU6SXNzdWUzODExOTMyMA==,0,[Errors] No error trying to import shadowed internal module
+75,MDU6SXNzdWUzODExOTMyNQ==,0,[Errors] function overload with statements before its implementation
+78,MDU6SXNzdWUzODExOTMzNg==,0,[Error] No error for exported class extending unexported class
+83,MDU6SXNzdWUzODExOTM1Mg==,0,[Error] No error for exported interface extending unexported interface
+86,MDU6SXNzdWUzODExOTM2MA==,0,[Error] Type parameter of accessible thing exposes inaccessible type
+88,MDU6SXNzdWUzODExOTM2Nw==,0,[Error] Contextual signature instantiation missing
+91,MDU6SXNzdWUzODExOTM3Nw==,0,[Errors] functions that differ on export modifier
+94,MDU6SXNzdWUzODExOTM4NQ==,0,[Errors] Errors use aliased type name instead of the alias name
+104,MDU6SXNzdWUzODExOTQ3MA==,0,[Errors] error recovery after return statements in invalid positions
+106,MDU6SXNzdWUzODExOTQ3Ng==,0,[Errors] error recovery with lambda with incomplete parameter type annotation
+107,MDU6SXNzdWUzODExOTQ3OQ==,0,Remove colons from chained error messages
+129,MDU6SXNzdWUzODExOTU3MQ==,0,[Errors] strict mode issues
+131,MDU6SXNzdWUzODExOTU3Nw==,0,"Linemaps need to handle all sorts of Js new lines, current implementation only parses \r and \n"
+139,MDU6SXNzdWUzODEzOTExNw==,0,Better error messages for ambient accessors.
+143,MDU6SXNzdWUzODE0MTg4Ng==,0,"""use strict"" should always be emitted first in functions"
+144,MDU6SXNzdWUzODE0NDM0Ng==,0,Do not emit rest parameter name in constructors
+148,MDU6SXNzdWUzODIxODcwNQ==,0,Automatic semicolon insertion now works in type literals
+149,MDU6SXNzdWUzODIxODg0MA==,0,Object literal getters in class bodies may no longer use the 'super' keyword
+150,MDU6SXNzdWUzODIxODkyMw==,0,Enums starting with a negative number now correctly autonumber
+151,MDU6SXNzdWUzODIxOTQ0NA==,0,Enum values are now assignable to Object
+152,MDU6SXNzdWUzODIxOTU4NA==,0,External module imports are no longer always valid import alias sources
+154,MDU6SXNzdWUzODIyMDEyNg==,0,Wrong error for for..in statement
+164,MDU6SXNzdWUzODMyMzc2NA==,0,No error for a modifier on an export assignment
+200,MDU6SXNzdWUzODQ1OTAyNw==,0,Automatic semicolon insertion doesn't work for break/continue at end of file
+216,MDU6SXNzdWUzODU2OTc5Nw==,0,Better error message for 'catch' block missing 'try'.
+269,MDU6SXNzdWUzODg0Njg2MQ==,0,Support --help in the new compiler
+329,MDU6SXNzdWUzOTI5MzY0MQ==,0,_this generated on wrong line for base constructors
+366,MDU6SXNzdWUzOTU3NjUxOA==,0,'--watch' flag seems to have a leak
+374,MDU6SXNzdWUzOTY0NDA5Mw==,0,Specialized string overload from derived interface not selected
+379,MDU6SXNzdWUzOTY3MDI4Nw==,0,Update targets to use --charset instead of --codepage
+380,MDU6SXNzdWUzOTY3MDMxOQ==,0,Update targets to use --emitBOM
+399,MDU6SXNzdWUzOTc3MjYxNw==,0,The grammar prohibits optional parameters with a string literal type
+402,MDU6SXNzdWUzOTc4MzA3Mw==,0,Spec doesn't mention variables witnessing themselves through type annotations
+404,MDU6SXNzdWUzOTc4Mzk0NA==,0,Best common type should pick the first type that is a supertype of all the others
+476,MDU6SXNzdWU0MDUzNDExNg==,0,No noImplicitAny error for self referencing values
+480,MDU6SXNzdWU0MDY0MDkzMg==,0,Declaration file for the method overload is not emitted correctly
+500,MDU6SXNzdWU0MDgzNzcyNA==,0,Copyrights for 2nd file onwards are not emitted on the new line if multiple files are emitted into single file
+501,MDU6SXNzdWU0MDgzOTAzNA==,0,/// or pinned comments(starting with /*!) support
+503,MDU6SXNzdWU0MDg0MTA2NQ==,0,Not emitting leading comments of '}' of function declaration
+511,MDU6SXNzdWU0MDg2ODQ4NQ==,0,Allow arbitrary expressions in 'extends' clauses
+526,MDU6SXNzdWU0MTIxMTIzOQ==,0,[typeBaselines] Inferential typing types context sensitive function using any when type parameter is not a function type
+532,MDU6SXNzdWU0MTIyMDIxNg==,0,Filter getCompletions results based on location
+537,MDU6SXNzdWU0MTIyMTg1MA==,0,Update spec for scoping of interface member names

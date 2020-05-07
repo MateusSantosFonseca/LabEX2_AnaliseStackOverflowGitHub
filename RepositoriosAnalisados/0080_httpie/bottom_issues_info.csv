@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+1,MDU6SXNzdWUzNDE1NTE3,0,ImportError: No module named pygments
+7,MDU6SXNzdWUzNDI4ODM1,0,Missing dependency argparse
+30,MDU6SXNzdWUzNjQwNzIx,0,Multi-part request's body not included when printed.
+31,MDU6SXNzdWUzNjU5NTAy,0,Python 3 & non-ascii arguments => UnicodeEncodeError
+42,MDU6SXNzdWU0MDc5NTEy,0,UnicodeEncodeError when piping Unicode output
+53,MDU6SXNzdWU1MDUwMzcz,0,--verbose --form error
+54,MDU6SXNzdWU1MTA1NTkz,0,Method suggestion proposal
+60,MDU6SXNzdWU1Mzk3NjMx,0,Header names and values should have different colors
+71,MDU6SXNzdWU1NjU0NjE1,0,Unicode problems in terminal under Windows
+81,MDU6SXNzdWU1OTQzMjgw,0,Prettify for text/json as well as application/json
+87,MDU6SXNzdWU2MjcyMzcx,0,Colors broken on Windows with Python 3 
+94,MDU6SXNzdWU3Mjg0NDkz,0,Add -4 and -6 switches to force IP protocol version
+95,MDU6SXNzdWU3NDE2ODI5,0,Resume partial download a la `wget -c`
+104,MDU6SXNzdWU4MjYxODgx,0,--download mode
+113,MDU6SXNzdWU5MzM4MzI2,0,Requests v1.0 compatibility
+119,MDU6SXNzdWU5Njg2MjAz,0,UnicodeDecodeError on localized error messages in Windows
+133,MDU6SXNzdWUxMTc1NzYyOQ==,0,Chunked responses seem to be buffered
+140,MDU6SXNzdWUxMzEzMzE0OQ==,0,Python 3.x header name encoding issue
+169,MDU6SXNzdWUyMDcxODUyMA==,0,Auth in URL reports incorrect Host header.
+206,MDU6SXNzdWUyOTMyNDg1Mg==,0,Support JSON-LD responses
+237,MDU6SXNzdWUzNjcyNjUwOA==,0,"Fix occasional ""KeyError: Authorization"" in session tests on Python 3.4"
+239,MDU6SXNzdWUzNzc3MTc4Mg==,0,Improve CLI usability
+252,MDU6SXNzdWU0MTg5OTM4MA==,0,--output /dev/null does not work
+259,MDU6SXNzdWU0MzM0MTY1Nw==,0,--ignore-stdout
+311,MDU6SXNzdWU1NzQ2NjIwNw==,0,Document / improve URL encoding
+329,MDU6SXNzdWU2NDAyNjg4MQ==,0,More curl like verbosity
+336,MDU6SXNzdWU2Nzc5OTE4NQ==,0,Using --json with redirected input raises TypeError
+355,MDU6SXNzdWU3NTY3MjIwNg==,0,Support field names starting with dash: -fieldname=value
+369,MDU6SXNzdWU5Njc3MzQxMQ==,0,Is there a plugin hook for triggering action upon receiving specific header?
+448,MDU6SXNzdWUxMzk0NzEyOTQ=,0,Development docs shown on the GitHub repo confuse users
+472,MDU6SXNzdWUxNTY2OTc2NjA=,0,How to post multiple key:value like curl ?
+485,MDU6SXNzdWUxNjI4NTI0NTc=,0,Response JSON is not pretty-formated when using `--pretty=all` flag
+507,MDU6SXNzdWUxNzE3MzkwODI=,0,Feature request: support trust on first use (TOFU)
+509,MDU6SXNzdWUxNzIwNTY1ODA=,0,Allow user override response header to parse response body?
+523,MDU6SXNzdWUxNzk5Njc1MzI=,0,enable quic protocol
+526,MDU6SXNzdWUxODE5NDU4NTU=,0,always REQUEST_ITEM error
+528,MDU6SXNzdWUxODI5NDAwMzc=,0,IGNORE
+578,MDU6SXNzdWUyMjQ2NzAyMjI=,0,url with gbk encode report UnicodeDecodeError
+579,MDU6SXNzdWUyMjQ4NjQwMTU=,0,httpie - support for manipulating hostheaders?
+590,MDU6SXNzdWUyMzk1NzgzMzA=,0,gitter link doesn't work
+592,MDU6SXNzdWUyNDE1MzE0MDA=,0,Why the Cookie header is removed when follow redirects?
+608,MDU6SXNzdWUyNTY0NTM4NDU=,0,Feature request: Include the https alias in the default distribution
+622,MDU6SXNzdWUyNjU0OTU4ODQ=,0,"""!!"" in a parameter value does wierd things..."
+662,MDU6SXNzdWUzMDUxODQ2MDA=,0,Cookie overriding doesn't work
+668,MDU6SXNzdWUzMTA3MDc5OTg=,0,No way to set content type of each param in multipart
+676,MDU6SXNzdWUzMTkyMzc3NDU=,0,Feature request: support more proxy related environmental variables
+684,MDU6SXNzdWUzMzE0NzI2MzM=,0,File upload fails with huge files on MacOS
+687,MDU6SXNzdWUzMzk2MTYwMDI=,0,"Add ""light response header"" to --print options"
+689,MDU6SXNzdWUzNDExNDgxNTU=,0,Don't change output filename from Content-Type or make it optional
+699,MDU6SXNzdWUzNTYzOTQzOTc=,0,Feature Request: more user friendly message for download time elapsed

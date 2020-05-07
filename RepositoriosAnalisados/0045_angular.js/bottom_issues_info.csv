@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+38,MDU6SXNzdWUzNDg1Mzc=,0,XHR cache doesn't release callbacks for inflight requests if response !== 200
+115,MDU6SXNzdWUzOTQyNzA=,0,Angular should not interfere with click events when modify keys are used on anchors
+146,MDU6SXNzdWU0MjEzOTU=,0,do not change the URL if only the encoding changed
+168,MDU6SXNzdWU0MzgwMTE=,0,Turn angular.scope.$id $root and $parent into functions or document them as properties
+202,MDU6SXNzdWU0ODkxNDM=,0,Remove the Date conversion magic in fromJson
+207,MDU6SXNzdWU1MDcwNjg=,0,rename $pause -> $sleep and $wait -> $pause
+209,MDU6SXNzdWU1MDgzMzg=,0,security mailing list
+223,MDU6SXNzdWU1MTQ4Nzg=,0,"Make angular ES5 ""strict mode"" compatible"
+237,MDU6SXNzdWU1MzQ3ODc=,0,add input#val()
+334,MDU6SXNzdWU4Mjk3NzU=,0,Better error handling on resource arrays
+338,MDU6SXNzdWU4NDk3MjU=,0,Show error when one tries to compile multiple roots.
+347,MDU6SXNzdWU5NDg1MTQ=,0,Removed error handling from ng:bind
+376,MDU6SXNzdWUxMDE4MzU3,0,Use new input().val() in e2e tests
+392,MDU6SXNzdWUxMDY2ODk2,0,Failing unit test on IE9
+397,MDU6SXNzdWUxMDc1OTM5,0,orderBy doc example should have a better toggle mode
+398,MDU6SXNzdWUxMDc1OTQ1,0,better document the relationship between filters and formatters
+399,MDU6SXNzdWUxMDc2MDc5,0,$orderBy with no param should preserve original order
+400,MDU6SXNzdWUxMDg3Mjc0,0,Browser sniffer service
+408,MDU6SXNzdWUxMDk0NjE4,0,per request error handling
+410,MDU6SXNzdWUxMDk0NjI0,0,Mock for $resource
+413,MDU6SXNzdWUxMDk0NjU4,0,Control transformation (both directions) of data
+414,MDU6SXNzdWUxMDk0NjY3,0,a way to abort outstanding XHR requests
+425,MDU6SXNzdWUxMDk1MDYz,0,Inject scope into controllers
+427,MDU6SXNzdWUxMDk1MDY4,0,Remove `this` binding from services
+448,MDU6SXNzdWUxMTcxNjIx,0,"RFE: Allow ng:options to accept {k1:v1, k2:v2} source"
+508,MDU6SXNzdWUxMzYyMTg2,0,ng:class conflicts with ng:class-odd / ng:class-even
+562,MDU6SXNzdWUxNjc0NDc4,0,"ng:options - ""not selected"" option tag not compiled"
+569,MDU6SXNzdWUxNzQ5MzEx,0,ng:style doesn't support properties with a dash - firefox
+571,MDU6SXNzdWUxNzU3MTE2,0,angular.Array.limitTo populates result with nulls if supplied limit exceeds input array's length
+584,MDU6SXNzdWUxODQwMjM5,0,make all widgets stylable in IE<9
+619,MDU6SXNzdWUyMDQwMDk0,0,ng:view should ignore/abort pending template requests if route changes
+621,MDU6SXNzdWUyMDQwMzE5,0,don't use the name of the angular script to look for ng:autobind
+693,MDU6SXNzdWUyNTk2MjM2,0,Angular.copy does not check if source & desination are equivalent
+731,MDU6SXNzdWUyOTQ4MTg1,0,remove $unboundFn by improving lexer/parser
+749,MDU6SXNzdWUzMjYxNzY2,0,$http.post shouldn't set a content-type for requests without a body
+782,MDU6SXNzdWUzNTk4Nzkw,0,$resource should handle multiple params with same name
+805,MDU6SXNzdWUzNzA2MDQz,0,1.0RC1: $log.error.apply() resulting in error on IE
+806,MDU6SXNzdWUzNzA5NTUw,0,Scenario Runner not working on IE8
+813,MDU6SXNzdWUzNzU0NTE5,0,Angular 1.0.0 versions fail on any object prototype changes
+816,MDU6SXNzdWUzNzU1NjEx,0,Make ng-value evaluated rather than interpolated
+843,MDU6SXNzdWUzOTE3MTQ3,0,test/ngScenario/e2e/widgets-scenario.js fails on master
+876,MDU6SXNzdWU0MDg5Njk4,0,controller instantiated twice (with templateUrl)
+910,MDU6SXNzdWU0MzExNjM3,0,scope.template invalid template error
+912,MDU6SXNzdWU0MzE3NTU1,0,$position in repeat directive can't be both first and last at the same time
+917,MDU6SXNzdWU0MzMzMzUy,0,Inlined style warning in CSP mode
+926,MDU6SXNzdWU0Mzc5MDYz,0,ng-app breaks pre-selected SELECT tags
+967,MDU6SXNzdWU0NjMzNTY4,0,Documentation bug: no results when you type $q in the filter
+985,MDU6SXNzdWU0NzQzMzM3,0,Prevent multiple instances of the compiler compiling the same DOM.
+988,MDU6SXNzdWU0NzQ5MDI3,0,{{'string' + undefinedModel}} results in 'string0'
+995,MDU6SXNzdWU0Nzg4Mzkw,0,More options to input[number]

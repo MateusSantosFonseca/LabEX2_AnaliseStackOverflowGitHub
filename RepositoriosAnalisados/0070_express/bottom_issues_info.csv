@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+1,MDU6SXNzdWUzMjY3NA==,0,Jack integration
+2,MDU6SXNzdWUzMjY3NQ==,0,View support
+3,MDU6SXNzdWUzMjY3Ng==,0,View support
+4,MDU6SXNzdWUzMjY3Nw==,0,Run specs with node
+5,MDU6SXNzdWUzMjY4Nw==,0,Mock request / response objects
+6,MDU6SXNzdWUzMjY5NQ==,0,Faux method
+7,MDU6SXNzdWUzMjgwNw==,0,Fix redirect()
+8,MDU6SXNzdWUzMjgwOA==,0,Redirect(home)
+9,MDU6SXNzdWUzMjgwOQ==,0,Redirect(back)
+10,MDU6SXNzdWUzMzM1NA==,0,Add iterators
+11,MDU6SXNzdWUzMzM1NQ==,0,Break -> Halt ? 
+12,MDU6SXNzdWUzMzM1OA==,0,Modules not middleware
+13,MDU6SXNzdWUzMzgzNQ==,0,Add extname from mime()
+14,MDU6SXNzdWUzMzg0Ng==,0,Exception styling
+15,MDU6SXNzdWUzMzg0Nw==,0,fail with text/plain
+16,MDU6SXNzdWUzMzg1MA==,0,Session support
+17,MDU6SXNzdWUzMzg1MQ==,0,Static file serving
+18,MDU6SXNzdWUzMzg1Mg==,0,Quick response callbacks
+20,MDU6SXNzdWUzNDE3Mw==,0,add more hooks
+21,MDU6SXNzdWUzNDE4MQ==,0,Route preconditions
+22,MDU6SXNzdWUzNDE4Ng==,0,Route overriding
+23,MDU6SXNzdWUzNDIzMQ==,0,Cookie support
+24,MDU6SXNzdWUzNDI1NQ==,0,Pass request / response to onRequest etc
+25,MDU6SXNzdWUzNDI3Ng==,0,Support multiple args for hookImmutable()
+26,MDU6SXNzdWUzNDI4OQ==,0,Mock requests should support overriding requests and responses
+27,MDU6SXNzdWUzNDM5NQ==,0,Benchmarks
+28,MDU6SXNzdWUzNDY2Mg==,0,Module init args
+29,MDU6SXNzdWUzNDY3Mg==,0,Allow response bodies responding to toString()
+30,MDU6SXNzdWUzNDY3OQ==,0,Node.js POST issue
+31,MDU6SXNzdWUzNDcyMw==,0,Add more body parsing modules
+32,MDU6SXNzdWUzNTAxOA==,0,Pass captures
+33,MDU6SXNzdWUzNTA1Mg==,0,decodeURIComponent 
+35,MDU6SXNzdWUzNjA3OQ==,0,Module dependencies
+36,MDU6SXNzdWUzNjA5Mg==,0,header() with one arg should be requestHeader()
+38,MDU6SXNzdWU0MDA2Nw==,0,Content Type based on PATH_INFO
+39,MDU6SXNzdWU1MzE3Nw==,0,Untitled
+40,MDU6SXNzdWU1MzE3OA==,0,Utilize getters / setters and other V8 features
+41,MDU6SXNzdWU4OTg2MA==,0,Output errors when error() handler is not defined
+42,MDU6SXNzdWU4OTg2MQ==,0,Environment mode support
+43,MDU6SXNzdWU5MTIzNw==,0,Remove route eval()
+44,MDU6SXNzdWU5NTU2NQ==,0,Speed up CommonLogger
+45,MDU6SXNzdWU5NTU2OQ==,0,Plugin options
+48,MDU6SXNzdWU5NTU4Nw==,0,/user/1/foo should not match /user/:id?
+50,MDU6SXNzdWU5NTYwMA==,0,View caching mechanism
+53,MDU6SXNzdWU5NTYyNA==,0,Re-write mustache.js
+54,MDU6SXNzdWU5NTYzMg==,0,Add before / after hooks
+57,MDU6SXNzdWU5NTY1Ng==,0,Add Sass support
+58,MDU6SXNzdWU5NTY1Nw==,0,Add redirect() helper
+61,MDU6SXNzdWU5NTY2MA==,0,Add date formatting utilities
+62,MDU6SXNzdWU5NTY2Mw==,0,set environment based on ENV

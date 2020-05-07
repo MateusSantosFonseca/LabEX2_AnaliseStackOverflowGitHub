@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+167,MDU6SXNzdWU5Mzk4MTgxNg==,13,Lines are too freaking long!
+82,MDU6SXNzdWU4OTYxMDY4Nw==,12,Chinese translation and maintainer
+103,MDU6SXNzdWU5MDAyNzc4Mg==,10,Russian translation and maintainer
+349,MDU6SXNzdWUxMjcxNzc1MTU=,9,Traditional Chinese translation
+121,MDU6SXNzdWU5MDczOTUzMg==,8,Spanish translation and maintainer
+448,MDU6SXNzdWUxNzI0ODU4Mjc=,7,Coverage of PowerShell?
+165,MDU6SXNzdWU5Mzc4NTQ1NQ==,7,What about windows users?
+124,MDU6SXNzdWU5MDg2NDM0MQ==,7,Remove Vi/Vim bias.
+576,MDU6SXNzdWUzNjYyMTQ3OTM=,6,Trying to understand why shell behaves the way it is behaving
+509,MDU6SXNzdWUyMjE2ODk0NjM=,6,A few more one-liners
+342,MDU6SXNzdWUxMjU5MTk0Nzg=,6,ar: Trouble with arabic fork
+22,MDU6SXNzdWU4ODYxMTgzNQ==,6,Is LC_ALL=C really sound advice?
+337,MDU6SXNzdWUxMjUzNDY1OTk=,5,same content different effect with markdown
+226,MDU6SXNzdWU5NjkwNjIzMA==,5,es: Verify the meaning of the source and check translation
+147,MDU6SXNzdWU5MjEwODI1NA==,5,tail -f -F as a must.
+130,MDU6SXNzdWU5MTMzOTcwNw==,5,Portuguese translation and maintainer
+126,MDU6SXNzdWU5MDk0Mzk1Nw==,5,zh: Proper spacing between English and Chinese words
+99,MDU6SXNzdWU4OTkzMzk5NQ==,5,French translation and maintainer
+75,MDU6SXNzdWU4OTMxODU4Mg==,5,"Remove fortune, ddate, and sl"
+26,MDU6SXNzdWU4ODY0NDMzMw==,5,"Change ""du -sk"" to ""du -sh"", better for humans"
+522,MDU6SXNzdWUyNDU4NjkzOTM=,4,Farsi Translation 
+485,MDU6SXNzdWUxOTgyOTA4ODI=,4,"Grep alternatives: Better overview/links on ag, rg, etc."
+424,MDU6SXNzdWUxNjM1MjExNDA=,4,"Security of ""ControlPath /tmp/%r@%h:%p"""
+417,MDU6SXNzdWUxNTg5OTE3NzE=,4,Consider adding xz
+399,MDU6SXNzdWUxNDIwOTQ1Nzk=,4,wrk vs. ab (web server benchmarking)
+296,MDU6SXNzdWUxMTIwNTk3MDY=,4,The version of teh rename command mentioned here isn't used on all distributions
+274,MDU6SXNzdWUxMDExMzU3OTk=,4,csvtool
+211,MDU6SXNzdWU5NTM4Njg3OQ==,4,Keyboard shortcut for pasting into a terminal
+157,MDU6SXNzdWU5Mjk4MzA1MQ==,4,Consider adding tofrodos and/or dos2unix
+96,MDU6SXNzdWU4OTkyNTk2OQ==,4,Consider adding fzf
+79,MDU6SXNzdWU4OTUzMTIzOA==,4,Include information about bashrc
+477,MDU6SXNzdWUxODYyNDAxNjE=,3,Organize the Windows-only section
+421,MDU6SXNzdWUxNjI3MTcyMzU=,3,OS X: trash command
+419,MDU6SXNzdWUxNjEzMTg0NDQ=,3,Consider adding mawk
+351,MDU6SXNzdWUxMjc1Mzk4MjI=,3,fr: Feedback on to translation
+330,MDU6SXNzdWUxMjQ5OTU5NTg=,3,Arabic translation and maintainer
+291,MDU6SXNzdWUxMDk4NDc5MDU=,3,"""grep ."" to inspect a directory"
+244,MDU6SXNzdWU5NzQ3MjM4OA==,3,Consider adding `pipexec`
+224,MDU6SXNzdWU5NjYwNTgxNw==,3,No manual entry for ascii in RedHat 6
+95,MDU6SXNzdWU4OTkyNTg4Mw==,3,Consider adding progress
+66,MDU6SXNzdWU4OTE5Njk2MQ==,3,"Use sed to ""replace all occurrences"""
+15,MDU6SXNzdWU4ODU4NDc3NA==,3,Note on scp and rsync
+14,MDU6SXNzdWU4ODU4Mjc1Nw==,3,key bindings
+6,MDU6SXNzdWU4ODU2MjY0NA==,3,adding glances for system debugging section
+690,MDU6SXNzdWU2MDE5OTgwNzY=,2,zsh is default for macOS
+651,MDU6SXNzdWU1MjE1ODYwMzI=,2,Some markdown bold syntax is incorrectly displayed in README-ko.md
+631,MDU6SXNzdWU0NTY1MTE5NjE=,2,Polish translation
+621,MDU6SXNzdWU0NTE4OTQ3Mzg=,2,
+533,MDU6SXNzdWUyNzQ3OTIyODk=,2,random tip function taocl() also gives an error
+508,MDU6SXNzdWUyMjEwODEwNTM=,2,Variety of suggestions
