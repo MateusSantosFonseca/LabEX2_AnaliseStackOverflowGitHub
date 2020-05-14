@@ -48,4 +48,4 @@ Número da Issue,ID,Quant. comentários,Título
 25,MDU6SXNzdWUxODMzMDAwNTE=,39,Custom server logic / routing
 3131,MDU6SXNzdWUyNjY3NDY4ODc=,38,Working with external css and scss files
 2152,MDU6SXNzdWUyMzMyOTg2OTM=,38,"""Can't set headers after they are sent"" when calling `res.redirect` from `getInitialProps`"
-192,MDU6SXNzdWUxODcxMDgxNjk=,38,Need to manually re-call getInitialProps of sub-components
+1013,MDU6SXNzdWUyMDU1NjUyMzY=,38,Initial page load too slow

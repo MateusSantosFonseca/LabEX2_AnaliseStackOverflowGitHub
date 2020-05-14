@@ -16,9 +16,9 @@ Número da Issue,ID,Quant. comentários,Título
 12936,MDU6SXNzdWUxOTU3MTY3MDI=,153,Exact Types
 8,MDU6SXNzdWUzNzkwMzE0OA==,151,Suggestion: minification
 9448,MDU6SXNzdWUxNjMyMjM4NjQ=,150,Ability to over power TS and ignore specific error by developer
+6606,MDU6SXNzdWUxMjg0ODY4MDg=,150,Proposal: Get the type of any expression with typeof
 6496,MDU6SXNzdWUxMjY4MDA1MjM=,147,Duplicate type declarations with npm link
 3469,MDU6SXNzdWU4NzAzMTg0MQ==,147,"Support ""medium-sized"" projects"
-6606,MDU6SXNzdWUxMjg0ODY4MDg=,146,Proposal: Get the type of any expression with typeof
 5863,MDU6SXNzdWUxMTk4MDAwNDc=,142,"Polymorphic ""this"" for static members"
 2249,MDU6SXNzdWU2MDE4NzYzNQ==,139,Decorators
 247,MDU6SXNzdWUzODczNTIzNQ==,138,Support looking for modules under node_modules when importing

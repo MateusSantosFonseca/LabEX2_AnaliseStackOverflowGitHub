@@ -39,8 +39,7 @@ Número da Issue,ID,Quant. comentários,Título
 4760,MDU6SXNzdWU2MTQzNzcxODI=,0,escapeRegExp. - is also special character. 
 4763,MDU6SXNzdWU2MTUyODI3OTE=,0,The proposal of add '_.until' function
 4766,MDU6SXNzdWU2MTUzMzg3Mzc=,0,Check array and return each value with it's number of existence
-4776,MDU6SXNzdWU2MTc1NDM1MTU=,0,Security issue reported by scanner in 4.17.15
-4777,MDU6SXNzdWU2MTc5OTA1Mzk=,0,Prototype Pollution reported by Veracode
+4778,MDU6SXNzdWU2MTgwNzc1OTc=,0,"try _.multiply(5.1, 100);"
 69,MDU6SXNzdWU2NzI3NTE5,1,_.merge doesn't always work properly when trying to merge more than two objects
 161,MDU6SXNzdWUxMDAyOTA0NQ==,1,Add source map build option
 225,MDU6SXNzdWUxMjYzMTQ3Mw==,1,Add `_.unzip` as the inverse of `_.zip`
@@ -49,3 +48,4 @@ Número da Issue,ID,Quant. comentários,Título
 258,MDU6SXNzdWUxMzg4ODE1OA==,1,Question about intersection
 273,MDU6SXNzdWUxNDQ3NDY0MQ==,1,--stdout still writes file to filesystem
 436,MDU6SXNzdWUyNDY2NDk5Ng==,1,Add a type method
+492,MDU6SXNzdWUyODYxODgzOQ==,1,uniqueId method

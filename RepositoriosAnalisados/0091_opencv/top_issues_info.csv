@@ -28,10 +28,10 @@ Número da Issue,ID,Quant. comentários,Título
 10771,MDU6SXNzdWUyOTQxMzgzNzI=,29,Cannot make install opencv from origin/master on ubuntu 17.10
 7970,MDU6SXNzdWUxOTg5Mzk2MTQ=,29,libopencv_core.so.3.2.0: undefined reference to `dpotrf_'
 5003,MDU6SXNzdWU5NzQ0MjEzNQ==,29,Support for Android Studio
+16433,MDU6SXNzdWU1NTUxMDgwODI=,28,GpuMat as input/output to cv::dnn::Net
 5930,MDU6SXNzdWUxMjUzMjU1Mzk=,28,Building Opencv with ffmpeg built from source gives linking errors
 5546,MDU6SXNzdWUxMTIxMzAyNDg=,28,OpenCV 3.0.0 configure fails - ffmpeg download error
 16475,MDU6SXNzdWU1NTgyODYxMjQ=,27,error when load onnx model
-16433,MDU6SXNzdWU1NTUxMDgwODI=,27,GpuMat as input/output to cv::dnn::Net
 15299,MDU6SXNzdWU0ODA2MzY5NDY=,27,Building OpenCV.js with projectPoints + solvePnP
 9830,MDU6SXNzdWUyNjQ1MDgwNjc=,27,Unknown layer type Cast in op ToFloat in function populateNet
 7652,MDU6SXNzdWUxODg2NTczNTM=,27,Makefile:160: recipe for target 'all' failed make: *** [all] Error 2

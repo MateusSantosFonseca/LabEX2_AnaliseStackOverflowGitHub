@@ -10,7 +10,7 @@ Número da Issue,ID,Quant. comentários,Título
 1120,MDU6SXNzdWUzNzU1OTExMDk=,42,support chome devtools
 4574,MDU6SXNzdWU1OTIyODU3MDQ=,41,"Module versioning, dependency management, and more ..."
 3324,MDU6SXNzdWU1MjE4NDYyMTY=,38,User libraries should be strict by default if written in TypeScript
-471,MDU6SXNzdWUzNDg0MDI0NDQ=,35,Support top-level await
+471,MDU6SXNzdWUzNDg0MDI0NDQ=,36,Support top-level await
 986,MDU6SXNzdWUzNjk4NjIzNDE=,34,"""deno compile"" into executable"
 650,MDU6SXNzdWUzNTYxMjQ4Nzc=,34,"Define the ""self"" global name"
 3196,MDU6SXNzdWU1MTIxNzk0MTc=,33,"As a library author, how do I dual publish to both node and deno?"
@@ -41,9 +41,9 @@ Número da Issue,ID,Quant. comentários,Título
 2767,MDU6SXNzdWU0Nzk4MTk5Mzk=,22,Remove --no-prompt ... require users to explicitly prompt for permission
 2301,MDU6SXNzdWU0NDEwMjE3NTM=,22,an error occurred trying to connect: invalid certificate: UnknownIssuer
 1856,MDU6SXNzdWU0MTU2ODg0NDU=,22,FS glob pattern
+5214,MDU6SXNzdWU2MTU0NjA2MjM=,21,Multiple Versions on a System
 3160,MDU6SXNzdWU1MDk1Mzc4OTg=,21,dialTLS Conn.read() stops resolving after writing to connection from promise resolution
 1486,MDU6SXNzdWUzOTcyNzEzNzc=,21,Install deno with homebrew
-5214,MDU6SXNzdWU2MTU0NjA2MjM=,20,Multiple Versions on a System
 4501,MDU6SXNzdWU1ODkyMDM0MjM=,20,inspector should support source maps
 3635,MDU6SXNzdWU1NDc1ODYwOTU=,20,snapshot testing
 3550,MDU6SXNzdWU1NDIzMzM3MjE=,20,Deno should support gzipped and (or) git repo dependencies fetch

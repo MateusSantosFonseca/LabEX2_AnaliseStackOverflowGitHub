@@ -2,7 +2,7 @@ Número da Issue,ID,Quant. comentários,Título
 1375,MDU6SXNzdWU0NTk0MjEzMTA=,264,"MEGA THREAD: Design is not complete, UI is not polished"
 489,MDU6SXNzdWU0NDExNjEzOTA=,262,Guide for build and installation
 1060,MDU6SXNzdWU0NTAxMTc4OTU=,209,"Add ""open Windows terminal here"" into right-click context menu"
-632,MDU6SXNzdWU0NDIzODM4NzE=,161,[Question] Configuring Windows Terminal profile to always launch elevated
+632,MDU6SXNzdWU0NDIzODM4NzE=,163,[Question] Configuring Windows Terminal profile to always launch elevated
 521,MDU6SXNzdWU0NDEzMTk1MDM=,143,AltGR SEQUENCES DO NOT WORK -- Can't type any AltGr combinations in Windows Terminal
 1386,MDU6SXNzdWU0NTk0NDExMTg=,87,Investigate alternative deployment mechanisms for Windows Terminal
 280,MDU6SXNzdWUzNjkyNjY0Mjk=,84,Windows 10 1809/19H1/20H1 breaks Powershell's console settings. Keeps opening with raster fonts.
@@ -26,12 +26,12 @@ Número da Issue,ID,Quant. comentários,Título
 649,MDU6SXNzdWU0NDI0ODM4MTA=,46,GSync/Freesync refresh rate / FPS drops when using Terminal
 4448,MDU6SXNzdWU1NTkxNDcxMTg=,45,No keyboard input
 217,MDU6SXNzdWUzMzkxMjgzMTI=,44,cmd: add environment variable to disable/enable 'Terminate batch job (Y/N)?' confirmation
+1079,MDU6SXNzdWU0NTA4MzI3MTg=,43,Ability to rename Tab title at runtime
 283,MDU6SXNzdWUzNjk1OTgyNjU=,43,erratic cursor and display in emacs
 2661,MDU6SXNzdWU0ODk0Nzk4NjI=,42,render: defer conversion of TextColor into COLORREF until actual rendering time (avoid ConPTY narrowing bugs)
 1769,MDU6SXNzdWU0NjI5NzAwMDA=,42,bug report srsly
 1564,MDU6SXNzdWU0NjAxMDg4NjI=,42,Feature Request - Implement Settings UI
 1173,MDU6SXNzdWU0NTM3ODcwMzY=,42,ConPTY Passthrough mode 
-1079,MDU6SXNzdWU0NTA4MzI3MTg=,42,Ability to rename Tab title at runtime
 524,MDU6SXNzdWU0NDEzMzE5ODU=,42,Feature: add copy on select (per Unix terminals) 
 143,MDU6SXNzdWUzMTAwMzQ1NDI=,42,Weird slowness scolling text in the console
 4345,MDU6SXNzdWU1NTQyMDQ3NDk=,41,Incorrect display of characters written on top of the wide emojis

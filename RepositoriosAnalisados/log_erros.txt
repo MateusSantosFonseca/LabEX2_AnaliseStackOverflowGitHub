@@ -1,6 +1,5 @@
-
-Ocorreu um erro com a API do GitHub e as issues do repositório vscode não puderam ser obtidas.
 Ocorreu um erro com a API do GitHub e as issues do repositório vscode não puderam ser obtidas.
 Ocorreu um erro com a API do GitHub e as issues do repositório flutter não puderam ser obtidas.
+Ocorreu um erro com a API do GitHub e as issues do repositório go não puderam ser obtidas.
 Ocorreu um erro com a API do GitHub e as issues do repositório kubernetes não puderam ser obtidas.
 Ocorreu um erro com a API do GitHub e as issues do repositório rust não puderam ser obtidas.

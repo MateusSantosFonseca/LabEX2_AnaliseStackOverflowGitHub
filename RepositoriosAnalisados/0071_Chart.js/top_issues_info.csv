@@ -24,13 +24,13 @@ Número da Issue,ID,Quant. comentários,Título
 4515,MDU6SXNzdWUyNDMzMTE1NzQ=,29,OSX master branch unit test errors
 4202,MDU6SXNzdWUyMjUzNjY2OTU=,29,Line Chart -  line on the edge get cut
 2442,MDU6SXNzdWUxNTI3NDM4NjM=,29,Add possibility to change style for each of the ticks
+2051,MDU6SXNzdWUxMzU5NzEzNTc=,29,Customize legend box height
 729,MDU6SXNzdWU0NzA1MjI2MA==,29,y-axis labels are being cut off when many data values displayed
 608,MDU6SXNzdWU0MjA1MzEyMQ==,29,Allow wrapping in axis labels
 593,MDU6SXNzdWU0MTU5NjQxNw==,29,how to update labels? 
 89,MDU6SXNzdWUxMzc1NTIzMw==,29,charts don't show up in IE 8
 4991,MDU6SXNzdWUyNzY1NzY2MzQ=,28,[BUG] Tooltip hides when update is called
 3175,MDU6SXNzdWUxNzIyOTU3NzA=,28,Pie Graph legend on left or right is not vertically centered.
-2051,MDU6SXNzdWUxMzU5NzEzNTc=,28,Customize legend box height
 1573,MDU6SXNzdWUxMTMzNzA2Nzk=,28,[2.0.0-beta] trying to call .clone() of null firstTick (scale.time.js)
 4570,MDU6SXNzdWUyNDU5MzE1NTE=,26,Chart not showing in Android 8.0/Android O
 3540,MDU6SXNzdWUxODY3Mjc0NDE=,26,Candlestick graph type

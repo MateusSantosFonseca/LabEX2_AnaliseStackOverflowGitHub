@@ -18,7 +18,7 @@ Número da Issue,ID,Quant. comentários,Título
 8896,MDU6SXNzdWU2MDY3OTY1MzI=,80,npx aborting creation
 8680,MDU6SXNzdWU1ODUyMDU1NDU=,79,"Build fails: Could not find plugin ""proposal-numeric-separator"""
 1388,MDU6SXNzdWUyMDA0NzQ5NTk=,78,Consider importing SVGs as React components
-8096,MDU6SXNzdWU1MzM2MTE4NjQ=,72,"Since updating to 3.3.0, running out of memory"
+8096,MDU6SXNzdWU1MzM2MTE4NjQ=,73,"Since updating to 3.3.0, running out of memory"
 1125,MDU6SXNzdWUxOTI4MDI4NzU=,70,Enable babel-preset-env for node_modules that target newer Node versions
 6880,MDU6SXNzdWU0MzYzMTg0Njc=,68,How to disable the rule react-hooks/exhaustive-deps?
 5316,MDU6SXNzdWUzNjcyNjU1OTg=,68,Service Worker weird caching

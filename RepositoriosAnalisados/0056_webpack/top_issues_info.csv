@@ -38,8 +38,8 @@ Número da Issue,ID,Quant. comentários,Título
 6767,MDU6SXNzdWUzMDU1ODAxNDc=,59,Webpack 4 hot rebuild time twice as slow
 370,MDU6SXNzdWUzODQ3NTMxMg==,59,Wildcards in entry points
 2362,MDU6SXNzdWUxNDk2MDc4OTg=,58,`another module with an equal name` warning - need more info
+1194,MDU6SXNzdWU5MDg1MDk4OA==,58,Webpack source maps are broken for debugging in Firefox
 4921,MDU6SXNzdWUyMzA5Mjk3MTM=,57,"Uncaught Error: Cannot find module ""."""
-1194,MDU6SXNzdWU5MDg1MDk4OA==,57,Webpack source maps are broken for debugging in Firefox
 125,MDU6SXNzdWUyMzQ0MTU2OA==,57,New watching solution
 4530,MDU6SXNzdWUyMTU5Mjg0OTE=,56,2.3.0 breaks path resolution on Windows
 1479,MDU6SXNzdWUxMDg2MzcyOTM=,56,Hash changes if a filename is changed
