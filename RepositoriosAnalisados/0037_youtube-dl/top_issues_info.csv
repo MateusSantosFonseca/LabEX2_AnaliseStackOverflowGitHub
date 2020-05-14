@@ -37,6 +37,7 @@ Número da Issue,ID,Quant. comentários,Título
 108,MDU6SXNzdWU3NjcxMjc=,36,"Error ""no fmt_url_map or conn information found in video info"" with specific video"
 22105,MDU6SXNzdWU0ODEyNTk4Mzk=,35,USA Networks Issues
 4889,MDU6SXNzdWU1NjkwNDczNg==,34,"VEVO videos only available in 25p? VEVO on YouTube are true 23.976p/25p/29,97p"
+21185,MDU6SXNzdWU0NDY5OTgxMDc=,33,[3sat] New URL
 17224,MDU6SXNzdWUzNDk4MDkxOTc=,33,Cartoon Network - AttributeError: 'NoneType' object has no attribute 'groups'
 14932,MDU6SXNzdWUyODA0MjI5MzU=,33,[youku] 1080P formats missing
 6635,MDU6SXNzdWUxMDI1MjA2NDI=,33,[req] egghead.io
@@ -48,4 +49,3 @@ Número da Issue,ID,Quant. comentários,Título
 14307,MDU6SXNzdWUyNjAwNDY0NTk=,31,"VRV.co extractor error has occurred. (caused by KeyError('streams',))"
 9681,MDU6SXNzdWUxNTgzMzM2OTI=,31,How to download pluralsight video with subtitle from playlist?
 8489,MDU6SXNzdWUxMzI1NzEzMDg=,31,[Site-Support-Request] openload.co / openload.io
-15184,MDU6SXNzdWUyODY0OTA5NTE=,30,[YouTube] Unable to authenticate with enabled TFA

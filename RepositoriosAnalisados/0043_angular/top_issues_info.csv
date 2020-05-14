@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+133,MDU6SXNzdWU0NzM1ODU5Mw==,352,"RFC: <proposal #someId [bind]=""expr"" (event)=""doWork()"">"
+16477,MDU6SXNzdWUyMjU3Mjc2MjA=,310,[i18n] plans
+21706,MDU6SXNzdWUyOTA1ODQ3ODU=,211,Ivy Renderer (beta)
+11405,MDU6SXNzdWUxNzU0Mzk3NTk=,203,i18n: Able to use translation strings outside a template
+17572,MDU6SXNzdWUyMzY1NTMwNDE=,201,ExpressionChangedAfterItHasBeenCheckedError: Expression has changed after it was checked on ng 4
+13590,MDU6SXNzdWUxOTY3MTM2MzI=,181,"Angular2 AOT compilation - ""Cannot determine the module for class (... many components which are unused)"""
+15275,MDU6SXNzdWUyMTUxODIzMjM=,167,Dynamically load template for a component
+6005,MDU6SXNzdWUxMjI5NTQ0ODA=,147,EXCEPTION: Expression has changed after it was checked.
+10552,MDU6SXNzdWUxNjk3OTMwMjE=,144,NgModule on Large Projects
+23931,MDU6SXNzdWUzMjM1NDA5MTU=,139,Can't install Angular using npm or yarn
+13725,MDU6SXNzdWUxOTgxOTAzNTM=,123,Browser Memory isn't released when destroying components
+14324,MDU6SXNzdWUyMDU2MTY3ODg=,122,Entry Components of a Lazy Loaded NgModule are not available outside the Module
+10618,MDU6SXNzdWUxNzAzMDE1MDc=,122,[RC5]: Minified bundle breaks
+9104,MDU6SXNzdWUxNTkzMDIxMzE=,122,[i18n] future 2.x plan
+10981,MDU6SXNzdWUxNzI0NjQ4ODQ=,113,Lazy load auxilary
+9359,MDU6SXNzdWUxNjExMjMyNjY=,111,UMD bundle cannot be used for RxJS
+12409,MDU6SXNzdWUxODQyNjg5MTk=,108,TestBed.configureTestingModule Performance Issue
+8550,MDU6SXNzdWUxNTM4Mzc2MDg=,105,Use Closure Compiler with offline template compiler
+7791,MDU6SXNzdWUxNDM5MzY2ODA=,103,Changing route doesn't scroll to top in the new page
+5689,MDU6SXNzdWUxMjA5MTY2MzY=,102,Proposal: Input as Observable
+30835,MDU6SXNzdWU0NTE3ODA4ODY=,101,"After upgrading to Angular 8, production builds can't load: Failed to load module script: The server responded with a non-JavaScript MIME type of ""text/plain"". Strict MIME type checking is enforced for module scripts per HTML spec."
+23609,MDU6SXNzdWUzMTg5MDg4NTE=,100,Function calls are not supported in decorators when fullTemplateTypeCheck is not specified and @dynamic has no effect
+10646,MDU6SXNzdWUxNzA0NzEzMjI=,98,"Using multiple components in different modules causing ""Type X is part of the declarations of 2 modules"" error"
+2684,MDU6SXNzdWU5MDE2MzYyMQ==,97,RFC: Http interceptors and transformers
+15890,MDU6SXNzdWUyMjA4NDg2MDQ=,96,Please add a @Pipe/@Directive/@Component annotation in Angular 4
+8785,MDU6SXNzdWUxNTYyNzYyMDk=,96,Proposal: Need ability to add directives to host elements in component declaration.
+20339,MDU6SXNzdWUyNzI5ODAwNDk=,94,ERROR Error: Uncaught (in promise): Error: StaticInjectorError[e]:
+15510,MDU6SXNzdWUyMTcxMTQ1ODA=,94,[4.0.0] bug(compiler-cli): Cannot use JitCompiler with AoT
+4112,MDU6SXNzdWUxMDU3NTg2OTU=,91,[router] CanActivate and DI
+9845,MDU6SXNzdWUxNjQxMTk0MzY=,90,[Feat] Allow to animate transitions between routes?
+7113,MDU6SXNzdWUxMzQxNDA5MzQ=,90,"Angular2 Forms Controls validation ""OnLostFocus (OnBlur)"" rather than ""OnChange"" "
+18224,MDU6SXNzdWUyNDM5Njc4MTA=,88,Cyclic dependency error with HttpInterceptor
+7596,MDU6SXNzdWUxNDA2OTM5NzU=,87,Final statement about ngInclude alternative
+6595,MDU6SXNzdWUxMjc4MDAwMjc=,87,Router: Provide support for handling the URL hash
+1858,MDU6SXNzdWU3NTgyNzA5Mw==,86,Can't retrieve attributes of the top-level component
+28114,MDU6SXNzdWUzOTg2Njk5NDQ=,85,"angular.io app gets stuck in loading document state, likely due to client-server version skew"
+8277,MDU6SXNzdWUxNTEzNjM3NjY=,85,How to access the host component from a directive ?
+4902,MDU6SXNzdWUxMTMyNTkyMjE=,84,Issue with typings in WebWorker bundle
+17800,MDU6SXNzdWUyMzkwMTkyODI=,82,RXJS with Angular error
+11606,MDU6SXNzdWUxNzY5NTA2Nzc=,82,Inheritance for Angular decorators is not well-defined
+13822,MDU6SXNzdWUxOTkzMzY0NzM=,81,Angular Universal Roadmap for Angular 4.0
+24547,MDU6SXNzdWUzMzI5ODk0MzE=,80,scrollPositionRestoration has several problems
+10933,MDU6SXNzdWUxNzIwNDEwNTE=,80,Angular 2 lazy load error when loading class module within a bundle
+12869,MDU6SXNzdWUxODkyMzQ5NDA=,77,Router 3.2.0 - Providers instantiated twice
+6204,MDU6SXNzdWUxMjQ1MjU5MTA=,77,Router Huge Flaw - Does not allow more than 1 level of nesting
+35399,MDU6SXNzdWU1NjQ0MDI1ODg=,76,"IVY Error NG6002: Appears in the NgModule.imports of AppModule, but could not be resolved to an NgModule class"
+13586,MDU6SXNzdWUxOTY3MDI3OTY=,76,Deactivation Guard breaks the routing history
+11580,MDU6SXNzdWUxNzY3ODYyMDg=,75,Webpack Warning in system_js_ng_module_factory_loader.js
+5036,MDU6SXNzdWUxMTQzNjI0MDc=,75,Use property decorators for all lifecycle hooks instead of interfaces
+11271,MDU6SXNzdWUxNzQ3MDIyMTA=,74,RC6 Forms: disabled attribute cannot be set dynamically anymore

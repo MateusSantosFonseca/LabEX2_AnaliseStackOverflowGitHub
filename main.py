@@ -3,7 +3,9 @@ from Util.query_repos import query_repositorios
 from Util.query_issues import query_issues
 from Scripts.github_repo_getter import get_repositorios
 from Scripts.github_issues_getter import get_issues
-from Scripts.exportador_csv import exportar_arquivos_csv
+from Scripts.exportador_github_infos_csv import exportar_arquivos_csv
+from Scripts.stackoverflow_questions_getter import get_questions
+from Scripts.exportador_stackoverflow_infos_csv import exportar_questions_csv
 import pathlib
 import os
 import shutil
@@ -18,21 +20,27 @@ def deletar_pasta(path):
     try:
         shutil.rmtree(path)
     except:
-        print(f"\nDiretório: {path} não pode ser excluido. Favor apagá-lo manualmente.")
+        print(f"\nDiretório: {path} não pôde ser excluido. Caso ele exista, favor apagá-lo manualmente.")
 
 def main_script():
-    repositorios = get_repositorios(headers, query_repositorios)
-    
+    path_questions = str(pathlib.Path().absolute()) + "\\QuestoesStackoverflow"
     path_repositorios_analisados = str(pathlib.Path().absolute()) + "\\RepositoriosAnalisados"
     
+    deletar_pasta(path_questions)
     deletar_pasta(path_repositorios_analisados)
     criar_pasta(path_repositorios_analisados)
+    criar_pasta(path_questions)
+    
+    questions = get_questions(path_questions)
+    exportar_questions_csv(questions, path_questions)
+    
+    repositorios = get_repositorios(headers, query_repositorios)
     
     for i, repositorio in enumerate(repositorios):
         top_issues = get_issues(headers, query_issues, "DESC" , repositorio, path_repositorios_analisados)
         bottom_issues = get_issues(headers, query_issues, "ASC", repositorio, path_repositorios_analisados)
             
-        path_repo_analisado = path_repositorios_analisados + "\\" + "{:04n}".format(i) + "_" + repositorio['name']
+        path_repo_analisado = path_repositorios_analisados + "\\" + "{:04n}".format(i+1) + "_" + repositorio['name']
         criar_pasta(path_repo_analisado)
             
         exportar_arquivos_csv(path_repo_analisado, repositorio, top_issues, bottom_issues)

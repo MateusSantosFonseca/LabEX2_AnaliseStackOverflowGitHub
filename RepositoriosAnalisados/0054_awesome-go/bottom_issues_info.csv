@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+62,MDU6SXNzdWUzNzI2NzMyMQ==,0,Snowball Duplicate
+364,MDU6SXNzdWU3MDMwMjA5OQ==,0,test duplicate link
+467,MDU6SXNzdWU5MTU3MjQzMA==,0,Contribution guidelines don't match README.
+1336,MDU6SXNzdWUyMTcwMTY1MTA=,0,False positive possible in duplicate link detection.
+1393,MDU6SXNzdWUyMjQ1MzcxNjc=,0,mudlark-go gets 404
+1475,MDU6SXNzdWUyMzkzMzE4MzE=,0,Goenv in Configuration
+1611,MDU6SXNzdWUyNjM1MzU1ODg=,0,"Add ergo under ""Utilities"""
+1882,MDU6SXNzdWUzMTMyMTg0NTc=,0,New Go+Qt GUI frameworks
+2037,MDU6SXNzdWUzNDUxNzM4OTA=,0,Could you add b2 to Other Software
+2045,MDU6SXNzdWUzNDYxMTYyMjY=,0,Remove ematvey/gostat
+2046,MDU6SXNzdWUzNDYxMTczMjE=,0,Remove anschelsc/gofrac
+2047,MDU6SXNzdWUzNDYxMTgxMDE=,0,Remove skelterjohn/go.matrix
+2087,MDU6SXNzdWUzNTY2MTgyNzA=,0,Add github.com/runner-mei/GoBatis
+2175,MDU6SXNzdWUzNzE0NzYxNjU=,0,Remove blogcin/ToTo
+2178,MDU6SXNzdWUzNzE1MzA4NTQ=,0,Remove zachlatta/postman
+2287,MDU6SXNzdWUzOTE2MjY3OTE=,0,https://github.com/xor-gate/secdl not found
+2453,MDU6SXNzdWU0Mjg0ODc0MjQ=,0,error on test case
+2864,MDU6SXNzdWU1NDAwNTY3MjY=,0,Installation issues on Windows 10 x64
+73,MDU6SXNzdWUzNzMwMDMxMw==,1,go-nude
+100,MDU6SXNzdWUzNzQyODE0Mw==,1,Custom page style
+115,MDU6SXNzdWUzNzU3ODIyMA==,1,Go projects list
+210,MDU6SXNzdWU0OTkxMjE1MQ==,1,I think facebookgo is a good resource could add to the list.
+232,MDU6SXNzdWU1MjMyNTU2MA==,1,Announcing getAwesomeness()
+237,MDU6SXNzdWU1MjcxMjE5Ng==,1,Golang Book duplicate
+315,MDU6SXNzdWU2NDIxMjQ0Mg==,1,Comcast - Simulating shitty network connections
+439,MDU6SXNzdWU4NDg2OTA5OQ==,1,"Please add the link of the ""official"" project list at the top!"
+451,MDU6SXNzdWU4OTgzMzEwMQ==,1,Non-go utilities for go development
+493,MDU6SXNzdWU5NDYwMzcyNw==,1,no Cockroach NoSQL database?
+595,MDU6SXNzdWUxMDkwMTg2MjQ=,1,Which category for a RESTful API stack?
+597,MDU6SXNzdWUxMDkwMzI0NTk=,1,What about graceful server shutdown?
+605,MDU6SXNzdWUxMDk4ODQxNjc=,1,Terminus
+608,MDU6SXNzdWUxMTAyOTAxNjE=,1,Beedb is being deprecated in favor of Beego.orm
+616,MDU6SXNzdWUxMTA5MzM0MTQ=,1,hoisie/mustache is not the official mustache port.
+649,MDU6SXNzdWUxMTMyNjkyNDU=,1,SSLB (Super Simple Load Balancer)
+747,MDU6SXNzdWUxMjQ1ODk3MTQ=,1,"""Server Applications"" category"
+768,MDU6SXNzdWUxMjcxNjcxMjg=,1,What about adding this RSS library?
+787,MDU6SXNzdWUxMzAwOTM4MDE=,1,Add Tasks
+839,MDU6SXNzdWUxMzYyMzcyMjM=,1,mp3 - A native Go MP# decoder.
+945,MDU6SXNzdWUxNTM5MDEwNDE=,1,Add Camerata: Simple and easy to use server orchestration set of tools made with love and Go
+949,MDU6SXNzdWUxNTQzNTQ1MDE=,1,NATS - can you please update link?
+991,MDU6SXNzdWUxNjA0Mzg2MTQ=,1,Awesome-Go pins/t-shirts etc.
+1016,MDU6SXNzdWUxNjQ0OTUyNzE=,1,Video - aac/h264 404
+1092,MDU6SXNzdWUxNzU5Mzg0MDg=,1,Gotty: Add Share your terminal as a web application
+1105,MDU6SXNzdWUxNzc2Njg3ODk=,1,Add godoctor refactoring engine
+1124,MDU6SXNzdWUxODE4Njk4ODM=,1,"I add robotgo,but Some checks were not successful"
+1125,MDU6SXNzdWUxODE4ODA0OTI=,1,Suggest add the uuid tool [https://github.com/satori/go.uuid]
+1259,MDU6SXNzdWUyMDA4Mjk2Mjg=,1,mini is no longer maintained
+1280,MDU6SXNzdWUyMDU5NzIyMDc=,1,Really surprised not to find Tom Pelletier's go-toml under your config section
+1295,MDU6SXNzdWUyMDg2NjM3MTg=,1,Text edits / fixes
+1310,MDU6SXNzdWUyMTIyNTcyNDQ=,1,Problem with list id in website

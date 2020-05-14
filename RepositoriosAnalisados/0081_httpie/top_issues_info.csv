@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+83,MDU6SXNzdWU2MDMzMjk1,414,Issue for Testing
+278,MDU6SXNzdWU1MDQwMzUzNQ==,26,Multiple test failures in tox py34
+427,MDU6SXNzdWUxMjY2MTczNTc=,25,httpie changing the json fields order in the output
+325,MDU6SXNzdWU2MzU5MjIwMA==,24,cURL output of HTTPie 
+243,MDU6SXNzdWUzODI0NTkwNQ==,24,Response time
+315,MDU6SXNzdWU1OTMzNjE1MA==,23,requests.exceptions.SSLError: [Errno 8] _ssl.c:507: EOF occurred in violation of protocol
+128,MDU6SXNzdWUxMDgzMDEyMQ==,23,Option to allow pretty print without alpha sorting
+36,MDU6SXNzdWUzNzExNjg4,20,httpie output has lots of additional characters on windows
+148,MDU6SXNzdWUxNTczMDY5MA==,19,Not working on OS X Mavericks
+480,MDU6SXNzdWUxNTkzOTY4NTc=,18,HTTPie ignores system certificates
+183,MDU6SXNzdWUyMzQ4ODY5Mg==,17,--follow does not show redirects
+78,MDU6SXNzdWU1ODY3MTU3,17,Syntax for nested JSON 
+653,MDU6SXNzdWUyOTgwMDg0OTk=,16,How to get native terminal colors?
+534,MDU6SXNzdWUxODYzMTcxODY=,16,"Request to add `-d, --data` option for raw body like curl"
+316,MDU6SXNzdWU1OTU4Nzc2OA==,16,httpie not working anymore on Mac OS X 10.10.2
+58,MDU6SXNzdWU1MzkyMjIw,16,Windows package
+255,MDU6SXNzdWU0MjcyMDYzNg==,14,pip install on windows
+431,MDU6SXNzdWUxMjgwNzQzOTM=,13,"Enhancement: Can we make the `--auth` argument optional, even when using `--auth-type`?"
+351,MDU6SXNzdWU3MzcwNDQ4Ng==,13,"ConnectionError: ('Connection aborted.', error(54, 'Connection reset by peer'))"
+61,MDU6SXNzdWU1NDE1MTc3,13,Have an option to encode fields in URL (http://foo.com/q?x=1&y=2)
+477,MDU6SXNzdWUxNTkwOTczNjg=,12,no man page
+290,MDU6SXNzdWU1Mjk2NjY0MQ==,12,http doesnt work when running cron jobs
+289,MDU6SXNzdWU1MjczODg4Nw==,12,Access https urls when invoke as `https`
+122,MDU6SXNzdWU5ODgzNTcw,12,Support timing output similar to Curl's -w option
+99,MDU6SXNzdWU3OTA1MzA5,12,Add equivalent cURL --resolve flag
+66,MDU6SXNzdWU1NTQ5Mzk3,12,Installer
+322,MDU6SXNzdWU2MDUwOTAyNw==,11,"Own colorprofile for ""dark backgrounds"""
+314,MDU6SXNzdWU1ODY4NzM0MA==,11,ImportError: cannot import name is_windows
+271,MDU6SXNzdWU0ODEyMjM4MQ==,11,Content Type of file uploaded in multipart/form-data request
+212,MDU6SXNzdWUzMTk2NjkwNg==,11,Support unicode characters in authentication header
+645,MDU6SXNzdWUyODYyNzc4MzM=,10,Error: An unexpected error occurred during the `brew link` step
+354,MDU6SXNzdWU3NTE4NzUwNg==,10,Cannot install httpie via pip in Ubuntu 14.04 LTS
+267,MDU6SXNzdWU0NjI1NDQ2MA==,10,Can't send POST request with multiple files
+215,MDU6SXNzdWUzMjQ3MzQ2MA==,10,Allow setting of default base_url
+150,MDU6SXNzdWUxNzA4MjA4Mg==,10,Add option to ignore stdin data
+880,MDU6SXNzdWU1NzMxMzM5NDg=,9,& Ampersand issue with GET method
+842,MDU6SXNzdWU1NTM2NTYxNzE=,9,"Exit status ""4"" when using download with continue and file is already present"
+828,MDU6SXNzdWU1NDUwMDcwMjI=,9,Hangs up on Git Bash (Windows)
+576,MDU6SXNzdWUyMjQxOTgwNjU=,9,httpie refuses to trust a self-signed certificate
+538,MDU6SXNzdWUxOTA5ODQ5NTQ=,9,problem in httpie/coreapi ssl library?
+524,MDU6SXNzdWUxODA0NzI0MzU=,9,Colorized output doesn't follow terminal ANSI color styles.
+349,MDU6SXNzdWU3MzAxNTU5OQ==,9,Force result to be formated as json pretty
+204,MDU6SXNzdWUyODA3MzY4Mg==,9,SSLError on HTTPie. Directly using Requests works.
+145,MDU6SXNzdWUxNTEwNzI0OA==,9,Follow the XDG base directory specification
+117,MDU6SXNzdWU5NjMxMjk0,9,Add oauth support
+92,MDU6SXNzdWU2ODA0MjU1,9,"Option to force pretty output on response, regardless of Content-type."
+77,MDU6SXNzdWU1ODQzMjM0,9,remove need for quotes to be escaped for raw json input
+587,MDU6SXNzdWUyMzcyMDU5MDE=,8,Is there a way to output httpie GET request in a browser-compatible format?
+580,MDU6SXNzdWUyMjU0ODM2NTA=,8,ModuleNotFoundError: No module named 'enum'
+488,MDU6SXNzdWUxNjUwODcwMTQ=,8,Non-conformant Accept header

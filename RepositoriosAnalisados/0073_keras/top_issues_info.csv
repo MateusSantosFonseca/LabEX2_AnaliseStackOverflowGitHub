@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+4875,MDU6SXNzdWUxOTgxMTQ0MDI=,229,model.save and load giving different result
+395,MDU6SXNzdWU5NTIxMTc1NQ==,219,is the Sequence to Sequence learning right?
+2436,MDU6SXNzdWUxNDk5NDk5MzQ=,162,Does Keras support using multiple GPUs?
+98,MDU6SXNzdWU3MzI0MzU1Ng==,131,"""real time"" recurrent nets"
+4962,MDU6SXNzdWUxOTkzNzk5MzA=,112,How to add Attention on top of a Recurrent Layer (Text Classification)
+853,MDU6SXNzdWUxMTIwNTkzNTU=,111,Incorporating Word Vectors rather than using an Embedding class
+2397,MDU6SXNzdWUxNDkzOTcyMTI=,105,Tensorflow backend - bug in model._make_predict_function(...)
+2280,MDU6SXNzdWUxNDc3OTI4ODc=,91,No reproducible using tensorflow backend
+2378,MDU6SXNzdWUxNDkwNDgyMzk=,90,Not able to resume training after loading model + weights
+1244,MDU6SXNzdWUxMjE2Nzg5OTQ=,86,Loss turns into 'nan' when running on GPU
+2115,MDU6SXNzdWUxNDQxOTI0MDA=,85,Is there a way in Keras to apply different weights to a cost function?
+3338,MDU6SXNzdWUxNjgwNDgyMjg=,82,Extending ImageDataGenerator
+13353,MDU6SXNzdWU0OTY2NTM1MTc=,80,'thread._local' object has no attribute 'value' error 
+741,MDU6SXNzdWUxMDg2NTYwNjg=,75,How to train a multi-label Classifier
+4944,MDU6SXNzdWUxOTkyNTg5MTM=,73,Contrib Repo
+3556,MDU6SXNzdWUxNzI3OTM5OTc=,68,Keras update after single batch which exceeds the GPU memory
+11101,MDU6SXNzdWUzNTc4OTQ0MDY=,67,model.save() throwed out an OSError: Unable to create file(error message = 'resource temporarily unavailable')
+1014,MDU6SXNzdWUxMTY5NzY2MzU=,67,Switch to a modular backend for Theano and TensorFlow support
+12379,MDU6SXNzdWU0MTYzNzk3NjU=,65,AttributeError: module 'tensorflow' has no attribute 'get_default_graph
+3921,MDU6SXNzdWUxODAyMDE3ODE=,64,"""Merge"" versus ""merge"", what is the difference?"
+11068,MDU6SXNzdWUzNTY0ODYxMTk=,63,numpy backend for keras
+8595,MDU6SXNzdWUyNzY4NTUzODc=,63,Keras  freezing on last batch of first epoch (can't move to second epoch)
+3059,MDU6SXNzdWUxNjIwOTczNjY=,60,ImageDataGenerator with masks as labels
+4090,MDU6SXNzdWUxODMzNTIzNDA=,59,Feature Request: Linear Chain Conditional Random Field
+2995,MDU6SXNzdWUxNjA2NDIyMjc=,59,Seq2seq learning: Can I specify the initial hidden state of an LSTM/GRU?
+1029,MDU6SXNzdWUxMTc1MjkzNTY=,59,When and How to use TimeDistributedDense
+8123,MDU6SXNzdWUyNjQ5NDE4NDY=,58,[BUG] Save Model with multi_gpu
+5400,MDU6SXNzdWUyMDc2NTYyNTE=,58,"Accuracy, fmeasure, precision, and recall all the same for binary classification problem (cut and paste example provided)"
+9621,MDU6SXNzdWUzMDQyMTkzMjA=,53,TypeError: softmax() got an unexpected keyword argument 'axis'
+6977,MDU6SXNzdWUyMzU2ODkxMDI=,53,model.evaluate() gives a different loss on training data from the one in training process
+5906,MDU6SXNzdWUyMTU3MjUxMjc=,53,Keras Progbar Logger is not working as expected
+3653,MDU6SXNzdWUxNzQzOTIxMzc=,53,Keras - how to use class_weight with 3D data
+431,MDU6SXNzdWU5NjgwNjkxNQ==,53,Visualizing weights and convolutions
+10417,MDU6SXNzdWUzMzE5Mjk0MzY=,51,Loading saved model fails with ValueError You are trying to load a weight file containing 1 layers into a model with 0 layers
+2975,MDU6SXNzdWUxNjAxMDkwMjE=,50,Keras model always predicts same output class. 
+2102,MDU6SXNzdWUxNDM5MzMzNTU=,49,memory leak when using tensorflow
+3223,MDU6SXNzdWUxNjU1MDE1MjM=,48,Convert Keras model to TensorFlow
+1597,MDU6SXNzdWUxMjk5NTAwMDQ=,48, acc and val_acc don't change?
+5916,MDU6SXNzdWUyMTU5MTA1MDA=,47,Loading model with custom loss function: ValueError: 'Unknown loss function'
+8668,MDU6SXNzdWUyNzg3NTUxNjU=,46,Generator memory leak bugs?
+5935,MDU6SXNzdWUyMTYyNDYxMjA=,46,Memory leak during model.fit()
+5299,MDU6SXNzdWUyMDU3NDM1OTM=,46,"Spring 2017 roadmap: Keras 2, PR freeze, TF integration"
+2711,MDU6SXNzdWUxNTQ1OTgzMzc=,46,Loss not changing when training
+2134,MDU6SXNzdWUxNDQ1NDcyMTI=,46,NAN loss for regression while training
+7362,MDU6SXNzdWUyNDM1MTkyNDE=,45,"Creating Model variable throws ""AttributeError: 'Tensor' object has no attribute '_keras_history'"""
+6462,MDU6SXNzdWUyMjU0MzI2NzE=,45,"""<tensor> is not an element of this graph."" when loading model."
+13118,MDU6SXNzdWU0Njk1ODM4MzM=,44,Repeatedly calling model.predict(...) results in memory leak
+41,MDU6SXNzdWU2NzI0NTk3Mw==,44,How can I get hidden layer representation of the given data?
+9256,MDU6SXNzdWUyOTMwMTMyMzQ=,43,Proposal: Unbundling Keras modules into separate repositories
+2080,MDU6SXNzdWUxNDM1NzIyNjM=,43,Implementation of Spatial Pyramid Pooling Layer

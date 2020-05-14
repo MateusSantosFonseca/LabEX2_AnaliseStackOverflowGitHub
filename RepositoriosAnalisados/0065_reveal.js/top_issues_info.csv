@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+180,MDU6SXNzdWU3NTgzMDQ0,32,Vertically fill screen 100%?
+503,MDU6SXNzdWUxNTg4NzcyOQ==,29,Help with Master/Client presentation
+39,MDU6SXNzdWU0NTA5NjY4,29,Change the style transition between two slides?
+808,MDU6SXNzdWUyODI3NjMxNQ==,27,New PDF export issue
+1258,MDU6SXNzdWU4NTYzODQyOQ==,25,SVG animation
+1082,MDU6SXNzdWU1MjM5ODg3OA==,23,Integrating Mermaid diagrams into Markdown slides
+703,MDU6SXNzdWUyMjU1NTgzMg==,21,Preloader
+1252,MDU6SXNzdWU4NDUyNTk4Mg==,19,PDF export is broken : slides overlap
+300,MDU6SXNzdWU5OTg1NzYy,19,Touch events don't work on IE10
+1363,MDU6SXNzdWUxMDc0MzY4MTE=,18,Issues with exporting.
+788,MDU6SXNzdWUyNjUyNzAwMg==,18,Feature request: Export to single HTML
+751,MDU6SXNzdWUyNDAyMTcwMA==,18,Fullscreen video/iframe
+1922,MDU6SXNzdWUyMzY2NjIxMjQ=,17,Slide Notes timer doesn't work
+806,MDU6SXNzdWUyODEyOTQ2MA==,17,"How to show same content in every page (same header/footer, by example) when exporting to pdf"
+964,MDU6SXNzdWUzNjczNzgwNg==,16,Enable Speaker View on Touch Devices
+793,MDU6SXNzdWUyNzEwNDQyMQ==,16,Lazy load media
+619,MDU6SXNzdWUxOTg3MDM3Nw==,16,Exported PDF has messed up background
+404,MDU6SXNzdWUxMzE2MDQzMw==,16,Presenter mode
+244,MDU6SXNzdWU4MzAxMzgy,16,Helper class for fitting elements to slide size
+118,MDU6SXNzdWU2MjMxNTYy,16,question about scrolling
+31,MDU6SXNzdWU0MTQzMjM4,16,GUI Editor
+929,MDU6SXNzdWUzNDU1NTM1Nw==,15,Data separator and data vertical don't work with external markdown
+743,MDU6SXNzdWUyMzc5OTU2NA==,15,'?' to show keyboard shortcuts
+226,MDU6SXNzdWU4MDk3NTc5,15,MathJax dosen't float well with reveal.js
+592,MDU6SXNzdWUxOTE1MjM3NQ==,14,Possible to stop animated gifs when navigate away from section?
+555,MDU6SXNzdWUxNzgxMjIwMg==,14,Failed to Save on Slid.es
+552,MDU6SXNzdWUxNzY1ODYxMw==,14,Embed Option
+506,MDU6SXNzdWUxNTkxNDUyMw==,14,Consider publish to npm registry
+59,MDU6SXNzdWU1MDAxNjEw,14,Auto start slideshow
+1848,MDU6SXNzdWUyMTQ4MzE3NTM=,13,Italic Markdown messes up fragments
+1638,MDU6SXNzdWUxNjQyNTg5MTA=,13,Document why Chrome is needed (firefox seems to print fine to PDF)
+1349,MDU6SXNzdWUxMDU3NjY2MTk=,13,Question: how do I control image size in external markdown?
+1262,MDU6SXNzdWU4NzY2MjMwNg==,13,Per slide vertical centering
+1261,MDU6SXNzdWU4NzI4NTI1Mg==,13,Slide background overlap in the pdf export
+1099,MDU6SXNzdWU1NDAwMDY0Ng==,13,Large images dangling off screen
+453,MDU6SXNzdWUxNDIzNTE3OQ==,13,State backgrounds 2.0
+431,MDU6SXNzdWUxMzg1NjU1Nw==,13,Using Fragments and syntax-highlighted code with external Markdown
+304,MDU6SXNzdWUxMDE0NTYyMg==,13,Share or print a presentation with notes?
+189,MDU6SXNzdWU3NjY0OTI2,13,Zooming also zooms light box
+2180,MDU6SXNzdWUzMzMzMzk0MTY=,12,"Problem on video control, can't play"
+1546,MDU6SXNzdWUxNDU1NTc3NjA=,12,"reveal.js with iframes crashes edge and firefox browsers, OK on chrome."
+1365,MDU6SXNzdWUxMDc1MTg1NTg=,12,Fragments in MathJax
+1339,MDU6SXNzdWUxMDM0NjIyNTA=,12,Ordered lists does not have numbers in several themes in FF
+1254,MDU6SXNzdWU4NDgyMTAwNg==,12,Do slidechanged event triggers before slides change?
+601,MDU6SXNzdWUxOTM2Nzk5MQ==,12,How to add fontawesome
+511,MDU6SXNzdWUxNjAxNTgxNA==,12,Idea: Simplify workflow for presentation author
+456,MDU6SXNzdWUxNDI0MjUxNw==,12,support for d3.js transitions
+310,MDU6SXNzdWUxMDI3NjcxOQ==,12,Scale presentations to always fit within window bounds
+112,MDU6SXNzdWU2MjAwNTYy,12,[Not a bug] Promote Reveal.JS on alternativeto.net
+1804,MDU6SXNzdWUyMDI3NDEyMDY=,11,Empty page after each slide when exporting PDF from 3.4.0

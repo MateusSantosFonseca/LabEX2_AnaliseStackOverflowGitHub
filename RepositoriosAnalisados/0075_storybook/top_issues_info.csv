@@ -1,9 +1,9 @@
 Número da Issue,ID,Quant. comentários,Título
 1921,MDU6SXNzdWUyNjE4NjUzMTY=,142,Dependencies.io troubleshooting
 4600,MDU6SXNzdWUzNzQ4MTA0MTc=,102,Framework support - Stencil.js
-6204,MDU6SXNzdWU0MjM0MzUzMDI=,91,Storybook v5 breaks when using core-js ^3.0
+6204,MDU6SXNzdWU0MjM0MzUzMDI=,92,Storybook v5 breaks when using core-js ^3.0
 5183,MDU6SXNzdWUzOTY5NjgxNzM=,83,babel-loader conflicts with create-react-app 2.1.3
-3346,MDU6SXNzdWUzMTA5NDI3OTY=,77,Error: exports is not defined
+3346,MDU6SXNzdWUzMTA5NDI3OTY=,78,Error: exports is not defined
 269,MDU6SXNzdWUxNjE2OTI3NzE=,76,Angular 2 support
 6984,MDU6SXNzdWU0NTI1OTgzNjE=,73,@storybook 5.1.1 is throwing an error on build
 4691,MDU6SXNzdWUzNzY2MTE1ODI=,73,Storybook not compatible with React hooks
@@ -14,10 +14,10 @@ Número da Issue,ID,Quant. comentários,Título
 729,MDU6SXNzdWUyMTU3NzAwODI=,63,single stories are pulling in every other stories' stylesheets?
 4716,MDU6SXNzdWUzNzczNDY3Njg=,58,Story is not set when running storybook server
 1493,MDU6SXNzdWUyNDQxMzM0NDE=,57,Module parse failed: You may need an appropriate loader to handle this file type
+7914,MDU6SXNzdWU0ODY5MTUyODY=,51,TypeError: Cannot read property 'lightest' of undefined
+6505,MDU6SXNzdWU0MzI3NjU4MTU=,50,CRA & Storybook webpack clash
 4947,MDU6SXNzdWUzODg0OTI0ODk=,50,addon-knobs not working with vue from v4.0.8
 4475,MDU6SXNzdWUzNzEzMjE1OTk=,50,framework-preset-vue requires `babel-preset-vue` but does not depend on it
-7914,MDU6SXNzdWU0ODY5MTUyODY=,49,TypeError: Cannot read property 'lightest' of undefined
-6505,MDU6SXNzdWU0MzI3NjU4MTU=,49,CRA & Storybook webpack clash
 5721,MDU6SXNzdWU0MTMzNzcwMDk=,48,Cannot use React hooks directly inside a story
 3044,MDU6SXNzdWUyOTg5MTQ3OTU=,48,Webpack 4 support?
 2708,MDU6SXNzdWUyODc0MzA0ODQ=,47,addon-info doesn't show Proptypes and description
@@ -27,13 +27,13 @@ Número da Issue,ID,Quant. comentários,Título
 4191,MDU6SXNzdWUzNjEwMzE3OTA=,44,Storybook 4 not compatible with react 15
 3955,MDU6SXNzdWUzNDc1OTY2NTg=,44,@storybook/react - support airbnb-js-shims v1 or v2?
 7855,MDU6SXNzdWU0ODQ2NDg4NjU=,43,Cannot find type definition file for 'webpack-env'
+3855,MDU6SXNzdWUzMzkzMzYyNDA=,43,Change knobs via actions [idea]
 3329,MDU6SXNzdWUzMTAyODUyODk=,43,Importing Meteor packages (VulcanJS integration)
 2616,MDU6SXNzdWUyODUzNDA3OTk=,43,Failed when first time trying out storybook-angular.  Could you please provide more comprehensive example for Angular?
 8342,MDU6SXNzdWU1MDQwOTMxNjk=,42,Addon-docs: Show source block with generated knob values
+5817,MDU6SXNzdWU0MTYzMTk4OTk=,42,Storybook 5.0.0 emotion-themeing and React loader bug
 4801,MDU6SXNzdWUzODE2MzcxOTU=,42,Decorator Children Displayed In Story Source
-3855,MDU6SXNzdWUzMzkzMzYyNDA=,42,Change knobs via actions [idea]
 1981,MDU6SXNzdWUyNjMyODAxOTY=,42,"Still getting ""accessing nonexistent addons channel"""
-5817,MDU6SXNzdWU0MTYzMTk4OTk=,41,Storybook 5.0.0 emotion-themeing and React loader bug
 3830,MDU6SXNzdWUzMzgxMzYwNjc=,41,failed after update  to 4.0.0-alpha.12
 1369,MDU6SXNzdWUyMzkxMTQ5ODY=,40,Action Logger Panel Is Not Available
 731,MDU6SXNzdWUyMTY4MTk2MzQ=,40,Is this project dead?

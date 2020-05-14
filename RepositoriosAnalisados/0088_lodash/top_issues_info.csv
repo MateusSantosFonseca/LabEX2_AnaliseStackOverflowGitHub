@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+281,MDU6SXNzdWUxNDY5MjM1Ng==,39,Feature Request: Add array `remove` method.
+953,MDU6SXNzdWU1NzE3ODA3NQ==,35,Ensure something is array
+723,MDU6SXNzdWU0Mzk2MTY4Mg==,32,Deep functionality for omit
+1823,MDU6SXNzdWUxMjcwOTk3MTI=,31,possibility to add update method
+80,MDU6SXNzdWU3Mjc2NjE5,30,iterators with null fail in 0.8.0
+1701,MDU6SXNzdWUxMjE3MzAyNTQ=,29,Feature Request: _.move() element in an array
+169,MDU6SXNzdWUxMDMyMjY0Ng==,29,mapValues for objects
+375,MDU6SXNzdWUyMTY2NzQ0Mg==,28,_.bindAll + comparator causes breakage on function-based Backbone methods
+89,MDU6SXNzdWU3NDk3ODE1,28,"arr.insert(index, item)"
+414,MDU6SXNzdWUyMzU0MzYxOA==,27,Sort order with multiple keys
+223,MDU6SXNzdWUxMjYxMTM5OQ==,27,Lodash doesn't work in Browserify
+2718,MDU6SXNzdWUxODE3OTY2MTU=,26,Feature request:  _.toObject() to convert array to object
+756,MDU6SXNzdWU0NjcxMTUxMQ==,26,_.spread
+325,MDU6SXNzdWUxNzMwMDYwNw==,26,Add ability to _(obj).where({ foo: 'bar' }).first().result('prop')
+137,MDU6SXNzdWU5MTc4OTg3,26,Please consider supporting _.isDefined
+4247,MDU6SXNzdWU0MjYzOTU5MjQ=,24,module load breaks with prototypes present
+3440,MDU6SXNzdWUyNjcyMTkzODg=,24,Placeholder doesn't work for converted functions unless explicitly recurried
+791,MDU6SXNzdWU0OTc0MzE3MA==,24,Website styling for easy browseability
+1498,MDU6SXNzdWUxMDg5NTkyMTE=,23,Different versions of V8 give different string tags for generator functions: _.isFunction
+687,MDU6SXNzdWU0MTE3NTU5OQ==,23,[Feature Request] _.sum
+146,MDU6SXNzdWU5NDMxODUz,23,Please consider adding an 'extract' method for nested objects
+34,MDU6SXNzdWU1MTE2MjAw,23,Moving sortBy into the collections category
+667,MDU6SXNzdWU0MDQ4NzkyMw==,22,Add `pipe` equivalent
+4348,MDU6SXNzdWU0NjMzNzI0NzQ=,21,High severity vulnerability in 4.17.11
+2378,MDU6SXNzdWUxNTY0MDMyNTE=,21,lodash v4 _.cloneDeep significant performance decrease in node.js 0.10
+1704,MDU6SXNzdWUxMjE5NDAyNzU=,21,ES6 and FP in Lodash 4
+28,MDU6SXNzdWU0OTkyNDM2,21,Make `_.shuffle` work on objects.
+1765,MDU6SXNzdWUxMjY0MjQ2OTU=,20,Arguments for pickBy predicate
+1743,MDU6SXNzdWUxMjU5Njc2NjA=,20,Find if array includes all elements from another array
+1539,MDU6SXNzdWUxMTIyMzQ4MDc=,20,Rounding error in _.range
+3289,MDU6SXNzdWUyNDY3NDI3MjM=,19,No mechanism to use seeded random generation
+2184,MDU6SXNzdWUxNDQ4MTg5MjM=,19,Feature Request : New math method - Mode
+2169,MDU6SXNzdWUxNDQyMjYyMzM=,19,feature request for method _.fromPath
+2059,MDU6SXNzdWUxMzY2NjA3MDQ=,19,No compatible version found: lodash.upperfirst@^3.0.0
+139,MDU6SXNzdWU5MjQ5Nzkw,19,Lodash >=0.9.2 fails to install on 64-bit Windows 7 (standard user account)
+88,MDU6SXNzdWU3NDY0ODM5,19,require('lodash') returns undefined in node 0.8.9
+4582,MDU6SXNzdWU1MzU4MDc1OTQ=,18,New HIGH vulnerability detected by audit in version 4.17.15
+4359,MDU6SXNzdWU0NjYxODc0NDQ=,18,lodash-es - type: module in package.json breaks npm install with some NPM versions
+1252,MDU6SXNzdWU4MzExMTczMw==,18,_.delete/_.remove for objects using a path.
+861,MDU6SXNzdWU1NDc4Njk3Nw==,18,"Missing Component,json"
+61,MDU6SXNzdWU2Mzc4MjA3,18,NPM Package Size
+2340,MDU6SXNzdWUxNTQ5MDIwOTA=,17,Shallow object comparison
+2308,MDU6SXNzdWUxNTMyOTk4MDA=,17,omitBy if using babel-polyfill
+2240,MDU6SXNzdWUxNDc4NDY3MzE=,17,Flatten object to paths [feature request]
+1149,MDU6SXNzdWU2OTcwNTk5Nw==,17,Lots of unused files
+900,MDU6SXNzdWU1NTg1MTI0OA==,17,Minified lodash is invalid javascript
+425,MDU6SXNzdWUyNDAxMDYyMg==,17,Add string methods
+269,MDU6SXNzdWUxNDI4NTU4Mw==,17,npm publish individual methods.
+154,MDU6SXNzdWU5NzA1Nzkx,17,Add deep support to `_.defaults`.
+110,MDU6SXNzdWU4MjY4NTI0,17,Replace isXyz methods with `isKind`.

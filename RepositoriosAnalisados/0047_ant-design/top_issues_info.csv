@@ -1,6 +1,6 @@
 Número da Issue,ID,Quant. comentários,Título
 13848,MDU6SXNzdWUzOTM5NTc5MDc=,1097,  Ant Design 
-477,MDU6SXNzdWUxMTUwNDI3NjA=,254,Ant Design Users 
+477,MDU6SXNzdWUxMTUwNDI3NjA=,256,Ant Design Users 
 12011,MDU6SXNzdWUzNTYzNDgyNjc=,220,Svg icons make bunlde size too large
 13098,MDU6SXNzdWUzNzk3NzkwMzU=,187, Christmas easter egg 
 16911,MDU6SXNzdWU0NTA4MjUwMjk=,181, Ant Design 4.0 is in progress!
@@ -15,7 +15,7 @@ Número da Issue,ID,Quant. comentários,Título
 3789,MDU6SXNzdWUxODg0NjUzMDU=,80,Long list optimization
 5710,MDU6SXNzdWUyMjA4Nzk3NDk=,78,No way to show aggregation statistics data in table
 13857,MDU6SXNzdWUzOTM5Njc2NjU=,74,Ant Design 
-21656,MDU6SXNzdWU1NzI0NTU1NjM=,72, Ant Design 4.0 is out!
+21656,MDU6SXNzdWU1NzI0NTU1NjM=,74, Ant Design 4.0 is out!
 5570,MDU6SXNzdWUyMTgxNDcwNDk=,65,antd@3.0
 13849,MDU6SXNzdWUzOTM5NTkxNjY=,63, About the Christmas egg and workaround
 5910,MDU6SXNzdWUyMjQzNTQ3OTc=,63,
@@ -23,6 +23,7 @@ Número da Issue,ID,Quant. comentários,Título
 4853,MDU6SXNzdWUyMDczOTg1OTg=,61,A List of `antd`'s components that cannot work with HOC
 20661,MDU6SXNzdWU1NDUyMzg2ODI=,60,Ant Design 4.0 RC released!
 10431,MDU6SXNzdWUzMjE0MTEyOTY=,53,table/select/checkbox   
+22493,MDU6SXNzdWU1ODU3MTE3Mjg=,52,"Using <Button> results in ""findDOMNode is deprecated in StrictMode"" warning"
 21543,MDU6SXNzdWU1Njk0OTgyMzE=,49,Instance created by `useForm` is not connect to any Form element. Forget to pass `form` prop? 
 5186,MDU6SXNzdWUyMTIwNjc2ODU=,48,ant design tree nodetree
 8880,MDU6SXNzdWUyODY5NjU5MjA=,47,You cannot set field before registering it when set the value to  dynamic form item
@@ -40,7 +41,6 @@ Número da Issue,ID,Quant. comentários,Título
 4941,MDU6SXNzdWUyMDg3MTc5NTQ=,40,Git commit very slow
 2857,MDU6SXNzdWUxNzM0MzY2OTM=,40,select optionnumber/integer
 13448,MDU6SXNzdWUzODc1ODE0MzA=,39,dropdownRender render
-22493,MDU6SXNzdWU1ODU3MTE3Mjg=,38,"Using <Button> results in ""findDOMNode is deprecated in StrictMode"" warning"
 20481,MDU6SXNzdWU1NDI3MTc2MzE=,38,4.0 Form.Item chilren 
 17051,MDU6SXNzdWU0NTQ2NzIzMjA=,37,bordered  #16950  
 7927,MDU6SXNzdWUyNjY0NDMzMzQ=,37,"import the antd theme, webpack build show .bezierEasingMixin error ?"

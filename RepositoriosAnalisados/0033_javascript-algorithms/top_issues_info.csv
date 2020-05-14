@@ -39,6 +39,7 @@ Número da Issue,ID,Quant. comentários,Título
 295,MDU6SXNzdWU0MDE1NDkyMzE=,2,I can't require npm package in node application
 287,MDU6SXNzdWUzOTYzMzg0ODU=,2,Possible mistake in README for Bit Manipulation section.
 271,MDU6SXNzdWUzOTM0MTIwNTQ=,2,Add Splay Tree
+248,MDU6SXNzdWUzODE0NjU5MzY=,2,Knapsack has error
 234,MDU6SXNzdWUzNzM5MTYzMDI=,2,Add Bogosort
 232,MDU6SXNzdWUzNzI1ODIzNzY=,2,Luhn algorithm
 206,MDU6SXNzdWUzNTg4Nzg2NDM=,2,Add bucket sort
@@ -48,4 +49,3 @@ Número da Issue,ID,Quant. comentários,Título
 107,MDU6SXNzdWUzNDM5MjAzMTM=,2,Translate to korean
 90,MDU6SXNzdWUzMzgxODMyODc=,2,Fix errors in grammar and descriptions in README.md
 40,MDU6SXNzdWUzMjgzNTE5OTg=,2,A suggestion about Factorial
-38,MDU6SXNzdWUzMjgxMDY1NTU=,2,Implementing Segment tree

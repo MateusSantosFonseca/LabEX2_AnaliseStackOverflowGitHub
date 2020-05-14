@@ -1,0 +1,51 @@
+Número da Issue,ID,Quant. comentários,Título
+4968,MDU6SXNzdWUxMjM4MjgyMTQ=,498,[Workarounds] Packager unable to resolve module from /Users/node_modules/
+14209,MDU6SXNzdWUyMzE2NDk4MTM=,321,UnableToResolveError: Unable to resolve module `AccessibilityInfo`
+7308,MDU6SXNzdWUxNTIwMTQ3MzE=,294,"Latest react-native app doesn't work  "":CFBundleIdentifier"", Does Not Exist"
+7495,MDU6SXNzdWUxNTQwOTg5OTI=,239,Geolocation 'enableHighAccuracy' on Android always times out
+17530,MDU6SXNzdWUyODc2NjI3Mjg=,236,NullPointerException:tempt to invoke virtual method 'android.graphics.drawable.Drawable android.graphics.drawable.Drawable$ConstantState.newDrawable(android.content.res.Resources)'
+1831,MDU6SXNzdWU5MjM4NDQ4NA==,223,[FlatList] Rows aren't rendered until scroll
+12754,MDU6SXNzdWUyMTIzMjM3MjY=,192,No bundle url present
+24261,MDU6SXNzdWU0MjgyMTY1ODk=,190,App Crash on Android OS 6 Samsung Galaxy S7 SM-G930FD (JSC Crash) 64 bit support  A/libc: Fatal signal 11 (SIGSEGV)
+23313,MDU6SXNzdWU0MDcyODg5NjA=,188, Lean Core
+10471,MDU6SXNzdWUxODQxNDc4MDY=,183,iOS: UI will be blocked when show Alert while closing Modal
+18479,MDU6SXNzdWUzMDcxMTUzMTM=,162,more than one library with package name 'com.google.android.gms.license'
+5823,MDU6SXNzdWUxMzIyNDExNzI=,162,"Attempted to transition from state `RESPONDER_INACTIVE_PRESS_IN` to `RESPONDER_ACTIVE_LONG_PRESS_IN`, which is not supported."
+12981,MDU6SXNzdWUyMTQ4MjQ0NzI=,161,Add support for AlarmManager in Timing to allow proper handling of long timers
+15388,MDU6SXNzdWUyNDgyNjE2NzQ=,139,Could not connect to development server on android emulator and on real device
+8615,MDU6SXNzdWUxNjQxNTE4NDI=,139,iOS: NetInfo.isConnected returns always false
+1402,MDU6SXNzdWU4MDc4NDY4NQ==,138,[Initialization] Launch screen white flash
+14423,MDU6SXNzdWUyMzQ4NDk1NDA=,134,"[Master Task] Print: Entry, "":CFBundleIdentifier"", Does Not Exist"
+14382,MDU6SXNzdWUyMzQ0MjIxNzI=,134,Xcode 10: third-party: 'config.h' file not found
+21967,MDU6SXNzdWUzNzQ1MDk1MDg=,133, Using React Hooks in React Native
+10027,MDU6SXNzdWUxNzg0MTAyMTU=,132,"""__nw_connection_get_connected_socket_block_invoke Connection has no connected handler"" in logs"
+20774,MDU6SXNzdWUzNTI3MzM5MjU=,131,"When new Xcode build system is used, Xcode build fails to download third-party dependencies"
+2814,MDU6SXNzdWUxMDcwNDUyNDY=,130,Support third-party 64-bit libraries on Android
+2720,MDU6SXNzdWUxMDY1OTE4OTY=,127,[Android] Upload package to device fails
+18899,MDU6SXNzdWUzMTUxMjU2NTc=,123,Hot Reloading is not working
+14101,MDU6SXNzdWUyMzA0MTg3MzQ=,123,AsyncStorage not fulfilling promise on Android 7+
+16906,MDU6SXNzdWUyNzU3MjQxODI=,122,[Android] Requiring images with Gradle 4 fails release builds 
+6679,MDU6SXNzdWUxNDM3NzA4NjE=,122,response.json() hangs when chrome debugging 
+24082,MDU6SXNzdWU0MjM2MTE4ODE=,117,Received status code 502 from server: Bad Gateway
+25601,MDU6SXNzdWU0NjcxOTMxNzg=,116,[0.60.3] App crash on startup when enabling Hermes (enableHermes: true)
+637,MDU6SXNzdWU2NjA5MTMwMQ==,114,[Packager] doesn't resolve modules that are symlinks
+16522,MDU6SXNzdWUyNjgwNTQ1Mzk=,113,"ScrollView: Unsupported top level event ""topScroll"" dispatched"
+25599,MDU6SXNzdWU0NjcwMjgxNzM=,110,[0.60.2] Build failing when enabling Hermes (enableHermes: true)
+18372,MDU6SXNzdWUzMDUxNDgxMTQ=,108,AsyncStorage.getItem() doesn't seem to work
+23282,MDU6SXNzdWU0MDYxMzM0NTc=,107,react-native run-ios can not find any simulator
+18175,MDU6SXNzdWUzMDIwMDMwMjU=,107,[0.54] Warnings for soon to be deprecated lifecycle methods
+11809,MDU6SXNzdWUxOTk4NjcwODQ=,107,[Android] Extreme lag after upgrade to 0.39.2 and 0.40.0
+15114,MDU6SXNzdWUyNDQyMjIzMjE=,106,Oppo A77 - Some texts gets cut-off
+10433,MDU6SXNzdWUxODM2MjI3ODg=,106,RCTImageLoader crashes when canceling image loads (RN 0.36)
+1693,MDU6SXNzdWU4OTcwMzM5OA==,106,"[Touchable* + Text] ""Touchable cannot transition"" error about 20% of the time"
+21030,MDU6SXNzdWUzNTg0NDAxOTU=,104,Xcode 10 runtime warning on fresh install: nw_socket_handle_socket_event
+371,MDU6SXNzdWU2NDg2MjM3Mg==,101,[TextInput] Supply access to UITextView.inputAccessoryView attribute on <TextInput />
+23908,MDU6SXNzdWU0MjA2Nzc2MDU=,98,"Error: Unable to resolve module `./index` from `\node_modules\react-native\scripts/.`: The module `./index` could not be found from `\node_modules\react-native\scripts/.`. Indeed, none of these files exist:"
+14368,MDU6SXNzdWUyMzQyNDg0NDQ=,98,New project fail to build on iOS (double-conversion.build failed)
+13413,MDU6SXNzdWUyMjA1NTYwMTQ=,98,[FlatList] FlatList and VirtualizedList Scroll performance is laggy after 30+ rows . 
+1501,MDU6SXNzdWU4NDUyNTExMg==,97,[ScrollView] Warning: ScrollView doesn't take rejection well - scrolls anyway
+6152,MDU6SXNzdWUxMzY0Nzk2NjA=,96,Android java.lang.IllegalAccessError Method void android.support.v4.net.ConnectivityManagerCompat
+24260,MDU6SXNzdWU0MjgyMTQzNjM=,95,React native 0.59.x crashes on Android without any error message
+16376,MDU6SXNzdWUyNjU1NjMyMTk=,95,RCTBridge required dispatch_sync to load RCTDevLoadingView. This may lead to deadlocks
+25494,MDU6SXNzdWU0NjQyMDQxMTc=,94,"signal 11 (SIGSEGV), code 1 (SEGV_MAPERR) libjsc.so still occuring on Caterpillar S41 (Android 8.0)"
+2088,MDU6SXNzdWU5NjUxODc1Mg==,94,[TextView] [CSS] text-transform support?

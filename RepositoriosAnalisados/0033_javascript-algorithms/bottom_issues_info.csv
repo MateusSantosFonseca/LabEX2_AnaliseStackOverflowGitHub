@@ -33,6 +33,7 @@ Número da Issue,ID,Quant. comentários,Título
 478,MDU6SXNzdWU1OTM3MDUwOTQ=,0,.
 484,MDU6SXNzdWU2MTExNTUwNDk=,0,BinaryTreeNode replaceChild didn't set parent current
 485,MDU6SXNzdWU2MTEyMDg5Njc=,0,AVL remove need recursive from removeNode
+488,MDU6SXNzdWU2MTc5ODM0OTc=,0,Sorting Visualization
 6,MDU6SXNzdWUzMjU4OTAwMDg=,1,Duplicate Code in peek in Stack.js
 19,MDU6SXNzdWUzMjYzOTA2NTk=,1,Quick sort should not allocate extra memory like left / right array.
 34,MDU6SXNzdWUzMjc4ODM0NzU=,1,Sharing similar effort: algorithms-js
@@ -48,4 +49,3 @@ Número da Issue,ID,Quant. comentários,Título
 70,MDU6SXNzdWUzMzI5NDc3NDU=,1,Grouping algorithms for studying
 78,MDU6SXNzdWUzMzUyNDkyNzI=,1,run repo's class? nodejs not support ES6 import
 96,MDU6SXNzdWUzNDA1NTU1MzQ=,1,FloydWarshall algorithm
-98,MDU6SXNzdWUzNDA4MjQwNzE=,1,removeChild in BinaryTreeNode does not remove parent from child

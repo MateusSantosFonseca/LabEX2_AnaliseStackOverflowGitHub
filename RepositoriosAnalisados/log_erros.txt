@@ -1,4 +1,6 @@
-Ocorreu um erro com a API do GitHub e as issues do reposit贸rio flutter n茫o puderam ser obtidas.
-Ocorreu um erro com a API do GitHub e as issues do reposit贸rio kubernetes n茫o puderam ser obtidas.
-Ocorreu um erro com a API do GitHub e as issues do reposit贸rio TypeScript n茫o puderam ser obtidas.
-Ocorreu um erro com a API do GitHub e as issues do reposit贸rio rust n茫o puderam ser obtidas.
+
+Ocorreu um erro com a API do GitHub e as issues do reposit髍io vscode n鉶 puderam ser obtidas.
+Ocorreu um erro com a API do GitHub e as issues do reposit髍io vscode n鉶 puderam ser obtidas.
+Ocorreu um erro com a API do GitHub e as issues do reposit髍io flutter n鉶 puderam ser obtidas.
+Ocorreu um erro com a API do GitHub e as issues do reposit髍io kubernetes n鉶 puderam ser obtidas.
+Ocorreu um erro com a API do GitHub e as issues do reposit髍io rust n鉶 puderam ser obtidas.

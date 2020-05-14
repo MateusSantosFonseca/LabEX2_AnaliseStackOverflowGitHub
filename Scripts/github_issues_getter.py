@@ -10,7 +10,7 @@ def requisitar_issues(headers, query, nome_repositorio, path_repositorios_analis
         else:
             raise Exception("A query falhou: {}. {}".format(request.status_code, query))
     except:
-        erro = f"Ocorreu um erro com a API do GitHub e as issues do repositório {nome_repositorio} não puderam ser obtidas.\n"
+        erro = f"\nOcorreu um erro com a API do GitHub e as issues do repositório {nome_repositorio} não puderam ser obtidas."
         escrever_log_erro(erro, path_repositorios_analisados)
         print(erro)
             
