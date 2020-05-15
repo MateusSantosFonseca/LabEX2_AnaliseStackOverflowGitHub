@@ -18,9 +18,9 @@ Número da Issue,ID,Quant. comentários,Título
 11101,MDU6SXNzdWUzNTc4OTQ0MDY=,67,model.save() throwed out an OSError: Unable to create file(error message = 'resource temporarily unavailable')
 1014,MDU6SXNzdWUxMTY5NzY2MzU=,67,Switch to a modular backend for Theano and TensorFlow support
 12379,MDU6SXNzdWU0MTYzNzk3NjU=,65,AttributeError: module 'tensorflow' has no attribute 'get_default_graph
+8595,MDU6SXNzdWUyNzY4NTUzODc=,64,Keras  freezing on last batch of first epoch (can't move to second epoch)
 3921,MDU6SXNzdWUxODAyMDE3ODE=,64,"""Merge"" versus ""merge"", what is the difference?"
 11068,MDU6SXNzdWUzNTY0ODYxMTk=,63,numpy backend for keras
-8595,MDU6SXNzdWUyNzY4NTUzODc=,63,Keras  freezing on last batch of first epoch (can't move to second epoch)
 3059,MDU6SXNzdWUxNjIwOTczNjY=,60,ImageDataGenerator with masks as labels
 4090,MDU6SXNzdWUxODMzNTIzNDA=,59,Feature Request: Linear Chain Conditional Random Field
 2995,MDU6SXNzdWUxNjA2NDIyMjc=,59,Seq2seq learning: Can I specify the initial hidden state of an LSTM/GRU?

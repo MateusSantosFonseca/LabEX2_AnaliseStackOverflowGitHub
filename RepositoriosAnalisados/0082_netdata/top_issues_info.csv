@@ -21,8 +21,8 @@ Número da Issue,ID,Quant. comentários,Título
 1306,MDU6SXNzdWUxOTI3MjYxNDE=,59,RPM Packaging Discussion
 154,MDU6SXNzdWUxNDU0NzA4MTY=,58,Should the MySQL chart show MariaDB stats out of the box?
 115,MDU6SXNzdWUxNDUwNDUwODU=,58,Multi-host Support
+8847,MDU6SXNzdWU2MDgzNzMwMzU=,57,Netdata slaves dissapear after enabling TLS
 5344,MDU6SXNzdWU0MDc1MDgyNDE=,57,Allow running multiple freeipmi jobs from the same netdata
-8847,MDU6SXNzdWU2MDgzNzMwMzU=,56,Netdata slaves dissapear after enabling TLS
 4394,MDU6SXNzdWUzNjk5MTY5NDI=,56,README template for plugins
 1311,MDU6SXNzdWUxOTMwMzYwMjA=,56,netdata on ephemeral nodes
 6831,MDU6SXNzdWU0OTI3MzA0NDA=,55,SPIKE Libraries to change sockets and webserver

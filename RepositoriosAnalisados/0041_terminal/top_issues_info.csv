@@ -2,7 +2,7 @@ Número da Issue,ID,Quant. comentários,Título
 1375,MDU6SXNzdWU0NTk0MjEzMTA=,264,"MEGA THREAD: Design is not complete, UI is not polished"
 489,MDU6SXNzdWU0NDExNjEzOTA=,262,Guide for build and installation
 1060,MDU6SXNzdWU0NTAxMTc4OTU=,209,"Add ""open Windows terminal here"" into right-click context menu"
-632,MDU6SXNzdWU0NDIzODM4NzE=,163,[Question] Configuring Windows Terminal profile to always launch elevated
+632,MDU6SXNzdWU0NDIzODM4NzE=,165,[Question] Configuring Windows Terminal profile to always launch elevated
 521,MDU6SXNzdWU0NDEzMTk1MDM=,143,AltGR SEQUENCES DO NOT WORK -- Can't type any AltGr combinations in Windows Terminal
 1386,MDU6SXNzdWU0NTk0NDExMTg=,87,Investigate alternative deployment mechanisms for Windows Terminal
 280,MDU6SXNzdWUzNjkyNjY0Mjk=,84,Windows 10 1809/19H1/20H1 breaks Powershell's console settings. Keeps opening with raster fonts.
@@ -20,10 +20,10 @@ Número da Issue,ID,Quant. comentários,Título
 2213,MDU6SXNzdWU0NzY0MzQ3ODU=,51,"All IME's don't work (Chinese/Japanese/Korean input, Emoji Picker, etc.)"
 3097,MDU6SXNzdWU1MDMxMDQxNDQ=,49,It is hard to find Microsoft.VCLibs.140.00.UWPDesktop 
 878,MDU6SXNzdWU0NDU0ODQ0OTE=,49,Starting directory no longer respected
+649,MDU6SXNzdWU0NDI0ODM4MTA=,48,GSync/Freesync refresh rate / FPS drops when using Terminal
 608,MDU6SXNzdWU0NDIwNDMxOTE=,48,Feature request: suppress VT title and prefer profile name (or something else)
 3303,MDU6SXNzdWU1MTE2MjkzNzY=,47,Terminal crashes when dragged to another monitor
 146,MDU6SXNzdWUzMTA2NTkzMDA=,47,Sudo/command line only elevation?
-649,MDU6SXNzdWU0NDI0ODM4MTA=,46,GSync/Freesync refresh rate / FPS drops when using Terminal
 4448,MDU6SXNzdWU1NTkxNDcxMTg=,45,No keyboard input
 217,MDU6SXNzdWUzMzkxMjgzMTI=,44,cmd: add environment variable to disable/enable 'Terminate batch job (Y/N)?' confirmation
 1079,MDU6SXNzdWU0NTA4MzI3MTg=,43,Ability to rename Tab title at runtime

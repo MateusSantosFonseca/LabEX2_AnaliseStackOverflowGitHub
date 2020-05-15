@@ -23,8 +23,8 @@ Número da Issue,ID,Quant. comentários,Título
 2461,MDU6SXNzdWU0NzY3ODYxMA==,85,Error boundaries: Recover from errors thrown in `render`
 11347,MDU6SXNzdWUyNjc5MDIyNDQ=,84,RFC: Plan for custom element attributes/properties in React 17
 759,MDU6SXNzdWUyNDkxNzQ1NQ==,83,TypeScript support for JSX
+11387,MDU6SXNzdWUyNjkxNDg4MjQ=,81,createPortal: support option to stop propagation of events in React tree
 7671,MDU6SXNzdWUxNzUzOTM4ODI=,81,Deprecate componentWillMount Maybe?
-11387,MDU6SXNzdWUyNjkxNDg4MjQ=,80,createPortal: support option to stop propagation of events in React tree
 1159,MDU6SXNzdWUyODA4NjgwOA==,79,Provide a way to handle browser-autocompleted form values on controlled components
 13206,MDU6SXNzdWUzNDExNDI2NjU=,78,[Umbrella] Releasing Suspense
 1881,MDU6SXNzdWUzODIzMzAzNA==,73,Support !important for styles?

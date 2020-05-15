@@ -8,7 +8,7 @@ Número da Issue,ID,Quant. comentários,Título
 348,MDU6SXNzdWU1MjM2MTkx,110,Feature request: A more accurate .humanize
 2608,MDU6SXNzdWUxMDY0MTEzMDg=,97,How can I import momentjs in es6?
 5484,MDU6SXNzdWU2MTA1NzQ1Njk=,68,Uncaught Error: Cannot find module './locale'
-4505,MDU6SXNzdWUzMDYzOTQ0Mjg=,51,'./locale' path not found in moment/src/lib/locale/locales.js
+4505,MDU6SXNzdWUzMDYzOTQ0Mjg=,52,'./locale' path not found in moment/src/lib/locale/locales.js
 3763,MDU6SXNzdWUyMDc2MDk1MTg=,48,"[TypeScript] ""error TS2304: Cannot find name 'moment'"" when used with ""module"":""none"""
 2979,MDU6SXNzdWUxMzU0OTc3NDg=,47,"moment with locales: ""./locale"" not found"
 5486,MDU6SXNzdWU2MTA1ODI1NDE=,45,TS2307: Cannot find module 'moment'. 

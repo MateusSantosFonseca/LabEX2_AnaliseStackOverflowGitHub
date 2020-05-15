@@ -10,8 +10,8 @@ Número da Issue,ID,Quant. comentários,Título
 382,MDU6SXNzdWUxNjY0NDEyOTQ=,63,Don't send default header
 1195,MDU6SXNzdWUyNzU3MzYzODE=,62,Unable to POST data in axios
 569,MDU6SXNzdWUxOTMyODEwNTc=,62,CORS error No 'Access-Control-Allow-Origin' header is present on the requested resource
+973,MDU6SXNzdWUyMzgzNzE1MjM=,58,Axios doesn't work with Android (emulator) raising a Network Error
 891,MDU6SXNzdWUyMjcyOTY3NjQ=,58,axios doesn't see request headers that I set
-973,MDU6SXNzdWUyMzgzNzE1MjM=,57,Axios doesn't work with Android (emulator) raising a Network Error
 117,MDU6SXNzdWUxMDg5MDEzMzQ=,54,Who's using axios?
 787,MDU6SXNzdWUyMTY2NDg5NTU=,53,GET request does not send data (JSON).
 925,MDU6SXNzdWUyMzIyODkzMDk=,52,Request to HTTPS with HTTP proxy fails

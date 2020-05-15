@@ -31,8 +31,8 @@ Número da Issue,ID,Quant. comentários,Título
 1159,MDU6SXNzdWUyNjgzODg2NzM=,35,ignoreHTTPSErrors is not working when request interception is on
 3238,MDU6SXNzdWUzNTk4NzAzNzY=,34,[Feature] Stop loading of page
 858,MDU6SXNzdWUyNTk5Njg5NzM=,33,Query nodes within shadow roots
+477,MDU6SXNzdWUyNTIwNjEyMTg=,33,Incomplete screenshots for large pages (6000x6000px or more)
 1054,MDU6SXNzdWUyNjU5Mzk5OTU=,32,Integrating coverage reports
-477,MDU6SXNzdWUyNTIwNjEyMTg=,32,Incomplete screenshots for large pages (6000x6000px or more)
 80,MDU6SXNzdWUyNDMwODIwNzM=,32,New project name
 4390,MDU6SXNzdWU0NDA0Mjg1MDQ=,31,Page timeout due to script loading error/timeout
 807,MDU6SXNzdWUyNTgzMDkyNTA=,31,Failed to launch chrome

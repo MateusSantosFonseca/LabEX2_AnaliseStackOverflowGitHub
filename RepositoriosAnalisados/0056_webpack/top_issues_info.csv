@@ -3,7 +3,7 @@ Número da Issue,ID,Quant. comentários,Título
 8537,MDU6SXNzdWUzOTM0NzQyMzM=,275,webpack 5 alpha feedback
 959,MDU6SXNzdWU2NzIwOTkxNw==,249,Uncaught TypeError: Cannot read property 'call' of undefined
 2145,MDU6SXNzdWUxMzg3ODMxNzc=,224,Source Maps don't work on Chrome
-10352,MDU6SXNzdWU1NjE0MTQ3NTM=,208,Merge Proposal: Module federation and code sharing between bundles. Many builds act as one
+10352,MDU6SXNzdWU1NjE0MTQ3NTM=,210,Merge Proposal: Module federation and code sharing between bundles. Many builds act as one
 1315,MDU6SXNzdWU5ODI4NjQ4MA==,183,Vendor chunkhash changes when app code changes
 8656,MDU6SXNzdWU0MDExNDkyNzk=,168,"Parsing of `import()` fails in 4.29.0 (Compilation issue, related to dynamic import)"
 2867,MDU6SXNzdWUxNzEwMjIwNTg=,163,Tree shaking completely broken?
@@ -36,9 +36,9 @@ Número da Issue,ID,Quant. comentários,Título
 1545,MDU6SXNzdWUxMTMwNjc3MDg=,61,what is the timeline for the release of webpack 2?
 418,MDU6SXNzdWU0MDgwMTI5Mw==,60,Opt-in to disable page reload when using HMR
 6767,MDU6SXNzdWUzMDU1ODAxNDc=,59,Webpack 4 hot rebuild time twice as slow
+1194,MDU6SXNzdWU5MDg1MDk4OA==,59,Webpack source maps are broken for debugging in Firefox
 370,MDU6SXNzdWUzODQ3NTMxMg==,59,Wildcards in entry points
 2362,MDU6SXNzdWUxNDk2MDc4OTg=,58,`another module with an equal name` warning - need more info
-1194,MDU6SXNzdWU5MDg1MDk4OA==,58,Webpack source maps are broken for debugging in Firefox
 4921,MDU6SXNzdWUyMzA5Mjk3MTM=,57,"Uncaught Error: Cannot find module ""."""
 125,MDU6SXNzdWUyMzQ0MTU2OA==,57,New watching solution
 4530,MDU6SXNzdWUyMTU5Mjg0OTE=,56,2.3.0 breaks path resolution on Windows

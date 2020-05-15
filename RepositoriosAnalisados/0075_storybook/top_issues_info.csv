@@ -20,9 +20,9 @@ Número da Issue,ID,Quant. comentários,Título
 4475,MDU6SXNzdWUzNzEzMjE1OTk=,50,framework-preset-vue requires `babel-preset-vue` but does not depend on it
 5721,MDU6SXNzdWU0MTMzNzcwMDk=,48,Cannot use React hooks directly inside a story
 3044,MDU6SXNzdWUyOTg5MTQ3OTU=,48,Webpack 4 support?
+9463,MDU6SXNzdWU1NTAxNjAwODE=,47,TS1086: An accessor cannot be declared in an ambient context
 2708,MDU6SXNzdWUyODc0MzA0ODQ=,47,addon-info doesn't show Proptypes and description
 1147,MDU6SXNzdWUyMzE5ODIzNjc=,47,Move `addon-info` into addons panel
-9463,MDU6SXNzdWU1NTAxNjAwODE=,46,TS1086: An accessor cannot be declared in an ambient context
 4796,MDU6SXNzdWUzODEzNjM2NDg=,44,Uncaught TypeError: Object(...) is not a function - @emotion
 4191,MDU6SXNzdWUzNjEwMzE3OTA=,44,Storybook 4 not compatible with react 15
 3955,MDU6SXNzdWUzNDc1OTY2NTg=,44,@storybook/react - support airbnb-js-shims v1 or v2?

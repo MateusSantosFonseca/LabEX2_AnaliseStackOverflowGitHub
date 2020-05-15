@@ -18,8 +18,8 @@ Número da Issue,ID,Quant. comentários,Título
 12409,MDU6SXNzdWUxODQyNjg5MTk=,108,TestBed.configureTestingModule Performance Issue
 8550,MDU6SXNzdWUxNTM4Mzc2MDg=,105,Use Closure Compiler with offline template compiler
 7791,MDU6SXNzdWUxNDM5MzY2ODA=,103,Changing route doesn't scroll to top in the new page
+30835,MDU6SXNzdWU0NTE3ODA4ODY=,102,"After upgrading to Angular 8, production builds can't load: Failed to load module script: The server responded with a non-JavaScript MIME type of ""text/plain"". Strict MIME type checking is enforced for module scripts per HTML spec."
 5689,MDU6SXNzdWUxMjA5MTY2MzY=,102,Proposal: Input as Observable
-30835,MDU6SXNzdWU0NTE3ODA4ODY=,101,"After upgrading to Angular 8, production builds can't load: Failed to load module script: The server responded with a non-JavaScript MIME type of ""text/plain"". Strict MIME type checking is enforced for module scripts per HTML spec."
 23609,MDU6SXNzdWUzMTg5MDg4NTE=,100,Function calls are not supported in decorators when fullTemplateTypeCheck is not specified and @dynamic has no effect
 10646,MDU6SXNzdWUxNzA0NzEzMjI=,98,"Using multiple components in different modules causing ""Type X is part of the declarations of 2 modules"" error"
 2684,MDU6SXNzdWU5MDE2MzYyMQ==,97,RFC: Http interceptors and transformers

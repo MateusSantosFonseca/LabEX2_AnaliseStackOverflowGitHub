@@ -10,7 +10,7 @@ Número da Issue,ID,Quant. comentários,Título
 6291,MDU6SXNzdWUzMzgyMjg2MTg=,95,Errors when processing large(ish) numbers of images with gatsby-plugin-sharp 
 17131,MDU6SXNzdWU0ODYxNDM3MTY=,94,"[fsevents bug] Stuck at ""source and transform nodes"" / ""createPagesStatefully"" on MacOS"
 3344,MDU6SXNzdWUyODQ2NDg2NjU=,92,[Discussion] Feature: GraphQL schema snapshots for all data sources to solve undefined/empty data issues
-21995,MDU6SXNzdWU1NzY0NzgzMjg=,87,[Umbrella] TypeScript Migration (Help wanted!)
+21995,MDU6SXNzdWU1NzY0NzgzMjg=,88,[Umbrella] TypeScript Migration (Help wanted!)
 18404,MDU6SXNzdWU1MDQ4NDE1MTk=,81,How to populate a React Context File with MDX data and asset files from a GraphQL query?
 11198,MDU6SXNzdWU0MDE1MzczNzE=,81,"Build fails after with ""Unexpected token"" in `async-requires` after upgrade to 2.0.84"
 3853,MDU6SXNzdWUyOTQyMDU4OTQ=,74,Add an official guide for internationalizing websites with Gatsby

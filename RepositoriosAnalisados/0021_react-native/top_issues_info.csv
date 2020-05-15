@@ -9,9 +9,9 @@ Número da Issue,ID,Quant. comentários,Título
 24261,MDU6SXNzdWU0MjgyMTY1ODk=,190,App Crash on Android OS 6 Samsung Galaxy S7 SM-G930FD (JSC Crash) 64 bit support  A/libc: Fatal signal 11 (SIGSEGV)
 23313,MDU6SXNzdWU0MDcyODg5NjA=,188, Lean Core
 10471,MDU6SXNzdWUxODQxNDc4MDY=,183,iOS: UI will be blocked when show Alert while closing Modal
+12981,MDU6SXNzdWUyMTQ4MjQ0NzI=,164,Add support for AlarmManager in Timing to allow proper handling of long timers
 18479,MDU6SXNzdWUzMDcxMTUzMTM=,162,more than one library with package name 'com.google.android.gms.license'
 5823,MDU6SXNzdWUxMzIyNDExNzI=,162,"Attempted to transition from state `RESPONDER_INACTIVE_PRESS_IN` to `RESPONDER_ACTIVE_LONG_PRESS_IN`, which is not supported."
-12981,MDU6SXNzdWUyMTQ4MjQ0NzI=,161,Add support for AlarmManager in Timing to allow proper handling of long timers
 15388,MDU6SXNzdWUyNDgyNjE2NzQ=,139,Could not connect to development server on android emulator and on real device
 8615,MDU6SXNzdWUxNjQxNTE4NDI=,139,iOS: NetInfo.isConnected returns always false
 1402,MDU6SXNzdWU4MDc4NDY4NQ==,138,[Initialization] Launch screen white flash

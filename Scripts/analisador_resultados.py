@@ -9,6 +9,9 @@ def string_strip_nao_alphanumericos(string):
 
 def get_numero_mencoes_issues(issues, questions, repositorio):
     mencoes = 0
+    quantidade_respostas_questions_relacionadas = 0
+    quantidade_estrelas_questions_relacionadas = 0
+    
     for issue in issues:
         titulo_splitado = issue['title'].split(" ")
         titulo_splitado = [string_strip_nao_alphanumericos(fragmento.lower().strip()) for fragmento in titulo_splitado]
@@ -18,8 +21,12 @@ def get_numero_mencoes_issues(issues, questions, repositorio):
             question_tags = [tag.lower().strip() for tag in question_tags]
             if (set(titulo_splitado_filtrado).intersection(question_tags)):
                 mencoes += 1
+                if(question.get('answer_count') is not None):
+                    quantidade_respostas_questions_relacionadas += int(question['answer_count'])
+                if(question.get('score') is not None):
+                    quantidade_estrelas_questions_relacionadas += int(question['score'])
                 
-    return str(mencoes)
+    return f"{str(mencoes)},{str(quantidade_respostas_questions_relacionadas)},{quantidade_estrelas_questions_relacionadas}"
 
 def get_mencoes_linguagens(questions, repositorio, linguagem_repositorio):
     linguagem_repositorio = linguagem_repositorio.lower()
@@ -48,8 +55,8 @@ def analisar_resultados(questions, repositorio, top_issues, bottom_issues):
         linguagem_repositorio = repositorio['primaryLanguage']['name']
     
     mencoes_linguagens = get_mencoes_linguagens(questions, repositorio, linguagem_repositorio)
-    mencoes_top_issues = get_numero_mencoes_issues(top_issues, questions, repositorio)
-    mencoes_bottom_issues = get_numero_mencoes_issues(bottom_issues, questions, repositorio)
+    mencoes_e_questions_top_issues = get_numero_mencoes_issues(top_issues, questions, repositorio)
+    mencoes_e_questions_bottom_issues = get_numero_mencoes_issues(bottom_issues, questions, repositorio)
     
-    resultado = f"{repositorio['name']},{linguagem_repositorio},{mencoes_linguagens},{mencoes_top_issues},{mencoes_bottom_issues}"
+    resultado = f"{repositorio['name']},{linguagem_repositorio},{mencoes_linguagens},{mencoes_e_questions_top_issues},{mencoes_e_questions_bottom_issues},"
     return resultado

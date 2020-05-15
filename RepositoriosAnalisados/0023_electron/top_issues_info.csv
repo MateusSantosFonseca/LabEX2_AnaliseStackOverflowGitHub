@@ -43,9 +43,9 @@ Número da Issue,ID,Quant. comentários,Título
 1484,MDU6SXNzdWU3MDYyMDY1NQ==,50,PHP app
 6437,MDU6SXNzdWUxNjQ3ODM2ODM=,49,Launching electron.exe while offline causes the executable to terminate immediately
 262,MDU6SXNzdWUzMjk2NDE3OA==,49,Notifications on Windows
+5267,MDU6SXNzdWUxNTA1NjUyNzA=,48,Strange overflowing window when maximizing a frameless window
 7779,MDU6SXNzdWUxODU3OTI5NTM=,47,ready-to-show never fires
 6599,MDU6SXNzdWUxNjc0NzE5Mzk=,47,Possible issues in desktopCapturer on Windows 10
-5267,MDU6SXNzdWUxNTA1NjUyNzA=,47,Strange overflowing window when maximizing a frameless window
 4380,MDU6SXNzdWUxMzE3MTk0MzI=,47,Black screen with an Nvidia GPU
+2357,MDU6SXNzdWU5NzQ1NzE4Nw==,47,White screen after some work of electron
 465,MDU6SXNzdWUzNzI4NjY0NA==,47,[Linux] Notifications Not Showing  Properly
-11907,MDU6SXNzdWUyOTY1ODI3NTg=,46,Native headerbars
